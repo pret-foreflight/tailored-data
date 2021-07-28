@@ -1,0 +1,59 @@
+[
+    {
+        "id": "STD_COMPANY",
+        "depict_type": "route_depiction",
+        "description": "Used for company routes",
+        "zoom_level": 2,
+        "reserved": true,
+        "lines": [
+            {
+                "style": "Solid",
+                "width": "Thin",
+                "gap": "None",
+                "opacity": 100,
+                "colors": {
+                    "light": "#733600",
+                    "dark": "#AF4200"
+                }
+            }
+        ]
+    },
+    {
+        "id": "STD_SPECIAL_PROC",
+        "depict_type": "route_depiction",
+        "description": "Used for special procedures",
+        "zoom_level": 2,
+        "reserved": true,
+        "lines": [
+            {
+                "style": "Solid",
+                "width": "Medium",
+                "gap": "None",
+                "opacity": 100,
+                "colors": {
+                    "light": "#733600",
+                    "dark": "#AF4200"
+                }
+            }
+        ]
+    },
+    {
+        "id": "STD_DIVERSION",
+        "depict_type": "route_depiction",
+        "description": "Used for diversions",
+        "zoom_level": 2,
+        "reserved": true,
+        "lines": [
+            {
+                "style": "Solid",
+                "width": "Medium",
+                "gap": "None",
+                "opacity": 100,
+                "colors": {
+                    "light": "#004690",
+                    "dark": "#007BD5"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "id": "STD_ETOPS",
+        "depict_type": "etops_depiction",
+        "description": "Current depiction",
+        "zoom_level": 0,
+        "reserved": true,
+        "lines": [
+            {
+                "style": "Dash",
+                "width": "Thin",
+                "gap": "None",
+                "opacity": 100,
+                "colors": {
+                    "light": "#846525",
+                    "dark": "#846525"
+                }
+            }
+        ]
+    },
+    {
+        "id": "STD_ETOPS_2",
+        "depict_type": "etops_depiction",
+        "description": "CTS Thin Continuous Line",
+        "zoom_level": 0,
+        "reserved": true,
+        "lines": [
+            {
+                "style": "Solid",
+                "width": "Thin",
+                "gap": "None",
+                "opacity": 100,
+                "colors": {
+                    "light": "#846525",
+                    "dark": "#846525"
+                }
+            }
+        ]
+    },
+    {
+        "id": "CMP_ETOPS",
+        "depict_type": "etops_depiction",
+        "description": null,
+        "zoom_level": 0,
+        "reserved": false,
+        "lines": [
+            {
+                "style": "Solid",
+                "width": "Thick",
+                "gap": "None",
+                "opacity": 50,
+                "colors": {
+                    "light": "#429A50",
+                    "dark": "#006900"
+                }
+            },
+            {
+                "style": "Solid",
+                "width": "Thick",
+                "gap": "Narrow",
+                "opacity": 25,
+                "colors": {
+                    "light": "#429A50",
+                    "dark": "#006900"
+                }
+            }
+        ]
+    }
+]

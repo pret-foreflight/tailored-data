@@ -1,0 +1,162 @@
+[
+    {
+        "id": "OIIX-OI-4",
+        "nav_type": "ref_boundary",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "OIIX",
+            "nav_type": "std_fir",
+            "icao_region": "OI",
+            "ref_id": null
+        },
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "NOA",
+            "description": "Iran",
+            "upper_limit": {
+                "altitude": "29900",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "lower_limit": {
+                "altitude": "Ground",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        }
+    },
+    {
+        "id": "UKBV-UK-5",
+        "nav_type": "ref_boundary",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "UKBV",
+            "nav_type": "std_fir",
+            "icao_region": "UK",
+            "ref_id": null
+        },
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "NFA",
+            "description": "Ukraine",
+            "upper_limit": {
+                "altitude": "Unlimited",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "lower_limit": {
+                "altitude": "Ground",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        }
+    },
+    {
+        "id": "ZKKP-ZK-6",
+        "nav_type": "ref_boundary",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "ZKKP",
+            "nav_type": "std_fir",
+            "icao_region": "ZK",
+            "ref_id": null
+        },
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "NFA",
+            "description": "North Korea",
+            "upper_limit": {
+                "altitude": "Unlimited",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "lower_limit": {
+                "altitude": "Ground",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        }
+    },
+    {
+        "id": "56-K6-7",
+        "nav_type": "ref_boundary",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "56",
+            "nav_type": "std_sua",
+            "icao_region": "K6",
+            "ref_id": null
+        },
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "NOA",
+            "description": "DCP56A-K6 Prohibited Areas",
+            "upper_limit": {
+                "altitude": "18000",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "lower_limit": {
+                "altitude": "Ground",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        }
+    },
+    {
+        "id": "SCATANA-OE-8",
+        "nav_type": "ref_boundary",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "SCATANA",
+            "nav_type": "std_sua",
+            "icao_region": "OE",
+            "ref_id": null
+        },
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "NFA",
+            "description": "SCATANA ADIZ RESTRICTED AREA NO FLY",
+            "upper_limit": {
+                "altitude": "Unlimited",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "lower_limit": {
+                "altitude": "Ground",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        }
+    }
+]

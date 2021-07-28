@@ -1,0 +1,106 @@
+[
+    {
+        "id": "PRI",
+        "nav_type": "airport_usage",
+        "description": "Primary",
+        "name": "PRI",
+        "reserved": true,
+        "depict_id": "STD_BROWN"
+    },
+    {
+        "id": "ALT",
+        "nav_type": "airport_usage",
+        "description": "Alternate",
+        "name": "ALT",
+        "reserved": true,
+        "depict_id": "STD_BROWN"
+    },
+    {
+        "id": "CAT-A",
+        "nav_type": "airport_usage",
+        "description": "Category A",
+        "name": "CAT-A",
+        "reserved": true,
+        "depict_id": "STD_BROWN"
+    },
+    {
+        "id": "CAT-B",
+        "nav_type": "airport_usage",
+        "description": "Category B",
+        "name": "CAT-B",
+        "reserved": true,
+        "depict_id": "STD_BROWN"
+    },
+    {
+        "id": "CAT-C",
+        "nav_type": "airport_usage",
+        "description": "Category C",
+        "name": "CAT-C",
+        "reserved": true,
+        "depict_id": "STD_BROWN"
+    },
+    {
+        "id": "EMER",
+        "nav_type": "airport_usage",
+        "description": "Emergency",
+        "name": "EMER",
+        "reserved": true,
+        "depict_id": "STD_RED"
+    },
+    {
+        "id": "REG",
+        "nav_type": "airport_usage",
+        "description": "Regular",
+        "name": "REG",
+        "reserved": true,
+        "depict_id": "STD_BROWN"
+    },
+    {
+        "id": "PROV",
+        "nav_type": "airport_usage",
+        "description": "Provisional",
+        "name": "PROV",
+        "reserved": true,
+        "depict_id": "STD_BROWN"
+    },
+    {
+        "id": "CHARTER",
+        "nav_type": "airport_usage",
+        "description": "Charter",
+        "name": "CHARTER",
+        "reserved": true,
+        "depict_id": "STD_BROWN"
+    },
+    {
+        "id": "REFUEL",
+        "nav_type": "airport_usage",
+        "description": "Refueling",
+        "name": "REFUEL",
+        "reserved": true,
+        "depict_id": "STD_BROWN"
+    },
+    {
+        "id": "SUPP",
+        "nav_type": "airport_usage",
+        "description": "Supplemental",
+        "name": "SUPP",
+        "reserved": true,
+        "depict_id": "STD_BROWN"
+    },
+    {
+        "id": "CMP_MIL",
+        "nav_type": "airport_usage",
+        "description": "Military",
+        "name": "MIL",
+        "reserved": false,
+        "depict_id": "CMP_MIL"
+    },
+    {
+        "id": "CMP_ZASA",
+        "nav_type": "airport_usage",
+        "description": "Zombie Apocalypse Safety Area",
+        "name": "ZASA",
+        "reserved": false,
+        "depict_id": "STD_RED"
+    }
+]

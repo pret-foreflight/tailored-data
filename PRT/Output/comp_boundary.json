@@ -1,0 +1,4035 @@
+[
+    {
+        "id": "GDLE_10o_1-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ALT_CHG",
+            "description": "Greenland 10o Zone",
+            "icao_region": "BG",
+            "ident": "GDLE_10o_1",
+            "inline_label": null,
+            "label": "10o",
+            "notification": null,
+            "upper_limit": {
+                "altitude": "Unlimited",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "lower_limit": {
+                "altitude": "10000",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -55,
+                        84
+                    ],
+                    [
+                        -70,
+                        80
+                    ],
+                    [
+                        -70,
+                        75
+                    ],
+                    [
+                        -58,
+                        75
+                    ],
+                    [
+                        -58,
+                        69
+                    ],
+                    [
+                        -55,
+                        69
+                    ],
+                    [
+                        -55,
+                        67
+                    ],
+                    [
+                        -48,
+                        67
+                    ],
+                    [
+                        -48,
+                        69
+                    ],
+                    [
+                        -47,
+                        69
+                    ],
+                    [
+                        -47,
+                        70
+                    ],
+                    [
+                        -48,
+                        70
+                    ],
+                    [
+                        -48,
+                        71
+                    ],
+                    [
+                        -53,
+                        71
+                    ],
+                    [
+                        -53,
+                        77
+                    ],
+                    [
+                        -55,
+                        77
+                    ],
+                    [
+                        -55,
+                        80
+                    ],
+                    [
+                        -35,
+                        80
+                    ],
+                    [
+                        -35,
+                        77
+                    ],
+                    [
+                        -25,
+                        77
+                    ],
+                    [
+                        -25,
+                        76
+                    ],
+                    [
+                        -27,
+                        76
+                    ],
+                    [
+                        -27,
+                        74
+                    ],
+                    [
+                        -24,
+                        74
+                    ],
+                    [
+                        -24,
+                        71
+                    ],
+                    [
+                        -26,
+                        71
+                    ],
+                    [
+                        -26,
+                        69
+                    ],
+                    [
+                        -27,
+                        69
+                    ],
+                    [
+                        -27,
+                        68.5
+                    ],
+                    [
+                        -20,
+                        68.5
+                    ],
+                    [
+                        -20,
+                        72
+                    ],
+                    [
+                        -15,
+                        72
+                    ],
+                    [
+                        -15,
+                        84
+                    ],
+                    [
+                        -55,
+                        84
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_10o_3-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ALT_CHG",
+            "description": "Greenland 10o Zone (left of Zone 9)",
+            "icao_region": "BG",
+            "ident": "GLDE_10o_3",
+            "inline_label": null,
+            "label": "10o",
+            "notification": null,
+            "upper_limit": {
+                "altitude": "Unlimited",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "lower_limit": {
+                "altitude": "10000",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -55,
+                        66
+                    ],
+                    [
+                        -55,
+                        65
+                    ],
+                    [
+                        -53,
+                        65
+                    ],
+                    [
+                        -53,
+                        62
+                    ],
+                    [
+                        -50,
+                        62
+                    ],
+                    [
+                        -50,
+                        66
+                    ],
+                    [
+                        -55,
+                        66
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_10o_4-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ALT_CHG",
+            "description": "Greenland 10o Zone (right of Zone 9)",
+            "icao_region": "BG",
+            "ident": "GLDE_10o_4",
+            "inline_label": null,
+            "label": "10o",
+            "notification": null,
+            "upper_limit": {
+                "altitude": "Unlimited",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "lower_limit": {
+                "altitude": "10000",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -42,
+                        66
+                    ],
+                    [
+                        -42,
+                        62
+                    ],
+                    [
+                        -36.5,
+                        62
+                    ],
+                    [
+                        -36.5,
+                        66
+                    ],
+                    [
+                        -42,
+                        66
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_13o_1-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ALT_CHG",
+            "description": "Greenland 13o Zone",
+            "icao_region": "BG",
+            "ident": "GLDE_13o_1",
+            "inline_label": null,
+            "label": "13o",
+            "notification": null,
+            "upper_limit": {
+                "altitude": "Unlimited",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "lower_limit": {
+                "altitude": "13000",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -55,
+                        80
+                    ],
+                    [
+                        -55,
+                        77
+                    ],
+                    [
+                        -53,
+                        77
+                    ],
+                    [
+                        -53,
+                        71
+                    ],
+                    [
+                        -48,
+                        71
+                    ],
+                    [
+                        -48,
+                        70
+                    ],
+                    [
+                        -47,
+                        70
+                    ],
+                    [
+                        -47,
+                        69
+                    ],
+                    [
+                        -48,
+                        69
+                    ],
+                    [
+                        -48,
+                        67
+                    ],
+                    [
+                        -55,
+                        67
+                    ],
+                    [
+                        -55,
+                        66
+                    ],
+                    [
+                        -36.5,
+                        66
+                    ],
+                    [
+                        -36.5,
+                        69
+                    ],
+                    [
+                        -39,
+                        69
+                    ],
+                    [
+                        -39,
+                        72
+                    ],
+                    [
+                        -45,
+                        72
+                    ],
+                    [
+                        -45,
+                        74
+                    ],
+                    [
+                        -34,
+                        74
+                    ],
+                    [
+                        -34,
+                        70
+                    ],
+                    [
+                        -35,
+                        70
+                    ],
+                    [
+                        -35,
+                        66
+                    ],
+                    [
+                        -31,
+                        66
+                    ],
+                    [
+                        -31,
+                        69
+                    ],
+                    [
+                        -26,
+                        69
+                    ],
+                    [
+                        -26,
+                        71
+                    ],
+                    [
+                        -24,
+                        71
+                    ],
+                    [
+                        -24,
+                        74
+                    ],
+                    [
+                        -27,
+                        74
+                    ],
+                    [
+                        -27,
+                        76
+                    ],
+                    [
+                        -25,
+                        76
+                    ],
+                    [
+                        -25,
+                        77
+                    ],
+                    [
+                        -35,
+                        77
+                    ],
+                    [
+                        -35,
+                        80
+                    ],
+                    [
+                        -55,
+                        80
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_13o_2-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ALT_CHG",
+            "description": "Greenland 13o Zone (under Zone 9)",
+            "icao_region": "BG",
+            "ident": "GLDE_13o_2",
+            "inline_label": null,
+            "label": "13o",
+            "notification": null,
+            "upper_limit": {
+                "altitude": "Unlimited",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "lower_limit": {
+                "altitude": "13000",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -50,
+                        66
+                    ],
+                    [
+                        -50,
+                        60
+                    ],
+                    [
+                        -42,
+                        60
+                    ],
+                    [
+                        -42,
+                        66
+                    ],
+                    [
+                        -50,
+                        66
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_15o_1-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ALT_CHG",
+            "description": "Greenland 15o Zone (under Zone 3)",
+            "icao_region": "BG",
+            "ident": "GLDE_15o_1",
+            "inline_label": null,
+            "label": "15o",
+            "notification": null,
+            "upper_limit": {
+                "altitude": "Unlimited",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "lower_limit": {
+                "altitude": "15000",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -39,
+                        72
+                    ],
+                    [
+                        -39,
+                        69
+                    ],
+                    [
+                        -36.5,
+                        69
+                    ],
+                    [
+                        -36.5,
+                        72
+                    ],
+                    [
+                        -39,
+                        72
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_15o_2-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ALT_CHG",
+            "description": "Greenland 15o Zone (under Zone 4)",
+            "icao_region": "BG",
+            "ident": "GLDE_15o_2",
+            "inline_label": null,
+            "label": "15o",
+            "notification": null,
+            "upper_limit": {
+                "altitude": "Unlimited",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "lower_limit": {
+                "altitude": "15000",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -36.5,
+                        72
+                    ],
+                    [
+                        -36.5,
+                        69
+                    ],
+                    [
+                        -35,
+                        69
+                    ],
+                    [
+                        -35,
+                        70
+                    ],
+                    [
+                        -34,
+                        70
+                    ],
+                    [
+                        -34,
+                        72
+                    ],
+                    [
+                        -36.5,
+                        72
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_15o_3-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ALT_CHG",
+            "description": "Greenland 15o Zone (under Zone 7)",
+            "icao_region": "BG",
+            "ident": "GLDE_15o_3",
+            "inline_label": null,
+            "label": "15o",
+            "notification": null,
+            "upper_limit": {
+                "altitude": "Unlimited",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "lower_limit": {
+                "altitude": "15000",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -36.5,
+                        69
+                    ],
+                    [
+                        -36.5,
+                        66
+                    ],
+                    [
+                        -35,
+                        66
+                    ],
+                    [
+                        -35,
+                        69
+                    ],
+                    [
+                        -36.5,
+                        69
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_17o_1-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ALT_CHG",
+            "description": "Greenland 17o Zone",
+            "icao_region": "BG",
+            "ident": "GLDE_17o_1",
+            "inline_label": null,
+            "label": "17o",
+            "notification": null,
+            "upper_limit": {
+                "altitude": "Unlimited",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "lower_limit": {
+                "altitude": "17000",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -31,
+                        68.5
+                    ],
+                    [
+                        -31,
+                        68
+                    ],
+                    [
+                        -27,
+                        68
+                    ],
+                    [
+                        -27,
+                        68.5
+                    ],
+                    [
+                        -31,
+                        68.5
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_17o_2-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ALT_CHG",
+            "description": "Greenland 17o Zone",
+            "icao_region": "BG",
+            "ident": "GLDE_17o_2",
+            "inline_label": null,
+            "label": "17o",
+            "notification": null,
+            "upper_limit": {
+                "altitude": "Unlimited",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "lower_limit": {
+                "altitude": "17000",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -31,
+                        68.5
+                    ],
+                    [
+                        -27,
+                        68.5
+                    ],
+                    [
+                        -27,
+                        69
+                    ],
+                    [
+                        -31,
+                        69
+                    ],
+                    [
+                        -31,
+                        68.5
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_TNFA-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ALT_CHG",
+            "description": "Greenland No Fly Zone",
+            "icao_region": "BG",
+            "ident": "GLDE_TNFA",
+            "inline_label": null,
+            "label": "16o",
+            "notification": null,
+            "upper_limit": {
+                "altitude": "Unlimited",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "lower_limit": {
+                "altitude": "16000",
+                "unit": "ft",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -45,
+                        74
+                    ],
+                    [
+                        -45,
+                        72
+                    ],
+                    [
+                        -39,
+                        72
+                    ],
+                    [
+                        -36.5,
+                        72
+                    ],
+                    [
+                        -34,
+                        72
+                    ],
+                    [
+                        -34,
+                        74
+                    ],
+                    [
+                        -40,
+                        74
+                    ],
+                    [
+                        -45,
+                        74
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_Z1_ESC-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "CMP_ESC-TO_LINE",
+            "description": "For escape fly due west to 60\u02da W",
+            "icao_region": "BG",
+            "ident": "GLDE_Z1_ESC",
+            "inline_label": null,
+            "label": "60W",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -60,
+                    80
+                ],
+                [
+                    -60,
+                    72
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_Z2_ESC-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "CMP_ESC-TO_LINE",
+            "description": "For escape fly due east to 20\u02da W",
+            "icao_region": "BG",
+            "ident": "GLDE_Z2_ESC",
+            "inline_label": null,
+            "label": "20W",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -20,
+                    80
+                ],
+                [
+                    -20,
+                    72
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_Z6E_ESC-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "CMP_ESC-TO_LINE",
+            "description": "For escape fly due east to 35\u02da W",
+            "icao_region": "BG",
+            "ident": "GLDE_Z6E_ESC",
+            "inline_label": null,
+            "label": "35W",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -35,
+                    66
+                ],
+                [
+                    -35,
+                    60
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_Z6W_ESC-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "CMP_ESC-TO_LINE",
+            "description": "For escape fly due west to 55\u02da W",
+            "icao_region": "BG",
+            "ident": "GLDE_Z6W_ESC",
+            "inline_label": null,
+            "label": "55W",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -55,
+                    66
+                ],
+                [
+                    -55,
+                    60
+                ]
+            ]
+        }
+    },
+    {
+        "id": "CAR1-SK",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "DFS",
+            "description": "Caribbean1 - Taken from RPC",
+            "icao_region": "SK",
+            "ident": "CAR1",
+            "inline_label": "162NM",
+            "label": "Caribbean 1",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -71.7564,
+                    14.7622
+                ],
+                [
+                    -71.78,
+                    14.761
+                ],
+                [
+                    -72.6275,
+                    14.9301
+                ],
+                [
+                    -73.3841,
+                    15.3407
+                ],
+                [
+                    -74.1685,
+                    15.324
+                ],
+                [
+                    -74.8953,
+                    15.4916
+                ],
+                [
+                    -75.6751,
+                    15.2234
+                ],
+                [
+                    -75.922,
+                    14.9789
+                ],
+                [
+                    -76.1837,
+                    14.4627
+                ],
+                [
+                    -76.5521,
+                    14.0091
+                ],
+                [
+                    -77.0034,
+                    13.6439
+                ],
+                [
+                    -77.5653,
+                    13.3425
+                ],
+                [
+                    -78.594,
+                    13.1077
+                ],
+                [
+                    -78.6098,
+                    13.1087
+                ]
+            ]
+        }
+    },
+    {
+        "id": "CAR2-TT",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "DFS",
+            "description": "Caribbean2 - Taken from RPC",
+            "icao_region": "TT",
+            "ident": "CAR2",
+            "inline_label": "162NM",
+            "label": "Caribbean 2",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -64.1083,
+                    13.5198
+                ],
+                [
+                    -64.0065,
+                    13.7167
+                ],
+                [
+                    -63.9132,
+                    14.0902
+                ],
+                [
+                    -64.056,
+                    14.4689
+                ],
+                [
+                    -64.4013,
+                    14.9943
+                ],
+                [
+                    -65.2073,
+                    14.9765
+                ],
+                [
+                    -66.0655,
+                    15.2043
+                ],
+                [
+                    -67.3939,
+                    15.216
+                ],
+                [
+                    -69.5924,
+                    15.5439
+                ],
+                [
+                    -69.9637,
+                    15.33
+                ]
+            ]
+        }
+    },
+    {
+        "id": "CAR3-MH",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "DFS",
+            "description": "Caribbean3 - Taken from RPC",
+            "icao_region": "MH",
+            "ident": "CAR3",
+            "inline_label": "162NM",
+            "label": "Caribbean 3",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -84.2488,
+                    18.9924
+                ],
+                [
+                    -84.3721,
+                    19.0102
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GULF1-MM",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "DFS",
+            "description": "Gulf - Taken from RPC",
+            "icao_region": "MM",
+            "ident": "GULF1",
+            "inline_label": "162NM",
+            "label": "Gulf 1",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -87.1394,
+                    26.9311
+                ],
+                [
+                    -87.5645,
+                    26.6561
+                ],
+                [
+                    -88.0347,
+                    26.4496
+                ],
+                [
+                    -88.4908,
+                    26.3262
+                ],
+                [
+                    -89.1543,
+                    26.2299
+                ],
+                [
+                    -89.7576,
+                    26.2363
+                ],
+                [
+                    -90.3498,
+                    26.3492
+                ],
+                [
+                    -90.9521,
+                    26.3364
+                ],
+                [
+                    -91.4949,
+                    26.3883
+                ],
+                [
+                    -92.1203,
+                    26.5569
+                ],
+                [
+                    -92.7032,
+                    26.8442
+                ],
+                [
+                    -93.2315,
+                    26.9303
+                ],
+                [
+                    -93.7115,
+                    26.6044
+                ],
+                [
+                    -94.1683,
+                    26.3841
+                ],
+                [
+                    -94.1513,
+                    25.8014
+                ],
+                [
+                    -94.2141,
+                    25.3184
+                ],
+                [
+                    -94.4003,
+                    24.7077
+                ],
+                [
+                    -94.7746,
+                    23.981
+                ],
+                [
+                    -94.8318,
+                    23.0321
+                ],
+                [
+                    -94.4871,
+                    22.4031
+                ],
+                [
+                    -94.3295,
+                    21.7069
+                ],
+                [
+                    -93.9553,
+                    21.2024
+                ],
+                [
+                    -93.8497,
+                    21.1109
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GULF2-MU",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "DFS",
+            "description": "Gulf - Taken from RPC",
+            "icao_region": "MU",
+            "ident": "GULF2",
+            "inline_label": "162NM",
+            "label": "Gulf 2",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -93.8497,
+                    21.1109
+                ],
+                [
+                    -93.2768,
+                    21.2717
+                ],
+                [
+                    -93.0341,
+                    22.0164
+                ],
+                [
+                    -92.6948,
+                    22.5882
+                ],
+                [
+                    -92.5977,
+                    23.2397
+                ],
+                [
+                    -92.3313,
+                    23.8513
+                ],
+                [
+                    -92.0879,
+                    24.1922
+                ],
+                [
+                    -91.7917,
+                    24.4938
+                ],
+                [
+                    -91.4364,
+                    24.7593
+                ],
+                [
+                    -91.0545,
+                    24.9652
+                ],
+                [
+                    -90.6157,
+                    25.1233
+                ],
+                [
+                    -90.1286,
+                    25.2179
+                ],
+                [
+                    -89.6449,
+                    25.2364
+                ],
+                [
+                    -89.1637,
+                    25.1818
+                ],
+                [
+                    -88.6981,
+                    25.0549
+                ],
+                [
+                    -88.2644,
+                    24.8605
+                ],
+                [
+                    -87.8877,
+                    24.6152
+                ],
+                [
+                    -87.5168,
+                    24.2881
+                ],
+                [
+                    -87.0444,
+                    24.3148
+                ],
+                [
+                    -86.576,
+                    24.2713
+                ],
+                [
+                    -85.8852,
+                    24.8235
+                ],
+                [
+                    -85.834,
+                    25.1846
+                ],
+                [
+                    -85.7295,
+                    25.5365
+                ],
+                [
+                    -85.5728,
+                    25.8731
+                ],
+                [
+                    -85.3681,
+                    26.1864
+                ],
+                [
+                    -85.5586,
+                    26.5412
+                ],
+                [
+                    -85.7094,
+                    26.9428
+                ],
+                [
+                    -86.343,
+                    27.101
+                ],
+                [
+                    -86.7733,
+                    27.2643
+                ],
+                [
+                    -87.1394,
+                    26.9311
+                ]
+            ]
+        }
+    },
+    {
+        "id": "ISLD1-MP",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "DFS",
+            "description": "Islands1 - Taken from RPC",
+            "icao_region": "MP",
+            "ident": "ISLD1",
+            "inline_label": "162NM",
+            "label": "Island 1",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -78.6098,
+                    13.1087
+                ],
+                [
+                    -78.6236,
+                    12.9059
+                ],
+                [
+                    -78.7658,
+                    12.3917
+                ],
+                [
+                    -79.3083,
+                    11.2445
+                ]
+            ]
+        }
+    },
+    {
+        "id": "ISLD2-TN",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "DFS",
+            "description": "Islands2 - Taken from RPC",
+            "icao_region": "TN",
+            "ident": "ISLD2",
+            "inline_label": "162NM",
+            "label": "Island 2",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -72.4407,
+                    13.9591
+                ],
+                [
+                    -72.1795,
+                    14.3668
+                ],
+                [
+                    -71.7564,
+                    14.7622
+                ]
+            ]
+        }
+    },
+    {
+        "id": "ISLD3-TN",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "DFS",
+            "description": "Islands3 - Taken from RPC",
+            "icao_region": "TN",
+            "ident": "ISLD3",
+            "inline_label": "162NM",
+            "label": "Island 3",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -69.9637,
+                    15.33
+                ],
+                [
+                    -67.5641,
+                    14.9041
+                ],
+                [
+                    -66.8648,
+                    14.6014
+                ],
+                [
+                    -66.3694,
+                    14.2614
+                ],
+                [
+                    -65.9987,
+                    13.8717
+                ],
+                [
+                    -65.7141,
+                    13.4186
+                ],
+                [
+                    -65.6566,
+                    13.266
+                ]
+            ]
+        }
+    },
+    {
+        "id": "ISLD4-MH",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "DFS",
+            "description": "Islands4 - Taken from RPC",
+            "icao_region": "MH",
+            "ident": "ISLD4",
+            "inline_label": "162NM",
+            "label": "Island 4",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -84.3721,
+                    19.0102
+                ],
+                [
+                    -84.4529,
+                    18.8905
+                ],
+                [
+                    -84.1957,
+                    18.7336
+                ],
+                [
+                    -84.243,
+                    18.9493
+                ],
+                [
+                    -84.2488,
+                    18.9924
+                ]
+            ]
+        }
+    },
+    {
+        "id": "LAM-MM",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "DFS",
+            "description": "Latin America - Taken from SWA",
+            "icao_region": "MM",
+            "ident": "LAM",
+            "inline_label": "100NM",
+            "label": "Latin America",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -108.01833,
+                    19.14
+                ],
+                [
+                    -113.65833,
+                    23.55167
+                ],
+                [
+                    -114.02,
+                    24.76833
+                ],
+                [
+                    -113.975,
+                    25.105
+                ],
+                [
+                    -114.60833,
+                    25.27
+                ],
+                [
+                    -115.00333,
+                    25.67667
+                ],
+                [
+                    -115.54667,
+                    25.95
+                ],
+                [
+                    -116.41,
+                    27.32167
+                ],
+                [
+                    -117.07167,
+                    28.14333
+                ],
+                [
+                    -116.9,
+                    29.06
+                ],
+                [
+                    -118.58333,
+                    30.63167
+                ],
+                [
+                    -119.765,
+                    32.65333
+                ],
+                [
+                    -120.14167,
+                    32.90167
+                ]
+            ]
+        }
+    },
+    {
+        "id": "NAM-K2",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "DFS",
+            "description": "North America - Taken from AAL",
+            "icao_region": "K2",
+            "ident": "NAM",
+            "inline_label": "100NM",
+            "label": "North America",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -121.3574,
+                    32.5342
+                ],
+                [
+                    -121.8566,
+                    32.8421
+                ],
+                [
+                    -122.296,
+                    33.381
+                ],
+                [
+                    -122.6715,
+                    34.4404
+                ],
+                [
+                    -123.6426,
+                    35.4212
+                ],
+                [
+                    -123.9409,
+                    36.0619
+                ],
+                [
+                    -124.7836,
+                    36.8135
+                ],
+                [
+                    -125.0155,
+                    37.2113
+                ],
+                [
+                    -125.1114,
+                    37.636
+                ],
+                [
+                    -125.6677,
+                    38.2354
+                ],
+                [
+                    -125.9539,
+                    39.1319
+                ],
+                [
+                    -126.3707,
+                    39.6362
+                ],
+                [
+                    -126.5792,
+                    40.2759
+                ],
+                [
+                    -126.5634,
+                    40.7379
+                ],
+                [
+                    -126.3675,
+                    41.2628
+                ],
+                [
+                    -126.7849,
+                    42.5168
+                ],
+                [
+                    -126.831,
+                    42.918
+                ],
+                [
+                    -126.4572,
+                    44.0665
+                ],
+                [
+                    -126.3492,
+                    45.597
+                ],
+                [
+                    -126.5962,
+                    46.7587
+                ],
+                [
+                    -127.2013,
+                    47.8706
+                ],
+                [
+                    -127.2158,
+                    48.6713
+                ]
+            ]
+        }
+    },
+    {
+        "id": "SOUTH1-SV",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "DFS",
+            "description": "South1 - Taken from RPC",
+            "icao_region": "SV",
+            "ident": "SOUTH1",
+            "inline_label": "100NM",
+            "label": "South 1",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -79.3083,
+                    11.2445
+                ],
+                [
+                    -78.5544,
+                    11.1906
+                ],
+                [
+                    -77.2731,
+                    10.7147
+                ],
+                [
+                    -77.1269,
+                    11.1355
+                ],
+                [
+                    -76.7752,
+                    11.6994
+                ],
+                [
+                    -75.7848,
+                    12.4914
+                ],
+                [
+                    -74.6163,
+                    12.9412
+                ],
+                [
+                    -73.8872,
+                    12.9723
+                ],
+                [
+                    -73.5879,
+                    13.1473
+                ],
+                [
+                    -73.0,
+                    13.6892
+                ],
+                [
+                    -72.4407,
+                    13.9591
+                ]
+            ]
+        }
+    },
+    {
+        "id": "SOUTH2-TT",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "DFS",
+            "description": "South2 - Taken from RPC",
+            "icao_region": "TT",
+            "ident": "SOUTH2",
+            "inline_label": "100NM",
+            "label": "South 2",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -65.6566,
+                    13.266
+                ],
+                [
+                    -65.5845,
+                    13.3285
+                ],
+                [
+                    -65.1312,
+                    13.5399
+                ],
+                [
+                    -64.6342,
+                    13.6125
+                ],
+                [
+                    -64.2092,
+                    13.5597
+                ],
+                [
+                    -64.1083,
+                    13.5198
+                ]
+            ]
+        }
+    },
+    {
+        "id": "WATRS1-K6",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "DFS",
+            "description": "WATRS1 - Taken from RPC",
+            "icao_region": "K6",
+            "ident": "WATRS1",
+            "inline_label": "100NM",
+            "label": "Waters 1",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -62.1151,
+                    43.1028
+                ],
+                [
+                    -63.0014,
+                    42.8184
+                ],
+                [
+                    -64.2397,
+                    42.0322
+                ],
+                [
+                    -65.2002,
+                    41.7507
+                ],
+                [
+                    -66.1038,
+                    41.7256
+                ],
+                [
+                    -66.6442,
+                    41.7906
+                ],
+                [
+                    -67.2036,
+                    41.973
+                ],
+                [
+                    -67.7913,
+                    42.3083
+                ],
+                [
+                    -67.7008,
+                    41.7495
+                ],
+                [
+                    -67.7917,
+                    40.9616
+                ],
+                [
+                    -68.0049,
+                    40.4999
+                ],
+                [
+                    -68.3718,
+                    40.1067
+                ],
+                [
+                    -68.8028,
+                    39.8367
+                ],
+                [
+                    -69.3053,
+                    39.6579
+                ],
+                [
+                    -69.8616,
+                    39.5737
+                ],
+                [
+                    -70.8167,
+                    39.5813
+                ],
+                [
+                    -72.0779,
+                    39.1734
+                ],
+                [
+                    -72.5431,
+                    38.5203
+                ],
+                [
+                    -72.9686,
+                    38.1328
+                ],
+                [
+                    -73.2732,
+                    37.4189
+                ],
+                [
+                    -73.7849,
+                    36.7212
+                ],
+                [
+                    -73.4397,
+                    35.8608
+                ],
+                [
+                    -73.5104,
+                    35.0
+                ]
+            ]
+        }
+    },
+    {
+        "id": "WATRS2-K7",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "DFS",
+            "description": "WATRS2 - Taken from RPC",
+            "icao_region": "K7",
+            "ident": "WATRS2",
+            "inline_label": "162NM",
+            "label": "Waters 2",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -73.5104,
+                    35.0
+                ],
+                [
+                    -72.2269,
+                    35.0
+                ],
+                [
+                    -72.5359,
+                    34.114
+                ],
+                [
+                    -73.1246,
+                    33.3839
+                ],
+                [
+                    -74.7432,
+                    32.3401
+                ],
+                [
+                    -75.6127,
+                    31.999
+                ],
+                [
+                    -76.1877,
+                    31.5898
+                ],
+                [
+                    -76.8567,
+                    31.3029
+                ],
+                [
+                    -78.1933,
+                    30.383
+                ],
+                [
+                    -77.8963,
+                    29.9333
+                ],
+                [
+                    -76.1745,
+                    29.3747
+                ],
+                [
+                    -74.9887,
+                    28.6301
+                ],
+                [
+                    -74.3755,
+                    27.9746
+                ],
+                [
+                    -74.1332,
+                    27.5251
+                ],
+                [
+                    -73.9882,
+                    27.0461
+                ],
+                [
+                    -73.7162,
+                    26.7558
+                ],
+                [
+                    -73.0346,
+                    26.5122
+                ],
+                [
+                    -72.4437,
+                    26.1271
+                ],
+                [
+                    -72.0014,
+                    25.6585
+                ],
+                [
+                    -71.6962,
+                    25.1293
+                ],
+                [
+                    -71.2563,
+                    24.6851
+                ],
+                [
+                    -69.9634,
+                    24.0469
+                ],
+                [
+                    -69.1935,
+                    23.5392
+                ],
+                [
+                    -68.5844,
+                    22.8242
+                ],
+                [
+                    -68.2421,
+                    21.9119
+                ],
+                [
+                    -67.6477,
+                    21.6335
+                ],
+                [
+                    -67.1286,
+                    21.2271
+                ],
+                [
+                    -65.7172,
+                    21.1598
+                ],
+                [
+                    -65.0625,
+                    21.3867
+                ],
+                [
+                    -64.3509,
+                    21.4607
+                ],
+                [
+                    -62.7984,
+                    21.2421
+                ],
+                [
+                    -62.0289,
+                    20.965
+                ],
+                [
+                    -61.0416,
+                    20.3312
+                ],
+                [
+                    -60.3016,
+                    20.01
+                ],
+                [
+                    -59.8652,
+                    19.6939
+                ],
+                [
+                    -59.3213,
+                    19.0601
+                ],
+                [
+                    -58.9761,
+                    18.2344
+                ],
+                [
+                    -58.6341,
+                    17.8159
+                ],
+                [
+                    -58.383,
+                    17.3384
+                ],
+                [
+                    -58.2001,
+                    16.5707
+                ],
+                [
+                    -58.2468,
+                    15.6989
+                ],
+                [
+                    -57.7318,
+                    15.3392
+                ],
+                [
+                    -57.2212,
+                    14.8104
+                ],
+                [
+                    -56.9069,
+                    14.3014
+                ],
+                [
+                    -56.7127,
+                    13.7289
+                ],
+                [
+                    -56.6575,
+                    12.9873
+                ],
+                [
+                    -56.8107,
+                    12.2517
+                ],
+                [
+                    -57.1865,
+                    11.5436
+                ],
+                [
+                    -57.7677,
+                    10.9436
+                ],
+                [
+                    -57.8796,
+                    10.461
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_Z1-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ESC_ZONE",
+            "description": "Greenland Decompression Escape Route Zone 1",
+            "icao_region": "BG",
+            "ident": "GLDE_Z1",
+            "inline_label": "Zone 1",
+            "label": "Zone 1",
+            "notification": 5,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [
+                "glde-gen",
+                "isa-temp"
+            ],
+            "divert_to": [
+                {
+                    "reference": {
+                        "ident": null,
+                        "nav_type": "ref_airport",
+                        "icao_region": null,
+                        "ref_id": "BGTL-BG-3"
+                    },
+                    "comp_note_ids": [
+                        "glde-zone1",
+                        "glde-gen",
+                        "isa-temp"
+                    ]
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -55,
+                        80
+                    ],
+                    [
+                        -55,
+                        77
+                    ],
+                    [
+                        -53,
+                        77
+                    ],
+                    [
+                        -53,
+                        72
+                    ],
+                    [
+                        -45,
+                        72
+                    ],
+                    [
+                        -45,
+                        74
+                    ],
+                    [
+                        -40,
+                        74
+                    ],
+                    [
+                        -40,
+                        80
+                    ],
+                    [
+                        -55,
+                        80
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_Z2-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ESC_ZONE",
+            "description": "Greenland Decompression Escape Route Zone 2",
+            "icao_region": "BG",
+            "ident": "GLDE_Z2",
+            "inline_label": "Zone 2",
+            "label": "Zone 2",
+            "notification": 5,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [
+                "glde-gen",
+                "isa-temp"
+            ],
+            "divert_to": [
+                {
+                    "reference": {
+                        "ident": null,
+                        "nav_type": "ref_airport",
+                        "icao_region": null,
+                        "ref_id": "BIKF-BI-4"
+                    },
+                    "comp_note_ids": [
+                        "glde-zone2",
+                        "glde-gen",
+                        "isa-temp"
+                    ]
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -40,
+                        80
+                    ],
+                    [
+                        -40,
+                        74
+                    ],
+                    [
+                        -34,
+                        74
+                    ],
+                    [
+                        -34,
+                        72
+                    ],
+                    [
+                        -24,
+                        72
+                    ],
+                    [
+                        -24,
+                        74
+                    ],
+                    [
+                        -27,
+                        74
+                    ],
+                    [
+                        -27,
+                        76
+                    ],
+                    [
+                        -25,
+                        76
+                    ],
+                    [
+                        -25,
+                        77
+                    ],
+                    [
+                        -35,
+                        77
+                    ],
+                    [
+                        -35,
+                        80
+                    ],
+                    [
+                        -40,
+                        80
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_Z3-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ESC_ZONE",
+            "description": "Greenland Decompression Escape Route Zone 3",
+            "icao_region": "BG",
+            "ident": "GLDE_Z3",
+            "inline_label": "Zone 3",
+            "label": "Zone 3",
+            "notification": 5,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [
+                "glde-gen",
+                "isa-temp"
+            ],
+            "divert_to": [
+                {
+                    "reference": {
+                        "ident": null,
+                        "nav_type": "comp_route",
+                        "icao_region": null,
+                        "ref_id": "GREENLAND_Z3"
+                    },
+                    "comp_note_ids": [
+                        "glde-zone3",
+                        "glde-gen",
+                        "isa-temp"
+                    ]
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -53,
+                        72
+                    ],
+                    [
+                        -53,
+                        71
+                    ],
+                    [
+                        -48,
+                        71
+                    ],
+                    [
+                        -48,
+                        70
+                    ],
+                    [
+                        -47,
+                        70
+                    ],
+                    [
+                        -47,
+                        69
+                    ],
+                    [
+                        -36.5,
+                        69
+                    ],
+                    [
+                        -36.5,
+                        72
+                    ],
+                    [
+                        -53,
+                        72
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_Z4-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ESC_ZONE",
+            "description": "Greenland Decompression Escape Route Zone 4",
+            "icao_region": "BG",
+            "ident": "GLDE_Z4",
+            "inline_label": "Zone 4",
+            "label": "Zone 4",
+            "notification": 5,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [
+                "glde-gen",
+                "isa-temp"
+            ],
+            "divert_to": [
+                {
+                    "reference": {
+                        "ident": null,
+                        "nav_type": "comp_route",
+                        "icao_region": null,
+                        "ref_id": "GREENLAND_Z4"
+                    },
+                    "comp_note_ids": [
+                        "glde-zone4",
+                        "glde-gen",
+                        "isa-temp"
+                    ]
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -36.5,
+                        72
+                    ],
+                    [
+                        -36.5,
+                        69
+                    ],
+                    [
+                        -31,
+                        69
+                    ],
+                    [
+                        -31,
+                        68.5
+                    ],
+                    [
+                        -27,
+                        68.5
+                    ],
+                    [
+                        -27,
+                        69
+                    ],
+                    [
+                        -26,
+                        69
+                    ],
+                    [
+                        -26,
+                        71
+                    ],
+                    [
+                        -24,
+                        71
+                    ],
+                    [
+                        -24,
+                        72
+                    ],
+                    [
+                        -36.5,
+                        72
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_Z5-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ESC_ZONE",
+            "description": "Greenland Decompression Escape Route Zone 5",
+            "icao_region": "BG",
+            "ident": "GLDE_Z5",
+            "inline_label": "Zone 5",
+            "label": "Zone 5",
+            "notification": 5,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [
+                "glde-gen",
+                "isa-temp"
+            ],
+            "divert_to": [
+                {
+                    "reference": {
+                        "ident": null,
+                        "nav_type": "ref_airport",
+                        "icao_region": null,
+                        "ref_id": "BIKF-BI-4"
+                    },
+                    "comp_note_ids": [
+                        "glde-zone5",
+                        "glde-gen",
+                        "isa-temp"
+                    ]
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -31,
+                        68.5
+                    ],
+                    [
+                        -31,
+                        68
+                    ],
+                    [
+                        -27,
+                        68
+                    ],
+                    [
+                        -27,
+                        68.5
+                    ],
+                    [
+                        -31,
+                        68.5
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_Z6-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ESC_ZONE",
+            "description": "Greenland Decompression Escape Route Zone 6",
+            "icao_region": "BG",
+            "ident": "GLDE_Z6",
+            "inline_label": "Zone 6",
+            "label": "Zone 6",
+            "notification": 5,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [
+                "glde-gen",
+                "isa-temp"
+            ],
+            "divert_to": [
+                {
+                    "reference": {
+                        "ident": null,
+                        "nav_type": "comp_route",
+                        "icao_region": null,
+                        "ref_id": "GREENLAND_Z6"
+                    },
+                    "comp_note_ids": [
+                        "glde-zone6",
+                        "glde-gen",
+                        "isa-temp"
+                    ]
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -36.5,
+                        69
+                    ],
+                    [
+                        -36.5,
+                        66
+                    ],
+                    [
+                        -31,
+                        66
+                    ],
+                    [
+                        -31,
+                        69
+                    ],
+                    [
+                        -36.5,
+                        69
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_Z7-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ESC_ZONE",
+            "description": "Greenland Decompression Escape Route Zone 7",
+            "icao_region": "BG",
+            "ident": "GLDE_Z7",
+            "inline_label": "Zone 7",
+            "label": "Zone 7",
+            "notification": 5,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [
+                "glde-gen",
+                "isa-temp"
+            ],
+            "divert_to": [
+                {
+                    "reference": {
+                        "ident": null,
+                        "nav_type": "comp_route",
+                        "icao_region": null,
+                        "ref_id": "GREENLAND_Z7"
+                    },
+                    "comp_note_ids": [
+                        "glde-zone7",
+                        "glde-gen",
+                        "isa-temp"
+                    ]
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -42,
+                        69
+                    ],
+                    [
+                        -42,
+                        66
+                    ],
+                    [
+                        -36.5,
+                        66
+                    ],
+                    [
+                        -36.5,
+                        69
+                    ],
+                    [
+                        -42,
+                        69
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_Z8-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ESC_ZONE",
+            "description": "Greenland Decompression Escape Route Zone 8",
+            "icao_region": "BG",
+            "ident": "GLDE_Z8",
+            "inline_label": "Zone 8",
+            "label": "Zone 8",
+            "notification": 5,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [
+                "glde-gen",
+                "isa-temp"
+            ],
+            "divert_to": [
+                {
+                    "reference": {
+                        "ident": null,
+                        "nav_type": "ref_airport",
+                        "icao_region": null,
+                        "ref_id": "BGSF-BG-2"
+                    },
+                    "comp_note_ids": [
+                        "glde-zone8",
+                        "glde-gen",
+                        "isa-temp"
+                    ]
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -48,
+                        69
+                    ],
+                    [
+                        -48,
+                        67
+                    ],
+                    [
+                        -55,
+                        67
+                    ],
+                    [
+                        -55,
+                        66
+                    ],
+                    [
+                        -42,
+                        66
+                    ],
+                    [
+                        -42,
+                        69
+                    ],
+                    [
+                        -48,
+                        69
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_Z9-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "ESC_ZONE",
+            "description": "Greenland Decompression Escape Route Zone 9",
+            "icao_region": "BG",
+            "ident": "GLDE_Z9",
+            "inline_label": "Zone 9",
+            "label": "Zone 9",
+            "notification": 5,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [
+                "glde-gen",
+                "isa-temp"
+            ],
+            "divert_to": [
+                {
+                    "reference": {
+                        "ident": null,
+                        "nav_type": "ref_airport",
+                        "icao_region": null,
+                        "ref_id": "CYFB-CY-6"
+                    },
+                    "comp_note_ids": [
+                        "glde-zone9",
+                        "glde-gen",
+                        "isa-temp"
+                    ]
+                },
+                {
+                    "reference": {
+                        "ident": null,
+                        "nav_type": "ref_airport",
+                        "icao_region": null,
+                        "ref_id": "BIKF-BI-4"
+                    },
+                    "comp_note_ids": [
+                        "glde-zone9",
+                        "glde-gen",
+                        "isa-temp"
+                    ]
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -50,
+                        66
+                    ],
+                    [
+                        -50,
+                        60
+                    ],
+                    [
+                        -42,
+                        60
+                    ],
+                    [
+                        -42,
+                        66
+                    ],
+                    [
+                        -50,
+                        66
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "ONP-MW-K1",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "MWA",
+            "description": "Test of mountain wave",
+            "icao_region": "K1",
+            "ident": "ONP-MW",
+            "inline_label": "ONP",
+            "label": "ONP",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -124,
+                        48
+                    ],
+                    [
+                        -124,
+                        47.75
+                    ],
+                    [
+                        -123.75,
+                        47.5
+                    ],
+                    [
+                        -123.5,
+                        47.5
+                    ],
+                    [
+                        -123,
+                        47.75
+                    ],
+                    [
+                        -123,
+                        47.9
+                    ],
+                    [
+                        -123.5,
+                        48
+                    ],
+                    [
+                        -124,
+                        48
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "GLDE_NFA-BG",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "NFA",
+            "description": "Greenland No Fly Zone",
+            "icao_region": "BG",
+            "ident": "GLDE_NFA",
+            "inline_label": null,
+            "label": "NFA",
+            "notification": 5,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [
+                "glde-gen",
+                "isa-temp"
+            ],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -45,
+                        74
+                    ],
+                    [
+                        -45,
+                        72
+                    ],
+                    [
+                        -39,
+                        72
+                    ],
+                    [
+                        -36.5,
+                        72
+                    ],
+                    [
+                        -34,
+                        72
+                    ],
+                    [
+                        -34,
+                        74
+                    ],
+                    [
+                        -40,
+                        74
+                    ],
+                    [
+                        -45,
+                        74
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "LIBYANFA-HL",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "NFA",
+            "description": "Libya",
+            "icao_region": "HL",
+            "ident": "LIBYANFA",
+            "inline_label": null,
+            "label": "NFA",
+            "notification": null,
+            "upper_limit": {
+                "altitude": "Unlimited",
+                "unit": "m",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "lower_limit": {
+                "altitude": "Ground",
+                "unit": "m",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        10.89694,
+                        34.33333
+                    ],
+                    [
+                        11.5,
+                        34.33333
+                    ],
+                    [
+                        13.23194,
+                        34.33333
+                    ],
+                    [
+                        16.94,
+                        34.33333
+                    ],
+                    [
+                        19.03722,
+                        34.33333
+                    ],
+                    [
+                        22.66028,
+                        34.33333
+                    ],
+                    [
+                        23.58333,
+                        34.33333
+                    ],
+                    [
+                        24.16667,
+                        34.0
+                    ],
+                    [
+                        25.07697,
+                        33.35
+                    ],
+                    [
+                        25.72593,
+                        31.76555
+                    ],
+                    [
+                        25.55802,
+                        21.99651
+                    ],
+                    [
+                        25.54989,
+                        19.47684
+                    ],
+                    [
+                        24.55003,
+                        19.47942
+                    ],
+                    [
+                        24.54709,
+                        18.61804
+                    ],
+                    [
+                        18.8592,
+                        21.48204
+                    ],
+                    [
+                        10.85991,
+                        21.46831
+                    ],
+                    [
+                        10.85314,
+                        23.47337
+                    ],
+                    [
+                        11.20907,
+                        23.69346
+                    ],
+                    [
+                        10.73786,
+                        24.00189
+                    ],
+                    [
+                        10.51113,
+                        23.91049
+                    ],
+                    [
+                        9.70816,
+                        24.24169
+                    ],
+                    [
+                        9.66214,
+                        24.4904
+                    ],
+                    [
+                        9.46627,
+                        24.62028
+                    ],
+                    [
+                        9.46456,
+                        25.17254
+                    ],
+                    [
+                        8.69348,
+                        26.17468
+                    ],
+                    [
+                        9.13217,
+                        26.7803
+                    ],
+                    [
+                        9.28474,
+                        26.83844
+                    ],
+                    [
+                        9.26285,
+                        26.88153
+                    ],
+                    [
+                        9.25651,
+                        27.03551
+                    ],
+                    [
+                        9.27447,
+                        27.25292
+                    ],
+                    [
+                        9.30616,
+                        27.59861
+                    ],
+                    [
+                        9.35523,
+                        27.90262
+                    ],
+                    [
+                        9.26887,
+                        28.32637
+                    ],
+                    [
+                        9.28324,
+                        28.97093
+                    ],
+                    [
+                        9.23205,
+                        29.29328
+                    ],
+                    [
+                        9.1256,
+                        29.50431
+                    ],
+                    [
+                        9.09331,
+                        29.62241
+                    ],
+                    [
+                        8.86487,
+                        29.7747
+                    ],
+                    [
+                        8.7606,
+                        30.48606
+                    ],
+                    [
+                        9.36257,
+                        30.7049
+                    ],
+                    [
+                        9.48992,
+                        30.74696
+                    ],
+                    [
+                        9.66815,
+                        30.98998
+                    ],
+                    [
+                        9.48714,
+                        31.63133
+                    ],
+                    [
+                        10.05751,
+                        32.20292
+                    ],
+                    [
+                        10.15501,
+                        32.22276
+                    ],
+                    [
+                        10.26155,
+                        32.39082
+                    ],
+                    [
+                        10.46176,
+                        32.44101
+                    ],
+                    [
+                        10.64308,
+                        32.62177
+                    ],
+                    [
+                        10.90453,
+                        32.70934
+                    ],
+                    [
+                        10.89694,
+                        34.33333
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "ONP-TRA-K1",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "TRA",
+            "description": "Test of terrain awareness",
+            "icao_region": "K1",
+            "ident": "ONP-TRA",
+            "inline_label": null,
+            "label": "ONP",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -123.8,
+                        47.9
+                    ],
+                    [
+                        -123.90106201171875,
+                        47.8
+                    ],
+                    [
+                        -123.7,
+                        47.6
+                    ],
+                    [
+                        -123.4,
+                        47.6
+                    ],
+                    [
+                        -123.2,
+                        47.8
+                    ],
+                    [
+                        -123.25,
+                        47.9
+                    ],
+                    [
+                        -123.8,
+                        47.9
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "ONP-CMP-K1",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "CMP_TST",
+            "description": "CMP Test Description",
+            "icao_region": "K1",
+            "ident": "ONP-CMP",
+            "inline_label": "CMP-IL-Label",
+            "label": "CMP-Label",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -125.5,
+                        48
+                    ],
+                    [
+                        -124.5,
+                        48
+                    ],
+                    [
+                        -124.5,
+                        48.5
+                    ],
+                    [
+                        -125.5,
+                        48.5
+                    ],
+                    [
+                        -125.5,
+                        48
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "VAN-NOA-CY",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "NOA",
+            "description": "NOA Test Description",
+            "icao_region": "CY",
+            "ident": "VAN-NOA",
+            "inline_label": "VAN-NOA-Inline-Label",
+            "label": "VAN-NOA-Label",
+            "notification": null,
+            "upper_limit": null,
+            "lower_limit": null,
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -123.8,
+                        48.6
+                    ],
+                    [
+                        -123.85,
+                        48.3
+                    ],
+                    [
+                        -123.55,
+                        48.25
+                    ],
+                    [
+                        -123.3,
+                        48.3
+                    ],
+                    [
+                        -123.2,
+                        48.45
+                    ],
+                    [
+                        -123.25,
+                        48.55
+                    ],
+                    [
+                        -123.25,
+                        48.6
+                    ],
+                    [
+                        -123.8,
+                        48.6
+                    ]
+                ]
+            ]
+        }
+    },
+    {
+        "id": "DUKONO-WA",
+        "nav_type": "comp_boundary",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "bbox": null,
+        "properties": {
+            "airspace_usage": "Both",
+            "boundary_type_id": "CMP_VOLCANO",
+            "description": null,
+            "icao_region": "WA",
+            "ident": "DUKONO",
+            "inline_label": null,
+            "label": "Dukono",
+            "notification": null,
+            "upper_limit": {
+                "altitude": "Unlimited",
+                "unit": "m",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "lower_limit": {
+                "altitude": "3000",
+                "unit": "M",
+                "indicator": "MSL",
+                "qualifier": null
+            },
+            "comm_ids": [],
+            "comp_note_ids": [],
+            "divert_to": []
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        127.894,
+                        2.8989
+                    ],
+                    [
+                        127.81034,
+                        2.89596
+                    ],
+                    [
+                        127.72709,
+                        2.88716
+                    ],
+                    [
+                        127.64466,
+                        2.87253
+                    ],
+                    [
+                        127.56344,
+                        2.85215
+                    ],
+                    [
+                        127.48384,
+                        2.82612
+                    ],
+                    [
+                        127.40624,
+                        2.79457
+                    ],
+                    [
+                        127.33103,
+                        2.75765
+                    ],
+                    [
+                        127.25856,
+                        2.71554
+                    ],
+                    [
+                        127.1892,
+                        2.66844
+                    ],
+                    [
+                        127.12327,
+                        2.61659
+                    ],
+                    [
+                        127.06111,
+                        2.56024
+                    ],
+                    [
+                        127.00301,
+                        2.49967
+                    ],
+                    [
+                        126.94926,
+                        2.43516
+                    ],
+                    [
+                        126.90012,
+                        2.36704
+                    ],
+                    [
+                        126.85582,
+                        2.29564
+                    ],
+                    [
+                        126.81659,
+                        2.2213
+                    ],
+                    [
+                        126.78261,
+                        2.14439
+                    ],
+                    [
+                        126.75405,
+                        2.06528
+                    ],
+                    [
+                        126.73104,
+                        1.98436
+                    ],
+                    [
+                        126.71371,
+                        1.90203
+                    ],
+                    [
+                        126.70212,
+                        1.81867
+                    ],
+                    [
+                        126.69634,
+                        1.73471
+                    ],
+                    [
+                        126.69639,
+                        1.65055
+                    ],
+                    [
+                        126.70227,
+                        1.56659
+                    ],
+                    [
+                        126.71396,
+                        1.48325
+                    ],
+                    [
+                        126.73139,
+                        1.40093
+                    ],
+                    [
+                        126.75449,
+                        1.32004
+                    ],
+                    [
+                        126.78313,
+                        1.24096
+                    ],
+                    [
+                        126.81717,
+                        1.16409
+                    ],
+                    [
+                        126.85646,
+                        1.0898
+                    ],
+                    [
+                        126.90081,
+                        1.01844
+                    ],
+                    [
+                        126.94998,
+                        0.95037
+                    ],
+                    [
+                        127.00375,
+                        0.88591
+                    ],
+                    [
+                        127.06185,
+                        0.82539
+                    ],
+                    [
+                        127.124,
+                        0.76909
+                    ],
+                    [
+                        127.1899,
+                        0.71729
+                    ],
+                    [
+                        127.25923,
+                        0.67024
+                    ],
+                    [
+                        127.33164,
+                        0.62817
+                    ],
+                    [
+                        127.40679,
+                        0.59129
+                    ],
+                    [
+                        127.48432,
+                        0.55977
+                    ],
+                    [
+                        127.56384,
+                        0.53378
+                    ],
+                    [
+                        127.64496,
+                        0.51342
+                    ],
+                    [
+                        127.7273,
+                        0.49881
+                    ],
+                    [
+                        127.81045,
+                        0.49002
+                    ],
+                    [
+                        127.894,
+                        0.48708
+                    ],
+                    [
+                        127.97755,
+                        0.49002
+                    ],
+                    [
+                        128.0607,
+                        0.49881
+                    ],
+                    [
+                        128.14304,
+                        0.51342
+                    ],
+                    [
+                        128.22416,
+                        0.53378
+                    ],
+                    [
+                        128.30368,
+                        0.55977
+                    ],
+                    [
+                        128.38121,
+                        0.59129
+                    ],
+                    [
+                        128.45636,
+                        0.62817
+                    ],
+                    [
+                        128.52877,
+                        0.67024
+                    ],
+                    [
+                        128.5981,
+                        0.71729
+                    ],
+                    [
+                        128.664,
+                        0.76909
+                    ],
+                    [
+                        128.72615,
+                        0.82539
+                    ],
+                    [
+                        128.78425,
+                        0.88591
+                    ],
+                    [
+                        128.83802,
+                        0.95037
+                    ],
+                    [
+                        128.88719,
+                        1.01844
+                    ],
+                    [
+                        128.93154,
+                        1.0898
+                    ],
+                    [
+                        128.97083,
+                        1.16409
+                    ],
+                    [
+                        129.00487,
+                        1.24096
+                    ],
+                    [
+                        129.03351,
+                        1.32004
+                    ],
+                    [
+                        129.05661,
+                        1.40093
+                    ],
+                    [
+                        129.07404,
+                        1.48325
+                    ],
+                    [
+                        129.08573,
+                        1.56659
+                    ],
+                    [
+                        129.09161,
+                        1.65055
+                    ],
+                    [
+                        129.09166,
+                        1.73471
+                    ],
+                    [
+                        129.08588,
+                        1.81867
+                    ],
+                    [
+                        129.07429,
+                        1.90203
+                    ],
+                    [
+                        129.05696,
+                        1.98436
+                    ],
+                    [
+                        129.03395,
+                        2.06528
+                    ],
+                    [
+                        129.00539,
+                        2.14439
+                    ],
+                    [
+                        128.97141,
+                        2.2213
+                    ],
+                    [
+                        128.93218,
+                        2.29564
+                    ],
+                    [
+                        128.88788,
+                        2.36704
+                    ],
+                    [
+                        128.83874,
+                        2.43516
+                    ],
+                    [
+                        128.78499,
+                        2.49967
+                    ],
+                    [
+                        128.72689,
+                        2.56024
+                    ],
+                    [
+                        128.66473,
+                        2.61659
+                    ],
+                    [
+                        128.5988,
+                        2.66844
+                    ],
+                    [
+                        128.52944,
+                        2.71554
+                    ],
+                    [
+                        128.45697,
+                        2.75765
+                    ],
+                    [
+                        128.38176,
+                        2.79457
+                    ],
+                    [
+                        128.30416,
+                        2.82612
+                    ],
+                    [
+                        128.22456,
+                        2.85215
+                    ],
+                    [
+                        128.14334,
+                        2.87253
+                    ],
+                    [
+                        128.06091,
+                        2.88716
+                    ],
+                    [
+                        127.97766,
+                        2.89596
+                    ],
+                    [
+                        127.894,
+                        2.8989
+                    ]
+                ]
+            ]
+        }
+    }
+]

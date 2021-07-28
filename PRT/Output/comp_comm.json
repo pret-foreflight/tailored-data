@@ -1,0 +1,21 @@
+[
+    {
+        "id": "MTOLYMPUS",
+        "nav_type": "comp_comm",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "call_name": "OLYMPUS",
+            "service": "GOAT",
+            "comm_usage": "Enroute",
+            "note": "Mountain goat removal status",
+            "frequencies": [
+                {
+                    "frequency": 2417,
+                    "unit": "KHz",
+                    "primary": true
+                }
+            ]
+        }
+    }
+]

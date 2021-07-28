@@ -1,0 +1,84 @@
+{
+    "dataset": {
+        "title": "TE2PRT01SN",
+        "type": "jeppesen_tailored_maps",
+        "description": "For testing purposes",
+        "schema_version": "1.0",
+        "created": "2021-07-28T2047",
+        "issued": "2021-07-28",
+        "version": "2021.07.28.2047",
+        "effective": {
+            "start": "2021-07-15",
+            "end": null
+        }
+    },
+    "company": {
+        "ident": "TE2PRT",
+        "name": "Pret's Tailored Enroute Airline"
+    },
+    "files": {
+        "airport_usage": [
+            "airport_usage.json"
+        ],
+        "boundary_type": [
+            "boundary_type.json"
+        ],
+        "comp_boundary": [
+            "comp_boundary.json"
+        ],
+        "comp_comm": [
+            "comp_comm.json"
+        ],
+        "comp_fleet": [
+            "comp_fleet_A350.json"
+        ],
+        "comp_grid_mora": [
+            "comp_grid_mora.json"
+        ],
+        "comp_loc_based_comm": [
+            "comp_loc_based_comm.json"
+        ],
+        "comp_note": [
+            "comp_note-001.json",
+            "comp_note-002.json"
+        ],
+        "comp_route": [
+            "comp_route.json"
+        ],
+        "comp_waypoint": [
+            "comp_waypoint.json"
+        ],
+        "fleet_note": [],
+        "note_topic": [
+            "note_topic.json"
+        ],
+        "ref_airport": [
+            "ref_airport.json"
+        ],
+        "ref_boundary": [
+            "ref_boundary.json"
+        ],
+        "ref_waypoint": [
+            "ref_waypoint.json"
+        ],
+        "route_type": [
+            "route_type.json"
+        ]
+    },
+    "_jtex": {
+        "module_version": "1.0.0.0",
+        "exec_environment": {
+            "python_version": "3.8.1 (v3.8.1:1b293b6006, Dec 18 2019, 14:08:53) \n[Clang 6.0 (clang-600.0.57)]",
+            "host_os": "macOS-10.16-x86_64-i386-64bit"
+        },
+        "source_info": {
+            "Document": "Company Data Spreadsheet",
+            "Version": "1.0.0.0",
+            "Date": "2021-06-30 00:00:00",
+            "Aircraft Model Data": "V2-0-7_AIRAC_2106_5",
+            "Contact": "Jeff Buhl (jeff.j.buhl@boeing.com)",
+            "Copyright": "Copyright \u00a9 2021 JEPPESEN. All Rights Reserved",
+            "File": "/Users/pret/Documents/te-exchange-git/te-exchange/tools/data/PRT/Company_Data.xlsx"
+        }
+    }
+}

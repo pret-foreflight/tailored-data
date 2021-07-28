@@ -1,0 +1,114 @@
+[
+    {
+        "id": "AIRCRAFT DE-ICING",
+        "nav_type": "note_topic",
+        "name": "Aircraft De-Icing",
+        "description": "Aircraft De-Icing",
+        "reserved": true
+    },
+    {
+        "id": "ARRIVAL",
+        "nav_type": "note_topic",
+        "name": "Arrival",
+        "description": "Arrival",
+        "reserved": true
+    },
+    {
+        "id": "DEPARTURE",
+        "nav_type": "note_topic",
+        "name": "Departure",
+        "description": "Departure",
+        "reserved": true
+    },
+    {
+        "id": "LOW-VISIBILITY PROCEDURES",
+        "nav_type": "note_topic",
+        "name": "Low-Visibility Procedures",
+        "description": "Low-Visibility Procedures",
+        "reserved": true
+    },
+    {
+        "id": "NOISE ABATEMENT",
+        "nav_type": "note_topic",
+        "name": "Noise Abatement",
+        "description": "Noise Abatement",
+        "reserved": true
+    },
+    {
+        "id": "ESCAPE",
+        "nav_type": "note_topic",
+        "name": "Escape",
+        "description": "Critical Depressurization Procedures",
+        "reserved": false
+    },
+    {
+        "id": "TEST TOPIC",
+        "nav_type": "note_topic",
+        "name": "TEST TOPIC",
+        "description": "this is for testing purposes",
+        "reserved": false
+    },
+    {
+        "id": "1.276.1 Classification",
+        "nav_type": "note_topic",
+        "name": "1.276.1 Classification",
+        "description": "Test ",
+        "reserved": false
+    },
+    {
+        "id": "1.276.2 Constraints",
+        "nav_type": "note_topic",
+        "name": "1.276.2 Constraints",
+        "description": "Test ",
+        "reserved": false
+    },
+    {
+        "id": "1.276.3 Airport Hours",
+        "nav_type": "note_topic",
+        "name": "1.276.3 Airport Hours",
+        "description": "Test ",
+        "reserved": false
+    },
+    {
+        "id": "1.276.4 ATC",
+        "nav_type": "note_topic",
+        "name": "1.276.4 ATC",
+        "description": "Test ",
+        "reserved": false
+    },
+    {
+        "id": "1.276.5 Arrivals",
+        "nav_type": "note_topic",
+        "name": "1.276.5 Arrivals",
+        "description": "Test ",
+        "reserved": false
+    },
+    {
+        "id": "1.276.6 Ground Operations",
+        "nav_type": "note_topic",
+        "name": "1.276.6 Ground Operations",
+        "description": "Test ",
+        "reserved": false
+    },
+    {
+        "id": "1.276.7 Departures",
+        "nav_type": "note_topic",
+        "name": "1.276.7 Departures",
+        "description": "Test ",
+        "reserved": false
+    },
+    {
+        "id": "1.276.8 Pavement Limitations and Concessions",
+        "nav_type": "note_topic",
+        "name": "1.276.8 Pavement Limitations and Concessions",
+        "description": "Test ",
+        "reserved": false
+    },
+    {
+        "id": "1.276.9 Wellington Airport Briefing",
+        "nav_type": "note_topic",
+        "name": "1.276.9 Wellington Airport Briefing",
+        "description": "Test ",
+        "reserved": false
+    }
+]

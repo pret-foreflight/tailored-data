@@ -1,0 +1,737 @@
+[
+    {
+        "id": "AGGH-AG",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "AGGH",
+            "nav_type": "std_airport",
+            "icao_region": "AG",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "No",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "AYPY-AY",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "AYPY",
+            "nav_type": "std_airport",
+            "icao_region": "AY",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "No",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "BGSF-BG",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "BGSF",
+            "nav_type": "std_airport",
+            "icao_region": "BG",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "No",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "BGTL-BG",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "BGTL",
+            "nav_type": "std_airport",
+            "icao_region": "BG",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "No",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "BIKF-BI",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "BIKF",
+            "nav_type": "std_airport",
+            "icao_region": "BI",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "No",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "CYBG-CY",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "CYBG",
+            "nav_type": "std_airport",
+            "icao_region": "CY",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "CYFB-CY",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "CYFB",
+            "nav_type": "std_airport",
+            "icao_region": "CY",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "CYHZ-CY",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "CYHZ",
+            "nav_type": "std_airport",
+            "icao_region": "CY",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "CYOW-CY",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "CYOW",
+            "nav_type": "std_airport",
+            "icao_region": "CY",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "CYQX-CY",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "CYQX",
+            "nav_type": "std_airport",
+            "icao_region": "CY",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [
+                {
+                    "service": "Personal cell",
+                    "phone_type": "Cell",
+                    "number": "1234567"
+                }
+            ],
+            "emails": [
+                {
+                    "service": "Personal Email",
+                    "address": "pret@hey.com"
+                }
+            ],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": [
+                "PRT2TE_NOTE"
+            ]
+        }
+    },
+    {
+        "id": "CYUL-CY",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "CYUL",
+            "nav_type": "std_airport",
+            "icao_region": "CY",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "CYVR-CY",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "CYVR",
+            "nav_type": "std_airport",
+            "icao_region": "CY",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "CYWG-CY",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "CYWG",
+            "nav_type": "std_airport",
+            "icao_region": "CY",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "CYYC-CY",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "CYYC",
+            "nav_type": "std_airport",
+            "icao_region": "CY",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "CYYQ-CY",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "CYYQ",
+            "nav_type": "std_airport",
+            "icao_region": "CY",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "CYYR-CY",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "CYYR",
+            "nav_type": "std_airport",
+            "icao_region": "CY",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "CYYT-CY",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "CYYT",
+            "nav_type": "std_airport",
+            "icao_region": "CY",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "CYYZ-CY",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "CYYZ",
+            "nav_type": "std_airport",
+            "icao_region": "CY",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "CYZF-CY",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "CYZF",
+            "nav_type": "std_airport",
+            "icao_region": "CY",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "EINN-EI",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "EINN",
+            "nav_type": "std_airport",
+            "icao_region": "EI",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "No",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "KCOS-K2",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "KCOS",
+            "nav_type": "std_airport",
+            "icao_region": "K2",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "KDEN-K2",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "KDEN",
+            "nav_type": "std_airport",
+            "icao_region": "K2",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": [
+                "NZWN_Classification",
+                "NZWN_Constraints",
+                "NZWN_AirportHours",
+                "NZWN_ATC",
+                "NZWN_Ground Operations",
+                "NZWN_Departures",
+                "NZWN_PavementLimits",
+                "NZWN_WellingtonAirportBriefing"
+            ]
+        }
+    },
+    {
+        "id": "KGJT-K2",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "KGJT",
+            "nav_type": "std_airport",
+            "icao_region": "K2",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "KLAX-K2",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "KLAX",
+            "nav_type": "std_airport",
+            "icao_region": "K2",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [
+                {
+                    "service": "Auto Terminal Information Service Phone",
+                    "phone_type": null,
+                    "number": "(303) 799-9090"
+                },
+                {
+                    "service": "Duty Pilot Phone",
+                    "phone_type": null,
+                    "number": "1-800-360-0479"
+                }
+            ],
+            "emails": [
+                {
+                    "service": "Dispatch Email",
+                    "address": "vandp@atlairlines.com"
+                }
+            ],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": [
+                "klax-general",
+                "klax-station-info",
+                "klax-gate-restrict-1",
+                "klax-parking",
+                "klax-gate-restrict-2",
+                "klax-arrival",
+                "klax-taxi-in-1",
+                "klax-taxi-in-2",
+                "klax-taxi-out",
+                "klax-departure"
+            ]
+        }
+    },
+    {
+        "id": "LEST-LE",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "LEST",
+            "nav_type": "std_airport",
+            "icao_region": "LE",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "LPLA-LP",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "LPLA",
+            "nav_type": "std_airport",
+            "icao_region": "LP",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "LPPD-LP",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "LPPD",
+            "nav_type": "std_airport",
+            "icao_region": "LP",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "PGUM-PG",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "PGUM",
+            "nav_type": "std_airport",
+            "icao_region": "PG",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "No",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "TXKF-TX",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "TXKF",
+            "nav_type": "std_airport",
+            "icao_region": "TX",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "WABB-WA",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "WABB",
+            "nav_type": "std_airport",
+            "icao_region": "WA",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "No",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "YBCS-YB",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "YBCS",
+            "nav_type": "std_airport",
+            "icao_region": "YB",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "Yes",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "KNUW-K1",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "KNUW",
+            "nav_type": "std_airport",
+            "icao_region": "K1",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "No",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "KCLM-K1",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "KCLM",
+            "nav_type": "std_airport",
+            "icao_region": "K1",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "No",
+            "telephones": [],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    },
+    {
+        "id": "W28-K1",
+        "nav_type": "ref_airport",
+        "revised": null,
+        "effective": null,
+        "reference": {
+            "ident": "W28",
+            "nav_type": "std_airport",
+            "icao_region": "K1",
+            "ref_id": null
+        },
+        "properties": {
+            "company_presence": "No",
+            "telephones": [
+                {
+                    "service": "Get your horoscope",
+                    "phone_type": "Ephemeral",
+                    "number": "1-800-GET-SCOPE (ask for Bobbie \\u2696)"
+                }
+            ],
+            "emails": [],
+            "provisional_airport_ids": [],
+            "comm_ids": [],
+            "comp_note_ids": []
+        }
+    }
+]

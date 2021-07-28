@@ -1,0 +1,33 @@
+[
+    {
+        "id": "ARRIE-K1",
+        "nav_type": "ref_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "reference": {
+            "ident": "ARRIE",
+            "nav_type": "std_waypoint",
+            "icao_region": "K1",
+            "ref_id": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -123.475833296776,
+                47.8798916339874
+            ]
+        },
+        "properties": {
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "description": null,
+            "comm_ids": [
+                "MTOLYMPUS"
+            ],
+            "comp_note_ids": [
+                "ETV-ARRIE"
+            ]
+        }
+    }
+]

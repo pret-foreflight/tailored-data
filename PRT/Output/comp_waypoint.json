@@ -1,0 +1,458 @@
+[
+    {
+        "id": "67N32W-BI",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "67N32W",
+            "icao_region": "BI",
+            "name": "67N32W",
+            "description": null,
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -32,
+                67
+            ]
+        }
+    },
+    {
+        "id": "70N24W-BG",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "70N24W",
+            "icao_region": "BG",
+            "name": "70N24W",
+            "description": null,
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -24,
+                70
+            ]
+        }
+    },
+    {
+        "id": "70N54W-BG",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "70N54W",
+            "icao_region": "BG",
+            "name": "70N54W",
+            "description": null,
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -54,
+                70
+            ]
+        }
+    },
+    {
+        "id": "65N40W-BG",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "65N40W",
+            "icao_region": "BG",
+            "name": "65N40W",
+            "description": null,
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -40,
+                65
+            ]
+        }
+    },
+    {
+        "id": "B586 CRIT B-AY",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "B586 CRIT B",
+            "icao_region": "AY",
+            "name": "B586-CRIT-B",
+            "description": "NORTH: PIKOK - 340 / SOUTH: NZ - 54",
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                146.6316667,
+                -5.6866667
+            ]
+        }
+    },
+    {
+        "id": "B586 CRIT A-AY",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "B586 CRIT A",
+            "icao_region": "AY",
+            "name": "B586-CRIT-A",
+            "description": "NORTH: NZ - 88 / SOUTH: PY - 87",
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                146.9616667,
+                -8.015
+            ]
+        }
+    },
+    {
+        "id": "B928 DP1-ZM",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "B928 DP1",
+            "icao_region": "ZM",
+            "name": "DP1",
+            "description": "WEST: TURUN - 35",
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                95.16,
+                49.4266667
+            ]
+        }
+    },
+    {
+        "id": "MANLA-130-ZM",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "MANLA-130",
+            "icao_region": "ZM",
+            "name": "MANLA-130",
+            "description": "EAST: MANLA-130 (12000')",
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                104.0216667,
+                45.085
+            ]
+        }
+    },
+    {
+        "id": "ARORO-D190-SK",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "ARORO-D190",
+            "icao_region": "SK",
+            "name": "ARORO-190",
+            "description": "13nm northwest of VASIL",
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -75.328479,
+                5.321552
+            ]
+        }
+    },
+    {
+        "id": "ARORO-D150-SK",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "ARORO-D150",
+            "icao_region": "SK",
+            "name": "ARORO-150",
+            "description": "53nm northwest of VASIL",
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -75.563247,
+                5.5977
+            ]
+        }
+    },
+    {
+        "id": "GIKPU+D10-SK",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "GIKPU+D10",
+            "icao_region": "SK",
+            "name": "GIKPU+10",
+            "description": null,
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -73.7233333,
+                6.1866667
+            ]
+        }
+    },
+    {
+        "id": "ILTUR-D190-SK",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "ILTUR-D190",
+            "icao_region": "SK",
+            "name": "ILTUR-190",
+            "description": null,
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -75.186073,
+                5.155382
+            ]
+        }
+    },
+    {
+        "id": "ILTUR-D130-SK",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "ILTUR-D130",
+            "icao_region": "SK",
+            "name": "ILTUR-130",
+            "description": null,
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -76.296566,
+                5.779047
+            ]
+        }
+    },
+    {
+        "id": "UL423-A321-MP",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "UL423-A321",
+            "icao_region": "MP",
+            "name": "UL423-A321",
+            "description": null,
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -78.512873,
+                7.01532
+            ]
+        }
+    },
+    {
+        "id": "PULOX-D40-SK",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "PULOX-D40",
+            "icao_region": "SK",
+            "name": "PULOX D40",
+            "description": "10nm northwest of VASIL on UW36",
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -75.374814,
+                5.321085
+            ]
+        }
+    },
+    {
+        "id": "DAKMO-D100-SK",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "DAKMO-D100",
+            "icao_region": "SK",
+            "name": "DAKMO D100",
+            "description": "58nm northest of VASIL on UW36",
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -76.5626,
+                6.366364
+            ]
+        }
+    },
+    {
+        "id": "ARORO-D90-SK",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "ARORO-D90",
+            "icao_region": "SK",
+            "name": "ARORO D90",
+            "description": null,
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -76.406852,
+                6.59046
+            ]
+        }
+    },
+    {
+        "id": "PPRT-",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "PPRT",
+            "icao_region": null,
+            "name": "PPRT1",
+            "description": "First point in PRT routes",
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.87109375,
+                49.2678045506375
+            ]
+        }
+    },
+    {
+        "id": "PPRT2-",
+        "nav_type": "comp_waypoint",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "ident": "PPRT2",
+            "icao_region": null,
+            "name": "PPRT2",
+            "description": "Second point in PRT routes",
+            "waypoint_type": "Enroute",
+            "airspace_usage": "Both",
+            "comm_ids": [],
+            "comp_note_ids": []
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -118.740234375,
+                34.1618181612303
+            ]
+        }
+    }
+]

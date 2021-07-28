@@ -1,0 +1,21 @@
+[
+    {
+        "id": "1",
+        "nav_type": "comp_loc_based_comm",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "radius": 30,
+            "unit": "nm",
+            "comm_id": "MTOLYMPUS"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -123.70046,
+                47.79664
+            ]
+        }
+    }
+]

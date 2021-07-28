@@ -1,0 +1,28 @@
+[
+    {
+        "id": "STD_USER_WP",
+        "depict_type": "waypoint_depiction",
+        "description": null,
+        "zoom_level": 4,
+        "reserved": true,
+        "symbol": "User",
+        "line": {
+            "style": "Solid",
+            "width": "Thin",
+            "gap": "None",
+            "opacity": 100,
+            "colors": {
+                "light": "#733600",
+                "dark": "#AF4200"
+            }
+        },
+        "fill": {
+            "style": "None",
+            "opacity": 0,
+            "colors": {
+                "light": "#733600",
+                "dark": "#AF4200"
+            }
+        }
+    }
+]

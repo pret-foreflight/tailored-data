@@ -1,0 +1,1649 @@
+[
+    {
+        "id": "A350",
+        "nav_type": "comp_fleet",
+        "revised": null,
+        "effective": null,
+        "ident": "A350",
+        "aircraft_types": [
+            {
+                "nav_type": "fleet_aircraft_type",
+                "reference": {
+                    "ident": null,
+                    "nav_type": "std_aircraft_type",
+                    "icao_region": null,
+                    "ref_id": "1063"
+                },
+                "subtype": "A350-900",
+                "antenna_offset": {
+                    "axial": 750,
+                    "lateral": -50,
+                    "max_bias_offset": 50,
+                    "unit": "cm"
+                },
+                "clearances": {
+                    "wingspan_buffer": 5,
+                    "height_buffer": 3,
+                    "unit": "m"
+                },
+                "_model": "Airbus A350-900 [1063]"
+            },
+            {
+                "nav_type": "fleet_aircraft_type",
+                "reference": {
+                    "ident": null,
+                    "nav_type": "std_aircraft_type",
+                    "icao_region": null,
+                    "ref_id": "1203"
+                },
+                "subtype": "A350-1000",
+                "antenna_offset": {
+                    "axial": 850,
+                    "lateral": -100,
+                    "max_bias_offset": 100,
+                    "unit": "cm"
+                },
+                "clearances": {
+                    "wingspan_buffer": 15,
+                    "height_buffer": 5,
+                    "unit": "m"
+                },
+                "_model": "Airbus A350-1000 [1203]"
+            }
+        ],
+        "etops": [
+            {
+                "nav_type": "fleet_etops",
+                "minutes": 60,
+                "distance": 300,
+                "unit": "nm",
+                "depict_id": "STD_ETOPS"
+            },
+            {
+                "nav_type": "fleet_etops",
+                "minutes": 90,
+                "distance": 600,
+                "unit": "nm",
+                "depict_id": "STD_ETOPS_2"
+            },
+            {
+                "nav_type": "fleet_etops",
+                "minutes": 120,
+                "distance": 900,
+                "unit": "nm",
+                "depict_id": "CMP_ETOPS"
+            }
+        ],
+        "airports": [
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "AGGH-AG"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-B",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "AYPY-AY"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-B",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "BGSF-BG"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-C",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "BGTL-BG"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-C",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "BIKF-BI"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": true,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-C",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "CYBG-CY"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-A",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "CYFB-CY"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-B",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "CYHZ-CY"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-A",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "CYOW-CY"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-A",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "CYQX-CY"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": true,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "REFUEL",
+                "other_usage_ids": [
+                    "SUPP"
+                ],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "CYUL-CY"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-A",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "CYVR-CY"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-A",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "CYWG-CY"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-A",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "CYYC-CY"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-A",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "CYYQ-CY"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-B",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "CYYR-CY"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": true,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-A",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "CYYT-CY"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": true,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-A",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "CYYZ-CY"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-A",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "CYZF-CY"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-A",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "EINN-EI"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": true,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-C",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "KCOS-K2"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-A",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "KDEN-K2"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-A",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "KGJT-K2"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-A",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "KLAX-K2"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": true,
+                "polar_use": false,
+                "towbar": true,
+                "main_usage_id": "REG",
+                "other_usage_ids": [
+                    "ALT",
+                    "EMER"
+                ],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "LEST-LE"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-B",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "LPLA-LP"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-B",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "LPPD-LP"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-B",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "PGUM-PG"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-B",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "TXKF-TX"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-B",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "WABB-WA"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-B",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "YBCS-YB"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CAT-A",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "KNUW-K1"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CMP_MIL",
+                "other_usage_ids": [
+                    "EMER"
+                ],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "KCLM-K1"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "EMER",
+                "other_usage_ids": [],
+                "fleet_note_ids": []
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_airport",
+                    "icao_region": null,
+                    "ref_id": "W28-K1"
+                },
+                "nav_type": "fleet_airport",
+                "etops_use": false,
+                "polar_use": false,
+                "towbar": false,
+                "main_usage_id": "CMP_ZASA",
+                "other_usage_ids": [
+                    "CMP_MIL"
+                ],
+                "fleet_note_ids": []
+            }
+        ],
+        "boundaries": [
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GDLE_10o_1-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_10o_3-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_10o_4-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_13o_1-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_13o_2-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_15o_1-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_15o_2-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_15o_3-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_17o_1-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_17o_2-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_TNFA-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_Z1_ESC-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_Z2_ESC-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_Z6E_ESC-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_Z6W_ESC-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "CAR1-SK"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "CAR2-TT"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "CAR3-MH"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GULF1-MM"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GULF2-MU"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "ISLD1-MP"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "ISLD2-TN"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "ISLD3-TN"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "ISLD4-MH"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "LAM-MM"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "NAM-K2"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "SOUTH1-SV"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "SOUTH2-TT"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "WATRS1-K6"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "WATRS2-K7"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_Z1-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_Z2-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_Z3-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_Z4-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_Z5-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_Z6-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_Z7-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_Z8-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_Z9-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "ONP-MW-K1"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_boundary",
+                    "icao_region": null,
+                    "ref_id": "GLDE_NFA-BG"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_boundary",
+                    "icao_region": null,
+                    "ref_id": "UKBV-UK-5"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_boundary",
+                    "icao_region": null,
+                    "ref_id": "SCATANA-OE-8"
+                },
+                "nav_type": "fleet_boundary",
+                "fleet_note_ids": [],
+                "depict_id": null
+            }
+        ],
+        "waypoints": [
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_waypoint",
+                    "icao_region": null,
+                    "ref_id": "67N32W-BI"
+                },
+                "nav_type": "fleet_waypoint",
+                "decision_point": false,
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_waypoint",
+                    "icao_region": null,
+                    "ref_id": "70N24W-BG"
+                },
+                "nav_type": "fleet_waypoint",
+                "decision_point": false,
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_waypoint",
+                    "icao_region": null,
+                    "ref_id": "70N54W-BG"
+                },
+                "nav_type": "fleet_waypoint",
+                "decision_point": false,
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_waypoint",
+                    "icao_region": null,
+                    "ref_id": "65N40W-BG"
+                },
+                "nav_type": "fleet_waypoint",
+                "decision_point": false,
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "ref_waypoint",
+                    "icao_region": null,
+                    "ref_id": "ARRIE-K1"
+                },
+                "nav_type": "fleet_waypoint",
+                "decision_point": false,
+                "fleet_note_ids": [],
+                "depict_id": null
+            }
+        ],
+        "routes": [
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "ARORO-MPTO"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "B586-ISMAR-AGGH"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "B586-ISMAR-WABB"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "B586-NZ-AYPY"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "B586-NZ-YBCS"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "B586-PY-AYPY"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "B586-PY-YBCS"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "B586-UNZ-PGUM"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "BOG-SKBO"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "EJA-SKCG"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "EJA-SKQB"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "GREENLAND_Z3"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "GREENLAND_Z4"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "GREENLAND_Z6"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "GREENLAND_Z7"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "ILTUR-MPTO"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "OXY-1-ZBAA"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "OXY-1-ZBHH"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "OXY-2-UIBB"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "OXY-2-UIII"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "OXY-2-ZBAA"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "OXY-2-ZBHH"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "OXY-3-UIBB"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "OXY-3-UIII"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "OXY-4-UNAA"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "OXY-4-UNNT"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "OXY-5-UNAA"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "OXY-5-UNNT"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "Oxygen 1"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "Oxygen 2"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "Oxygen 3 & 4"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "Oxygen 5 DILAT"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "Oxygen 5 LOBIR"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "Oxygen 5 ORTUS"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "Oxygen 5 TELRU"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "PNG-B586-N"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "PNG-B586-S"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "RNG-SKRG"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "UL423"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "UQ112"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "UQ120"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "UW36"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "DAKMO-MPTO"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "PAW"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            },
+            {
+                "reference": {
+                    "ident": null,
+                    "nav_type": "comp_route",
+                    "icao_region": null,
+                    "ref_id": "PAE"
+                },
+                "nav_type": "fleet_route",
+                "fleet_note_ids": [],
+                "depict_id": null
+            }
+        ],
+        "_jtex": {
+            "module_version": "1.0.0.0",
+            "exec_environment": {
+                "python_version": "3.8.1 (v3.8.1:1b293b6006, Dec 18 2019, 14:08:53) \n[Clang 6.0 (clang-600.0.57)]",
+                "host_os": "macOS-10.16-x86_64-i386-64bit"
+            },
+            "source_info": {
+                "Document": "Company Fleet Spreadsheet",
+                "Version": "1.0.0.0",
+                "Date": "2021-04-05 00:00:00",
+                "Contact": "Jeff Buhl (jeff.j.buhl@boeing.com)",
+                "Copyright": "Copyright \u00a9 2021 JEPPESEN. All Rights Reserved",
+                "File": "/Users/pret/Documents/te-exchange-git/te-exchange/tools/data/PRT/Fleet_Data_A350.xlsx"
+            }
+        },
+        "_source_file": "Fleet_Data_A350.xlsx"
+    }
+]

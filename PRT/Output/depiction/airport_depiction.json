@@ -1,0 +1,134 @@
+[
+    {
+        "id": "STD_BROWN",
+        "depict_type": "airport_depiction",
+        "description": "Standard depiction for normal airports (Brown)",
+        "zoom_level": 1,
+        "reserved": true,
+        "symbol": "Penny",
+        "symbol_fill": {
+            "style": "Solid",
+            "opacity": 100,
+            "colors": {
+                "light": "#733600",
+                "dark": "#AF4200"
+            }
+        },
+        "symbol_line": {
+            "style": "Solid",
+            "width": "Thin",
+            "gap": "None",
+            "opacity": 100,
+            "colors": {
+                "light": "#000000",
+                "dark": "#000000"
+            }
+        },
+        "runway_fill": {
+            "style": "Solid",
+            "opacity": 100,
+            "colors": {
+                "light": "#F2F2F2",
+                "dark": "#303030"
+            }
+        },
+        "runway_line": {
+            "style": "Solid",
+            "width": "Thin",
+            "gap": "None",
+            "opacity": 100,
+            "colors": {
+                "light": "#000000",
+                "dark": "#000000"
+            }
+        }
+    },
+    {
+        "id": "STD_RED",
+        "depict_type": "airport_depiction",
+        "description": "Standard depiction for emergency airports (Red)",
+        "zoom_level": 1,
+        "reserved": true,
+        "symbol": "Penny",
+        "symbol_fill": {
+            "style": "Solid",
+            "opacity": 100,
+            "colors": {
+                "light": "#AE0015",
+                "dark": "#C20018"
+            }
+        },
+        "symbol_line": {
+            "style": "Solid",
+            "width": "Thin",
+            "gap": "None",
+            "opacity": 100,
+            "colors": {
+                "light": "#000000",
+                "dark": "#000000"
+            }
+        },
+        "runway_fill": {
+            "style": "Solid",
+            "opacity": 100,
+            "colors": {
+                "light": "#F2F2F2",
+                "dark": "#303030"
+            }
+        },
+        "runway_line": {
+            "style": "Solid",
+            "width": "Thin",
+            "gap": "None",
+            "opacity": 100,
+            "colors": {
+                "light": "#000000",
+                "dark": "#000000"
+            }
+        }
+    },
+    {
+        "id": "CMP_MIL",
+        "depict_type": "airport_depiction",
+        "description": "Test tailored airport depiction (Military)",
+        "zoom_level": 1,
+        "reserved": false,
+        "symbol": "Penny",
+        "symbol_fill": {
+            "style": "Solid",
+            "opacity": 100,
+            "colors": {
+                "light": "#429A50",
+                "dark": "#006900"
+            }
+        },
+        "symbol_line": {
+            "style": "Solid",
+            "width": "Thin",
+            "gap": "None",
+            "opacity": 100,
+            "colors": {
+                "light": "#000000",
+                "dark": "#000000"
+            }
+        },
+        "runway_fill": {
+            "style": "Solid",
+            "opacity": 100,
+            "colors": {
+                "light": "#F2F2F2",
+                "dark": "#303030"
+            }
+        },
+        "runway_line": {
+            "style": "Solid",
+            "width": "Thin",
+            "gap": "None",
+            "opacity": 100,
+            "colors": {
+                "light": "#000000",
+                "dark": "#000000"
+            }
+        }
+    }
+]

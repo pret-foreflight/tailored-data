@@ -1,0 +1,856 @@
+[
+    {
+        "id": "glde-gen",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Greenland Escape Route",
+            "media_type": "text/html"
+        },
+        "media": "<!DOCTYPE html><html><head><!-- <link rel=\"stylesheet\" href=\"styles.css\"/> --><!-- https://webkit.org/blog/8840/dark-mode-support-in-webkit/ --><style>:root { color-scheme: light dark; }</style></head><body><font face='sans-serif'/><p>Effective 1 January 2020</p><h3>Greenland Decompression Escape Route</h3><div><p>Altitude limits for Greenland Escape Routes provide a minimum of 2500 feet of obstacle clearance provided the altitude flown is temperature corrected. This provides a sufficient margin for altimeter error when using 29.92 as well as for 1000 feet of obstacle clearance. Therefore a local area altimeter is not mandatory for these zones.</p></div><h3>Greenland Engine Out Driftdown Escape Route</h3><div><p>Proceed as per flight plan to a suitable alternate. In the event of an engine-out during climb in mountanous terrain, the Decompress Escape Route may provide the most suitable routing to either an alternate airport or a return to the departure airport.</p></div></body></html>",
+        "_uri": null
+    },
+    {
+        "id": "glde-zone1",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Zone 1",
+            "media_type": "text/plain"
+        },
+        "media": "Turn to 270\u02da True Track and continue until 60W, then direct to Thule (BGTL/THU) or suitable alternate.",
+        "_uri": null
+    },
+    {
+        "id": "glde-zone2",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Zone 2",
+            "media_type": "text/plain"
+        },
+        "media": "Turn to 90\u02da True Track and continue until 20W, then direct to Keflavik (BIKF/KEF) or suitable alternate.",
+        "_uri": null
+    },
+    {
+        "id": "glde-zone3",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Zone 3",
+            "media_type": "text/plain"
+        },
+        "media": "Proceed directly to position 70N54W then direct to Kangerlussuaq (BGSF/SJF) or suitable alternate.",
+        "_uri": null
+    },
+    {
+        "id": "glde-zone4",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Zone 4",
+            "media_type": "text/plain"
+        },
+        "media": "Proceed directly to position 70N24W then direct to Keflavik (BIKF/KEF) or suitable alternate.",
+        "_uri": null
+    },
+    {
+        "id": "glde-zone5",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Zone 5",
+            "media_type": "text/plain"
+        },
+        "media": "Proceed directly to Keflavik (BIKF/KEF) or suitable alternate.",
+        "_uri": null
+    },
+    {
+        "id": "glde-zone6",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Zone 6",
+            "media_type": "text/plain"
+        },
+        "media": "Proceed directly to position 67N32W then direct to Keflavik (BIKF/KEF) or suitable alternate.",
+        "_uri": null
+    },
+    {
+        "id": "glde-zone7",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Zone 7",
+            "media_type": "text/plain"
+        },
+        "media": "Proceed directly to position 65N40W then direct to Keflavik (BIKF/KEF) or suitable alternate.",
+        "_uri": null
+    },
+    {
+        "id": "glde-zone8",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Zone 8",
+            "media_type": "text/plain"
+        },
+        "media": "Proceed directly to Kangerlussuaq (BGSF/SJF), then to a suitable alternate.",
+        "_uri": null
+    },
+    {
+        "id": "glde-zone9",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Zone 9",
+            "media_type": "text/plain"
+        },
+        "media": "Westbound: Turn to 270\u02da True Track and continue until 55W, then direct to Iqaluit (CYFB/YFB) or suitable alternate.\nEastbound: Turn to 90\u02da True Track and continue until 35W, then direct to Keflavik (BIKF/KEF) or suitable alternate.",
+        "_uri": null
+    },
+    {
+        "id": "isa-temp",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Informational",
+            "note_topic_id": null,
+            "title": "ISA Temperatures",
+            "media_type": "text/html"
+        },
+        "media": "<table><thead><style>:root { color-scheme: light dark; }</style><tr><th>Temperature ISA Dev</th><th>Temperature OAT</th><th>Lowest usable altitude to maintain 10,000 ft</th><th>Temperature OAT</th><th>Lowest usable altitude to maintain 15,000 ft</th></tr></thead><tbody><tr><td>\u2265 ISA</td><td>\u2265 -5 C</td><td>10,000 ft</td><td>\u2265 -15 C</td><td>15,000 ft</td></tr><tr><td>ISA - 5 C</td><td>-10 C</td><td>10,200 ft</td><td>-20 C</td><td>15,300 ft</td></tr><tr><td>ISA - 10 C</td><td>-15 C</td><td>10,400 ft</td><td>-25 C</td><td>15,600 ft</td></tr><tr><td>ISA - 15 C</td><td>-20 C</td><td>10,600 ft</td><td>-30 C</td><td>16,000 ft</td></tr><tr><td>ISA - 20 C</td><td>-25 C</td><td>10,800 ft</td><td>-35 C</td><td>16.300 ft</td></tr></tbody></table>",
+        "_uri": null
+    },
+    {
+        "id": "b586n-py-to-crit-a",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "PY to CRIT A",
+            "media_type": "text/plain"
+        },
+        "media": "Before CRIT-A, return to PY. Then to approved alternate.",
+        "_uri": null
+    },
+    {
+        "id": "b586n-crit-a-to-nz",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "CRIT A to NZ",
+            "media_type": "text/plain"
+        },
+        "media": "After CRIT A, proceed to NZ. Then to approved alternate.",
+        "_uri": null
+    },
+    {
+        "id": "b586n-nz-to-pikok",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "NZ to PIKOK",
+            "media_type": "text/plain"
+        },
+        "media": "After NZ, proceed to ISMAR. Then to approved alternate.",
+        "_uri": null
+    },
+    {
+        "id": "b586s-pikok-to-crit-b",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "PIKOK to CRIT B",
+            "media_type": "text/plain"
+        },
+        "media": "Before CRIT-B, return to ISMAR. Then to approved alternate.",
+        "_uri": null
+    },
+    {
+        "id": "b586s-crit-b-to-nz",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "CRIT B to NZ",
+            "media_type": "text/plain"
+        },
+        "media": "After CRIT B, proceed to NZ. Then to approved alternate.",
+        "_uri": null
+    },
+    {
+        "id": "b586s-nz-to-crit-a",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "NZ to CRIT A",
+            "media_type": "text/plain"
+        },
+        "media": "After NZ, return to NZ. Then to approved alternate.",
+        "_uri": null
+    },
+    {
+        "id": "b586s-crit-a-to-py",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "CRIT A to PY",
+            "media_type": "text/plain"
+        },
+        "media": "After CRIT A, proceed to PY. Then to approved alternate.",
+        "_uri": null
+    },
+    {
+        "id": "oxygen-1",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Emergency Divert",
+            "media_type": "text/plain"
+        },
+        "media": "Return to KATBA. Then to suitable airport.",
+        "_uri": null
+    },
+    {
+        "id": "oxygen-2",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Emergency Divert",
+            "media_type": "text/plain"
+        },
+        "media": "Direct to EMAND. At EMAND-50 descend to 15,000'. Then to suitable alternate.",
+        "_uri": null
+    },
+    {
+        "id": "oxygen-2-aaron",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Emergency Divert",
+            "media_type": "text/plain"
+        },
+        "media": "Descend to and maintain 10,700'. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "_uri": null
+    },
+    {
+        "id": "footnote-6",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Footnote",
+            "media_type": "text/plain"
+        },
+        "media": "Footnote, footnote, footnote, footnote, footnote, and footnote.",
+        "_uri": null
+    },
+    {
+        "id": "footnote-12",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Footnote",
+            "media_type": "text/plain"
+        },
+        "media": "Footnote, footnote, footnote, footnote, footnote, or footnote. Footnote, footnote, footnote, footnote, footnote, and footnote. ",
+        "_uri": null
+    },
+    {
+        "id": "oxygen-3",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Emergency Divert",
+            "media_type": "text/plain"
+        },
+        "media": "Return to TUDEV and proceed to MU, then DCT LETBI. Then to suitable airport.",
+        "_uri": null
+    },
+    {
+        "id": "oxygen-4",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Emergency Divert",
+            "media_type": "text/plain"
+        },
+        "media": "Proceed to NIGOR. Then to suitable airport.",
+        "_uri": null
+    },
+    {
+        "id": "oxygen-5",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Emergency Divert",
+            "media_type": "text/plain"
+        },
+        "media": "Direct to TISUP. Then to suitable alternate.",
+        "_uri": null
+    },
+    {
+        "id": "klax-general",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "General",
+            "media_type": "text/html"
+        },
+        "media": "<html><head><meta content=\"text/html; charset=UTF-8\" http-equiv=\"content-type\"><style type=\"text/css\">.lst-kix_ns2gdmt9o4sj-6>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-6}.lst-kix_mr3pg37wd71i-0>li:before{content:\"\\0025cf  \"}ol.lst-kix_ns2gdmt9o4sj-4.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-4 0}.lst-kix_mr3pg37wd71i-5>li:before{content:\"\\0025a0  \"}.lst-kix_mr3pg37wd71i-3>li:before{content:\"\\0025cf  \"}.lst-kix_mr3pg37wd71i-4>li:before{content:\"\\0025cb  \"}.lst-kix_ns2gdmt9o4sj-1>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-1}.lst-kix_mr3pg37wd71i-1>li:before{content:\"\\0025cb  \"}ol.lst-kix_ns2gdmt9o4sj-7.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-7 0}.lst-kix_mr3pg37wd71i-2>li:before{content:\"\\0025a0  \"}.lst-kix_pze91cw79pxb-0>li:before{content:\"\\0025cf  \"}ol.lst-kix_ns2gdmt9o4sj-5.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-5 0}ol.lst-kix_ns2gdmt9o4sj-1.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-1 0}ol.lst-kix_ns2gdmt9o4sj-8.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-8 0}.lst-kix_ns2gdmt9o4sj-0>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-0}.lst-kix_ns2gdmt9o4sj-3>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-3}ol.lst-kix_ns2gdmt9o4sj-0{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-1{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-2{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-6.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-6 0}ul.lst-kix_mr3pg37wd71i-2{list-style-type:none}ul.lst-kix_mr3pg37wd71i-3{list-style-type:none}ul.lst-kix_mr3pg37wd71i-0{list-style-type:none}ul.lst-kix_mr3pg37wd71i-1{list-style-type:none}ul.lst-kix_mr3pg37wd71i-6{list-style-type:none}.lst-kix_ns2gdmt9o4sj-8>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-8,lower-roman) \". \"}ul.lst-kix_mr3pg37wd71i-7{list-style-type:none}ul.lst-kix_mr3pg37wd71i-4{list-style-type:none}ul.lst-kix_mr3pg37wd71i-5{list-style-type:none}.lst-kix_ns2gdmt9o4sj-5>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-5,lower-roman) \". \"}.lst-kix_ns2gdmt9o4sj-6>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-6,decimal) \". \"}ul.lst-kix_pze91cw79pxb-8{list-style-type:none}.lst-kix_ns2gdmt9o4sj-4>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-4}ol.lst-kix_ns2gdmt9o4sj-2.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-2 0}.lst-kix_ns2gdmt9o4sj-3>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-3,decimal) \". \"}.lst-kix_ns2gdmt9o4sj-7>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-7,lower-latin) \". \"}.lst-kix_ns2gdmt9o4sj-8>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-8}ul.lst-kix_pze91cw79pxb-2{list-style-type:none}ul.lst-kix_pze91cw79pxb-3{list-style-type:none}ul.lst-kix_pze91cw79pxb-0{list-style-type:none}ul.lst-kix_pze91cw79pxb-1{list-style-type:none}ul.lst-kix_pze91cw79pxb-6{list-style-type:none}.lst-kix_ns2gdmt9o4sj-4>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-4,lower-latin) \". \"}ul.lst-kix_pze91cw79pxb-7{list-style-type:none}ul.lst-kix_pze91cw79pxb-4{list-style-type:none}ul.lst-kix_pze91cw79pxb-5{list-style-type:none}.lst-kix_pze91cw79pxb-1>li:before{content:\"\\0025cb  \"}.lst-kix_pze91cw79pxb-2>li:before{content:\"\\0025a0  \"}.lst-kix_ns2gdmt9o4sj-5>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-5}ol.lst-kix_ns2gdmt9o4sj-0.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-0 0}.lst-kix_pze91cw79pxb-5>li:before{content:\"\\0025a0  \"}.lst-kix_ns2gdmt9o4sj-1>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-1,lower-latin) \". \"}.lst-kix_ns2gdmt9o4sj-2>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-2,lower-roman) \". \"}.lst-kix_ns2gdmt9o4sj-2>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-2}.lst-kix_pze91cw79pxb-3>li:before{content:\"\\0025cf  \"}.lst-kix_ns2gdmt9o4sj-0>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-0,decimal) \". \"}.lst-kix_ns2gdmt9o4sj-7>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-7}.lst-kix_mr3pg37wd71i-6>li:before{content:\"\\0025cf  \"}.lst-kix_pze91cw79pxb-4>li:before{content:\"\\0025cb  \"}ul.lst-kix_mr3pg37wd71i-8{list-style-type:none}.lst-kix_mr3pg37wd71i-7>li:before{content:\"\\0025cb  \"}.lst-kix_mr3pg37wd71i-8>li:before{content:\"\\0025a0  \"}.lst-kix_pze91cw79pxb-6>li:before{content:\"\\0025cf  \"}ol.lst-kix_ns2gdmt9o4sj-3{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-3.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-3 0}ol.lst-kix_ns2gdmt9o4sj-4{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-5{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-6{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-7{list-style-type:none}.lst-kix_pze91cw79pxb-7>li:before{content:\"\\0025cb  \"}ol.lst-kix_ns2gdmt9o4sj-8{list-style-type:none}.lst-kix_pze91cw79pxb-8>li:before{content:\"\\0025a0  \"}ol{margin:0;padding:0}table td,table th{padding:0}.c2{margin-left:72pt;padding-top:0pt;padding-left:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left}.c0{margin-left:36pt;padding-top:0pt;padding-left:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left}.c1{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-style:normal}.c9{color:#434343;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-style:normal}.c6{padding-top:16pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}.c3{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left}.c10{background-color:#ffffff;max-width:468pt;padding:72pt 72pt 72pt 72pt}.c4{padding:0;margin:0}.c8{margin-left:36pt}.c7{font-weight:700}.c5{height:11pt}.title{padding-top:0pt;color:#000000;font-size:26pt;padding-bottom:3pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}.subtitle{padding-top:0pt;color:#666666;font-size:15pt;padding-bottom:16pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}li{color:#000000;font-size:11pt}p{margin:0;color:#000000;font-size:11pt}h1{padding-top:20pt;color:#000000;font-size:20pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h2{padding-top:18pt;color:#000000;font-size:16pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h4{padding-top:14pt;color:#666666;font-size:12pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h5{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h6{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-style:italic;orphans:2;widows:2;text-align:left}</style></head><body><div class=\"c10\"><p class=\"c3 c5\"><span class=\"c1\"></span></p><ol class=\"c4 lst-kix_ns2gdmt9o4sj-0 start\" start=\"1\"><li class=\"c0\"><span class=\"c1\">Single Engine Taxi (SET) fuel cost savings opportunity. Reference the SET Dashboard.</span></li><li class=\"c0\"><span class=\"c1\">DO NOT request opposite direction takeoffs or landings.</span></li><li class=\"c0\"><span class=\"c1\">In an effort to reduce Southwest delays to HOU from DAL, the following early departure scheduling procedures should be used:</span></li></ol><ol class=\"c4 lst-kix_ns2gdmt9o4sj-1 start\" start=\"1\"><li class=\"c2\"><span class=\"c1\">Contact the Station to determine if your flight is impacted.</span></li><li class=\"c2\"><span class=\"c1\">As soon as the Crew has their best push time estimate (also known as Estimated Off Block Time or EOBT), but no earlier than 30 minutes prior to P-time or EDCT, they should notify Clearance Delivery.</span></li><li class=\"c2\"><span class=\"c1\">The Control Tower will then calculate taxi times based on the EOBT provided by the Crew and coordinate with HOU Center for a release time (wheels-up) for the flight.</span></li><li class=\"c2\"><span class=\"c1\">The Crews should expect to depart (wheels-up) no earlier than two minutes before the scheduled release time, but no later than one minute after the time issued from HOU Center.</span></li><li class=\"c2\"><span class=\"c1\">Contact Dispatch with any questions.</span></li></ol><ol class=\"c4 lst-kix_ns2gdmt9o4sj-0\" start=\"4\"><li class=\"c0\"><span class=\"c1\">If PWB Data indicates that the Maximum Quick Turnaround Weight (MQTW) will be exceeded on 737-700 aircraft, send an ACARS MX REQ message to MX Control with the following remark: MQTW BRK TEMP REQ or contact Dispatch and initiate a three-way call with MX Control and make the request. MX Control will inform the station that a brake temperature measurement is required. If actual brake temperatures are below 425 degrees F., the mandatory cooling time may be waived. Note: This brake temperature measurement is not applicable to 737-800 or 737-MAX aircraft because they are equipped with carbon brakes and the cooling time may not be waived.</span></li></ol><h3 class=\"c6\" id=\"h.y87ybpr7txqp\"><span class=\"c9\">RUNWAY UTILIZATION</span></h3><p class=\"c3\"><span>In an effort to address community noise concerns, special consideration is being given to runway selection for both arrivals and departures. </span><span class=\"c7\">Flight Crews are expected to comply with the following</span><span class=\"c1\">:</span></p><ul class=\"c4 lst-kix_mr3pg37wd71i-0 start\"><li class=\"c0\"><span class=\"c1\">Do not request RWY 13L/31R between 2100L - 0600L unless operationally necessary.</span></li></ul><p class=\"c3 c8\"><span class=\"c1\">Note: ATC may still assign RWY 13L/31R during these hours to maintain safe and efficient traffic flow. If operationally able, comply with the ATC request.</span></p><p class=\"c3 c5\"><span class=\"c1\"></span></p></div></body></html>",
+        "_uri": null
+    },
+    {
+        "id": "klax-station-info",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Station Information",
+            "media_type": "text/html"
+        },
+        "media": "<html><head><meta content=\"text/html; charset=UTF-8\" http-equiv=\"content-type\"><style type=\"text/css\">ol{margin:0;padding:0}table td,table th{padding:0}.c1{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:0pt;border-right-width:0pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:0pt;border-top-style:solid;border-left-style:solid;border-bottom-width:0pt;width:234pt;border-top-color:#000000;border-bottom-style:solid}.c5{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left;height:11pt}.c4{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal}.c3{padding-top:0pt;padding-bottom:0pt;line-height:1.0;text-align:right}.c2{padding-top:0pt;padding-bottom:0pt;line-height:1.0;text-align:left}.c7{border-spacing:0;border-collapse:collapse;margin-right:auto}.c6{background-color:#ffffff;max-width:468pt;padding:72pt 72pt 72pt 72pt}.c0{height:0pt}.title{padding-top:0pt;color:#000000;font-size:26pt;padding-bottom:3pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}.subtitle{padding-top:0pt;color:#666666;font-size:15pt;padding-bottom:16pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}li{color:#000000;font-size:11pt;font-family:\"Arial\"}p{margin:0;color:#000000;font-size:11pt;font-family:\"Arial\"}h1{padding-top:20pt;color:#000000;font-size:20pt;padding-bottom:6pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h2{padding-top:18pt;color:#000000;font-size:16pt;padding-bottom:6pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h4{padding-top:14pt;color:#666666;font-size:12pt;padding-bottom:4pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h5{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h6{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;font-style:italic;orphans:2;widows:2;text-align:left}</style></head><body class=\"c6\"><p class=\"c5\"><span class=\"c4\"></span></p><a id=\"t.7d30c231b3a947477fb08e594035e1dbf144ebc8\"></a><a id=\"t.0\"></a><table class=\"c7\"><tbody><tr class=\"c0\"><td class=\"c1\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c4\">Gate Restrictions</span></p></td><td class=\"c1\" colspan=\"1\" rowspan=\"1\"><p class=\"c3\"><span class=\"c4\">Yes</span></p></td></tr><tr class=\"c0\"><td class=\"c1\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c4\">Pushback Call</span></p></td><td class=\"c1\" colspan=\"1\" rowspan=\"1\"><p class=\"c3\"><span class=\"c4\">Yes</span></p></td></tr><tr class=\"c0\"><td class=\"c1\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c4\">Performance</span></p></td><td class=\"c1\" colspan=\"1\" rowspan=\"1\"><p class=\"c3\"><span class=\"c4\">PWS</span></p></td></tr><tr class=\"c0\"><td class=\"c1\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c4\">Provisioning</span></p></td><td class=\"c1\" colspan=\"1\" rowspan=\"1\"><p class=\"c3\"><span class=\"c4\">Full</span></p></td></tr><tr class=\"c0\"><td class=\"c1\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c4\">DATACOM</span></p></td><td class=\"c1\" colspan=\"1\" rowspan=\"1\"><p class=\"c3\"><span class=\"c4\">PDC CODLC</span></p></td></tr></tbody></table><p class=\"c5\"><span class=\"c4\"></span></p></body></html>",
+        "_uri": null
+    },
+    {
+        "id": "klax-gate-restrict-1",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Gate Restrictions",
+            "media_type": "text/plain"
+        },
+        "media": "Gates 2/4 - NO SIMULTANEOUS PUSHBACK OR MARSHALLING-IN at these Gates.",
+        "_uri": null
+    },
+    {
+        "id": "klax-parking",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Parking",
+            "media_type": "text/plain"
+        },
+        "media": "Due to Jetbridge limitations, the Jetbridge may not fully retract from the safety zone.",
+        "_uri": null
+    },
+    {
+        "id": "klax-gate-restrict-2",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Gate Restrictions",
+            "media_type": "text/plain"
+        },
+        "media": "Gate 14 - TOW-IN ONLY",
+        "_uri": null
+    },
+    {
+        "id": "klax-arrival",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": "Arrival",
+            "title": "Arrival",
+            "media_type": "text/plain"
+        },
+        "media": "1. See Safety Alert (DAL 31L/31R).\n2. Landing RWY 13R and 31L - DO NOT TURN OFF AT TWY DELTA unless instructed by ATC. TWY DELTA is used by out-bound aircraft to join TWY CHARLIE.",
+        "_uri": null
+    },
+    {
+        "id": "klax-taxi-in-1",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Taxi In",
+            "media_type": "text/html"
+        },
+        "media": "<html><head><meta content=\"text/html; charset=UTF-8\" http-equiv=\"content-type\"><style type=\"text/css\">.lst-kix_ns2gdmt9o4sj-6>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-6}ol.lst-kix_ns2gdmt9o4sj-4.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-4 0}ol.lst-kix_ns2gdmt9o4sj-7.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-7 0}.lst-kix_pze91cw79pxb-0>li:before{content:\"\\0025cf  \"}ol.lst-kix_i1ghgv0w1j9-8.start{counter-reset:lst-ctn-kix_i1ghgv0w1j9-8 0}ol.lst-kix_ns2gdmt9o4sj-1.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-1 0}ol.lst-kix_i1ghgv0w1j9-5.start{counter-reset:lst-ctn-kix_i1ghgv0w1j9-5 0}ul.lst-kix_mr3pg37wd71i-2{list-style-type:none}ul.lst-kix_mr3pg37wd71i-3{list-style-type:none}ul.lst-kix_mr3pg37wd71i-0{list-style-type:none}ul.lst-kix_mr3pg37wd71i-1{list-style-type:none}ul.lst-kix_mr3pg37wd71i-6{list-style-type:none}ul.lst-kix_mr3pg37wd71i-7{list-style-type:none}ul.lst-kix_mr3pg37wd71i-4{list-style-type:none}ul.lst-kix_mr3pg37wd71i-5{list-style-type:none}.lst-kix_ns2gdmt9o4sj-4>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-4}ol.lst-kix_ns2gdmt9o4sj-2.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-2 0}.lst-kix_pze91cw79pxb-1>li:before{content:\"\\0025cb  \"}.lst-kix_i1ghgv0w1j9-3>li{counter-increment:lst-ctn-kix_i1ghgv0w1j9-3}.lst-kix_i1ghgv0w1j9-6>li{counter-increment:lst-ctn-kix_i1ghgv0w1j9-6}.lst-kix_i1ghgv0w1j9-0>li{counter-increment:lst-ctn-kix_i1ghgv0w1j9-0}.lst-kix_pze91cw79pxb-2>li:before{content:\"\\0025a0  \"}ol.lst-kix_i1ghgv0w1j9-6.start{counter-reset:lst-ctn-kix_i1ghgv0w1j9-6 0}.lst-kix_pze91cw79pxb-5>li:before{content:\"\\0025a0  \"}.lst-kix_pze91cw79pxb-3>li:before{content:\"\\0025cf  \"}.lst-kix_ns2gdmt9o4sj-7>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-7}.lst-kix_mr3pg37wd71i-6>li:before{content:\"\\0025cf  \"}.lst-kix_pze91cw79pxb-4>li:before{content:\"\\0025cb  \"}ul.lst-kix_mr3pg37wd71i-8{list-style-type:none}.lst-kix_mr3pg37wd71i-7>li:before{content:\"\\0025cb  \"}.lst-kix_mr3pg37wd71i-8>li:before{content:\"\\0025a0  \"}.lst-kix_pze91cw79pxb-6>li:before{content:\"\\0025cf  \"}ol.lst-kix_i1ghgv0w1j9-0.start{counter-reset:lst-ctn-kix_i1ghgv0w1j9-0 0}ol.lst-kix_ns2gdmt9o4sj-3.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-3 0}.lst-kix_pze91cw79pxb-7>li:before{content:\"\\0025cb  \"}.lst-kix_pze91cw79pxb-8>li:before{content:\"\\0025a0  \"}.lst-kix_i1ghgv0w1j9-4>li:before{content:\"\" counter(lst-ctn-kix_i1ghgv0w1j9-4,lower-latin) \". \"}.lst-kix_i1ghgv0w1j9-6>li:before{content:\"\" counter(lst-ctn-kix_i1ghgv0w1j9-6,decimal) \". \"}.lst-kix_mr3pg37wd71i-0>li:before{content:\"\\0025cf  \"}.lst-kix_i1ghgv0w1j9-3>li:before{content:\"\" counter(lst-ctn-kix_i1ghgv0w1j9-3,decimal) \". \"}.lst-kix_i1ghgv0w1j9-7>li:before{content:\"\" counter(lst-ctn-kix_i1ghgv0w1j9-7,lower-latin) \". \"}.lst-kix_i1ghgv0w1j9-0>li:before{content:\"\" counter(lst-ctn-kix_i1ghgv0w1j9-0,decimal) \". \"}.lst-kix_i1ghgv0w1j9-2>li:before{content:\"\" counter(lst-ctn-kix_i1ghgv0w1j9-2,lower-roman) \". \"}.lst-kix_i1ghgv0w1j9-8>li:before{content:\"\" counter(lst-ctn-kix_i1ghgv0w1j9-8,lower-roman) \". \"}.lst-kix_i1ghgv0w1j9-1>li:before{content:\"\" counter(lst-ctn-kix_i1ghgv0w1j9-1,lower-latin) \". \"}ol.lst-kix_i1ghgv0w1j9-7.start{counter-reset:lst-ctn-kix_i1ghgv0w1j9-7 0}.lst-kix_mr3pg37wd71i-5>li:before{content:\"\\0025a0  \"}.lst-kix_mr3pg37wd71i-3>li:before{content:\"\\0025cf  \"}ol.lst-kix_i1ghgv0w1j9-4.start{counter-reset:lst-ctn-kix_i1ghgv0w1j9-4 0}.lst-kix_mr3pg37wd71i-4>li:before{content:\"\\0025cb  \"}.lst-kix_ns2gdmt9o4sj-1>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-1}.lst-kix_mr3pg37wd71i-1>li:before{content:\"\\0025cb  \"}.lst-kix_i1ghgv0w1j9-5>li{counter-increment:lst-ctn-kix_i1ghgv0w1j9-5}.lst-kix_mr3pg37wd71i-2>li:before{content:\"\\0025a0  \"}.lst-kix_i1ghgv0w1j9-5>li:before{content:\"\" counter(lst-ctn-kix_i1ghgv0w1j9-5,lower-roman) \". \"}ol.lst-kix_i1ghgv0w1j9-1.start{counter-reset:lst-ctn-kix_i1ghgv0w1j9-1 0}ol.lst-kix_ns2gdmt9o4sj-5.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-5 0}ol.lst-kix_ns2gdmt9o4sj-8.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-8 0}.lst-kix_i1ghgv0w1j9-4>li{counter-increment:lst-ctn-kix_i1ghgv0w1j9-4}.lst-kix_i1ghgv0w1j9-7>li{counter-increment:lst-ctn-kix_i1ghgv0w1j9-7}.lst-kix_ns2gdmt9o4sj-0>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-0}.lst-kix_ns2gdmt9o4sj-3>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-3}ol.lst-kix_i1ghgv0w1j9-2.start{counter-reset:lst-ctn-kix_i1ghgv0w1j9-2 0}ol.lst-kix_ns2gdmt9o4sj-0{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-1{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-2{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-6.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-6 0}.lst-kix_i1ghgv0w1j9-1>li{counter-increment:lst-ctn-kix_i1ghgv0w1j9-1}.lst-kix_ns2gdmt9o4sj-8>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-8,lower-roman) \". \"}.lst-kix_ns2gdmt9o4sj-5>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-5,lower-roman) \". \"}.lst-kix_ns2gdmt9o4sj-6>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-6,decimal) \". \"}ul.lst-kix_pze91cw79pxb-8{list-style-type:none}.lst-kix_i1ghgv0w1j9-8>li{counter-increment:lst-ctn-kix_i1ghgv0w1j9-8}.lst-kix_ns2gdmt9o4sj-3>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-3,decimal) \". \"}.lst-kix_ns2gdmt9o4sj-7>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-7,lower-latin) \". \"}.lst-kix_ns2gdmt9o4sj-8>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-8}ul.lst-kix_pze91cw79pxb-2{list-style-type:none}.lst-kix_i1ghgv0w1j9-2>li{counter-increment:lst-ctn-kix_i1ghgv0w1j9-2}ul.lst-kix_pze91cw79pxb-3{list-style-type:none}ul.lst-kix_pze91cw79pxb-0{list-style-type:none}ul.lst-kix_pze91cw79pxb-1{list-style-type:none}ul.lst-kix_pze91cw79pxb-6{list-style-type:none}.lst-kix_ns2gdmt9o4sj-4>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-4,lower-latin) \". \"}ul.lst-kix_pze91cw79pxb-7{list-style-type:none}ul.lst-kix_pze91cw79pxb-4{list-style-type:none}ul.lst-kix_pze91cw79pxb-5{list-style-type:none}.lst-kix_ns2gdmt9o4sj-5>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-5}ol.lst-kix_i1ghgv0w1j9-3.start{counter-reset:lst-ctn-kix_i1ghgv0w1j9-3 0}ol.lst-kix_i1ghgv0w1j9-5{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-0.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-0 0}ol.lst-kix_i1ghgv0w1j9-4{list-style-type:none}.lst-kix_ns2gdmt9o4sj-1>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-1,lower-latin) \". \"}.lst-kix_ns2gdmt9o4sj-2>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-2,lower-roman) \". \"}ol.lst-kix_i1ghgv0w1j9-3{list-style-type:none}ol.lst-kix_i1ghgv0w1j9-2{list-style-type:none}.lst-kix_ns2gdmt9o4sj-2>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-2}ol.lst-kix_i1ghgv0w1j9-8{list-style-type:none}.lst-kix_ns2gdmt9o4sj-0>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-0,decimal) \". \"}ol.lst-kix_i1ghgv0w1j9-7{list-style-type:none}ol.lst-kix_i1ghgv0w1j9-6{list-style-type:none}ol.lst-kix_i1ghgv0w1j9-1{list-style-type:none}ol.lst-kix_i1ghgv0w1j9-0{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-3{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-4{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-5{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-6{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-7{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-8{list-style-type:none}ol{margin:0;padding:0}table td,table th{padding:0}.c1{margin-left:36pt;padding-top:0pt;padding-left:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left}.c0{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-style:normal}.c3{background-color:#ffffff;max-width:468pt;padding:72pt 72pt 72pt 72pt}.c2{padding:0;margin:0}.c4{font-weight:700}.title{padding-top:0pt;color:#000000;font-size:26pt;padding-bottom:3pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}.subtitle{padding-top:0pt;color:#666666;font-size:15pt;padding-bottom:16pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}li{color:#000000;font-size:11pt;}p{margin:0;color:#000000;font-size:11pt;}h1{padding-top:20pt;color:#000000;font-size:20pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h2{padding-top:18pt;color:#000000;font-size:16pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h4{padding-top:14pt;color:#666666;font-size:12pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h5{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h6{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-style:italic;orphans:2;widows:2;text-align:left}</style></head><body><div class=\"c3\"><ol class=\"c2 lst-kix_i1ghgv0w1j9-0 start\" start=\"1\"><li class=\"c1\"><span class=\"c4\">Gates 2, 4, 6</span><span class=\"c0\">&nbsp;- When taxiing East on Taxilane QUEBEC look for the curved lead-in lines to the appropriate Gate. DO NOT OVERSHOOT THESE LINES AND MISTAKENLY TAXI ONTO TWY BRAVO, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;which is a movement area controlled by ATC.</span></li><li class=\"c1\"><span class=\"c4\">CAUTION - Gate 15</span><span class=\"c0\">&nbsp;- Gate has dual lead-in lines; Do NOT follow the 15X lead-in line due to loss of separation with Gate 17. Ramp Agents will marshall the aircraft on the lead-in line labels 15.</span></li><li class=\"c1\"><span class=\"c4\">Gate 15</span><span class=\"c0\">&nbsp;- Aircraft will be marshalled to be the beginning of the lead-in line, at which point the aircraft will be shut down and towed into the gate. Review procedures in the NG AOM or MAX AOM, Chapter 13, Section 13.2 Towing to the Gate.</span></li><li class=\"c1\"><span class=\"c4\">Gates 1-10, 12, 14, 19 &amp; 20</span><span>&nbsp;- These gates are equipped with jet bridge interlock switches. Power cannot be applied to the aircraft until the jet bridge movement is complete.</span></li></ol></div></body></html>",
+        "_uri": null
+    },
+    {
+        "id": "klax-taxi-in-2",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Taxi In",
+            "media_type": "text/plain"
+        },
+        "media": "Gate 15 - TOW-IN ONLY",
+        "_uri": null
+    },
+    {
+        "id": "klax-taxi-out",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Taxi Out",
+            "media_type": "text/plain"
+        },
+        "media": "1. If aircraft and/or equipment are parked in the hard stands/RON . Spots, getting from Taxilane QUEBEC to TWY BRAVE from the the gates may no be possible.",
+        "_uri": null
+    },
+    {
+        "id": "klax-departure",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": "Departure",
+            "title": "Departure",
+            "media_type": "text/html"
+        },
+        "media": "<html><head><meta content=\"text/html; charset=UTF-8\" http-equiv=\"content-type\"><style type=\"text/css\">ol.lst-kix_rmogur42dobj-1.start{counter-reset:lst-ctn-kix_rmogur42dobj-1 0}.lst-kix_ns2gdmt9o4sj-6>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-6}ol.lst-kix_ns2gdmt9o4sj-4.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-4 0}ol.lst-kix_rmogur42dobj-4.start{counter-reset:lst-ctn-kix_rmogur42dobj-4 0}ol.lst-kix_ns2gdmt9o4sj-7.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-7 0}.lst-kix_pze91cw79pxb-0>li:before{content:\"\\0025cf  \"}.lst-kix_rmogur42dobj-0>li{counter-increment:lst-ctn-kix_rmogur42dobj-0}ol.lst-kix_i1ghgv0w1j9-8.start{counter-reset:lst-ctn-kix_i1ghgv0w1j9-8 0}ol.lst-kix_ns2gdmt9o4sj-1.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-1 0}ol.lst-kix_i1ghgv0w1j9-5.start{counter-reset:lst-ctn-kix_i1ghgv0w1j9-5 0}ul.lst-kix_mr3pg37wd71i-2{list-style-type:none}ul.lst-kix_mr3pg37wd71i-3{list-style-type:none}ul.lst-kix_mr3pg37wd71i-0{list-style-type:none}ul.lst-kix_mr3pg37wd71i-1{list-style-type:none}ul.lst-kix_mr3pg37wd71i-6{list-style-type:none}ol.lst-kix_rmogur42dobj-3.start{counter-reset:lst-ctn-kix_rmogur42dobj-3 0}ul.lst-kix_mr3pg37wd71i-7{list-style-type:none}ul.lst-kix_mr3pg37wd71i-4{list-style-type:none}ul.lst-kix_mr3pg37wd71i-5{list-style-type:none}.lst-kix_ns2gdmt9o4sj-4>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-4}.lst-kix_rmogur42dobj-8>li{counter-increment:lst-ctn-kix_rmogur42dobj-8}ol.lst-kix_ns2gdmt9o4sj-2.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-2 0}.lst-kix_rmogur42dobj-2>li{counter-increment:lst-ctn-kix_rmogur42dobj-2}.lst-kix_pze91cw79pxb-1>li:before{content:\"\\0025cb  \"}.lst-kix_i1ghgv0w1j9-3>li{counter-increment:lst-ctn-kix_i1ghgv0w1j9-3}.lst-kix_i1ghgv0w1j9-6>li{counter-increment:lst-ctn-kix_i1ghgv0w1j9-6}.lst-kix_i1ghgv0w1j9-0>li{counter-increment:lst-ctn-kix_i1ghgv0w1j9-0}.lst-kix_pze91cw79pxb-2>li:before{content:\"\\0025a0  \"}ol.lst-kix_i1ghgv0w1j9-6.start{counter-reset:lst-ctn-kix_i1ghgv0w1j9-6 0}.lst-kix_pze91cw79pxb-5>li:before{content:\"\\0025a0  \"}.lst-kix_pze91cw79pxb-3>li:before{content:\"\\0025cf  \"}.lst-kix_ns2gdmt9o4sj-7>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-7}.lst-kix_mr3pg37wd71i-6>li:before{content:\"\\0025cf  \"}.lst-kix_pze91cw79pxb-4>li:before{content:\"\\0025cb  \"}ul.lst-kix_mr3pg37wd71i-8{list-style-type:none}.lst-kix_mr3pg37wd71i-7>li:before{content:\"\\0025cb  \"}.lst-kix_mr3pg37wd71i-8>li:before{content:\"\\0025a0  \"}.lst-kix_pze91cw79pxb-6>li:before{content:\"\\0025cf  \"}ol.lst-kix_i1ghgv0w1j9-0.start{counter-reset:lst-ctn-kix_i1ghgv0w1j9-0 0}ol.lst-kix_ns2gdmt9o4sj-3.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-3 0}.lst-kix_rmogur42dobj-7>li:before{content:\"\" counter(lst-ctn-kix_rmogur42dobj-7,lower-latin) \". \"}.lst-kix_rmogur42dobj-8>li:before{content:\"\" counter(lst-ctn-kix_rmogur42dobj-8,lower-roman) \". \"}.lst-kix_pze91cw79pxb-7>li:before{content:\"\\0025cb  \"}.lst-kix_pze91cw79pxb-8>li:before{content:\"\\0025a0  \"}.lst-kix_rmogur42dobj-2>li:before{content:\"\" counter(lst-ctn-kix_rmogur42dobj-2,lower-roman) \". \"}.lst-kix_rmogur42dobj-1>li:before{content:\"\" counter(lst-ctn-kix_rmogur42dobj-1,lower-latin) \". \"}.lst-kix_rmogur42dobj-3>li:before{content:\"\" counter(lst-ctn-kix_rmogur42dobj-3,decimal) \". \"}.lst-kix_i1ghgv0w1j9-4>li:before{content:\"\" counter(lst-ctn-kix_i1ghgv0w1j9-4,lower-latin) \". \"}.lst-kix_i1ghgv0w1j9-6>li:before{content:\"\" counter(lst-ctn-kix_i1ghgv0w1j9-6,decimal) \". \"}.lst-kix_rmogur42dobj-4>li{counter-increment:lst-ctn-kix_rmogur42dobj-4}.lst-kix_mr3pg37wd71i-0>li:before{content:\"\\0025cf  \"}.lst-kix_i1ghgv0w1j9-3>li:before{content:\"\" counter(lst-ctn-kix_i1ghgv0w1j9-3,decimal) \". \"}.lst-kix_i1ghgv0w1j9-7>li:before{content:\"\" counter(lst-ctn-kix_i1ghgv0w1j9-7,lower-latin) \". \"}.lst-kix_rmogur42dobj-6>li:before{content:\"\" counter(lst-ctn-kix_rmogur42dobj-6,decimal) \". \"}.lst-kix_rmogur42dobj-5>li:before{content:\"\" counter(lst-ctn-kix_rmogur42dobj-5,lower-roman) \". \"}.lst-kix_i1ghgv0w1j9-0>li:before{content:\"\" counter(lst-ctn-kix_i1ghgv0w1j9-0,decimal) \". \"}.lst-kix_i1ghgv0w1j9-2>li:before{content:\"\" counter(lst-ctn-kix_i1ghgv0w1j9-2,lower-roman) \". \"}.lst-kix_i1ghgv0w1j9-8>li:before{content:\"\" counter(lst-ctn-kix_i1ghgv0w1j9-8,lower-roman) \". \"}.lst-kix_rmogur42dobj-4>li:before{content:\"\" counter(lst-ctn-kix_rmogur42dobj-4,lower-latin) \". \"}ol.lst-kix_rmogur42dobj-8.start{counter-reset:lst-ctn-kix_rmogur42dobj-8 0}.lst-kix_i1ghgv0w1j9-1>li:before{content:\"\" counter(lst-ctn-kix_i1ghgv0w1j9-1,lower-latin) \". \"}ol.lst-kix_i1ghgv0w1j9-7.start{counter-reset:lst-ctn-kix_i1ghgv0w1j9-7 0}.lst-kix_mr3pg37wd71i-5>li:before{content:\"\\0025a0  \"}.lst-kix_rmogur42dobj-5>li{counter-increment:lst-ctn-kix_rmogur42dobj-5}.lst-kix_mr3pg37wd71i-3>li:before{content:\"\\0025cf  \"}ol.lst-kix_i1ghgv0w1j9-4.start{counter-reset:lst-ctn-kix_i1ghgv0w1j9-4 0}.lst-kix_mr3pg37wd71i-4>li:before{content:\"\\0025cb  \"}.lst-kix_ns2gdmt9o4sj-1>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-1}.lst-kix_mr3pg37wd71i-1>li:before{content:\"\\0025cb  \"}.lst-kix_rmogur42dobj-0>li:before{content:\"\" counter(lst-ctn-kix_rmogur42dobj-0,decimal) \". \"}.lst-kix_i1ghgv0w1j9-5>li{counter-increment:lst-ctn-kix_i1ghgv0w1j9-5}.lst-kix_mr3pg37wd71i-2>li:before{content:\"\\0025a0  \"}.lst-kix_i1ghgv0w1j9-5>li:before{content:\"\" counter(lst-ctn-kix_i1ghgv0w1j9-5,lower-roman) \". \"}ol.lst-kix_i1ghgv0w1j9-1.start{counter-reset:lst-ctn-kix_i1ghgv0w1j9-1 0}ol.lst-kix_rmogur42dobj-2.start{counter-reset:lst-ctn-kix_rmogur42dobj-2 0}.lst-kix_rmogur42dobj-3>li{counter-increment:lst-ctn-kix_rmogur42dobj-3}.lst-kix_rmogur42dobj-6>li{counter-increment:lst-ctn-kix_rmogur42dobj-6}ol.lst-kix_ns2gdmt9o4sj-5.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-5 0}ol.lst-kix_ns2gdmt9o4sj-8.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-8 0}.lst-kix_i1ghgv0w1j9-4>li{counter-increment:lst-ctn-kix_i1ghgv0w1j9-4}.lst-kix_i1ghgv0w1j9-7>li{counter-increment:lst-ctn-kix_i1ghgv0w1j9-7}ol.lst-kix_rmogur42dobj-5.start{counter-reset:lst-ctn-kix_rmogur42dobj-5 0}.lst-kix_ns2gdmt9o4sj-0>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-0}.lst-kix_ns2gdmt9o4sj-3>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-3}.lst-kix_rmogur42dobj-7>li{counter-increment:lst-ctn-kix_rmogur42dobj-7}ol.lst-kix_i1ghgv0w1j9-2.start{counter-reset:lst-ctn-kix_i1ghgv0w1j9-2 0}.lst-kix_rmogur42dobj-1>li{counter-increment:lst-ctn-kix_rmogur42dobj-1}ol.lst-kix_rmogur42dobj-6{list-style-type:none}ol.lst-kix_rmogur42dobj-7{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-0{list-style-type:none}ol.lst-kix_rmogur42dobj-8{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-1{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-2{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-6.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-6 0}.lst-kix_i1ghgv0w1j9-1>li{counter-increment:lst-ctn-kix_i1ghgv0w1j9-1}.lst-kix_ns2gdmt9o4sj-8>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-8,lower-roman) \". \"}.lst-kix_ns2gdmt9o4sj-5>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-5,lower-roman) \". \"}.lst-kix_ns2gdmt9o4sj-6>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-6,decimal) \". \"}ul.lst-kix_pze91cw79pxb-8{list-style-type:none}.lst-kix_i1ghgv0w1j9-8>li{counter-increment:lst-ctn-kix_i1ghgv0w1j9-8}.lst-kix_ns2gdmt9o4sj-3>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-3,decimal) \". \"}.lst-kix_ns2gdmt9o4sj-7>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-7,lower-latin) \". \"}.lst-kix_ns2gdmt9o4sj-8>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-8}ul.lst-kix_pze91cw79pxb-2{list-style-type:none}.lst-kix_i1ghgv0w1j9-2>li{counter-increment:lst-ctn-kix_i1ghgv0w1j9-2}ul.lst-kix_pze91cw79pxb-3{list-style-type:none}ul.lst-kix_pze91cw79pxb-0{list-style-type:none}ol.lst-kix_rmogur42dobj-6.start{counter-reset:lst-ctn-kix_rmogur42dobj-6 0}ul.lst-kix_pze91cw79pxb-1{list-style-type:none}ul.lst-kix_pze91cw79pxb-6{list-style-type:none}.lst-kix_ns2gdmt9o4sj-4>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-4,lower-latin) \". \"}ul.lst-kix_pze91cw79pxb-7{list-style-type:none}ul.lst-kix_pze91cw79pxb-4{list-style-type:none}ul.lst-kix_pze91cw79pxb-5{list-style-type:none}ol.lst-kix_rmogur42dobj-7.start{counter-reset:lst-ctn-kix_rmogur42dobj-7 0}ol.lst-kix_rmogur42dobj-0.start{counter-reset:lst-ctn-kix_rmogur42dobj-0 0}.lst-kix_ns2gdmt9o4sj-5>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-5}ol.lst-kix_i1ghgv0w1j9-3.start{counter-reset:lst-ctn-kix_i1ghgv0w1j9-3 0}ol.lst-kix_i1ghgv0w1j9-5{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-0.start{counter-reset:lst-ctn-kix_ns2gdmt9o4sj-0 0}ol.lst-kix_i1ghgv0w1j9-4{list-style-type:none}.lst-kix_ns2gdmt9o4sj-1>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-1,lower-latin) \". \"}.lst-kix_ns2gdmt9o4sj-2>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-2,lower-roman) \". \"}ol.lst-kix_i1ghgv0w1j9-3{list-style-type:none}ol.lst-kix_i1ghgv0w1j9-2{list-style-type:none}.lst-kix_ns2gdmt9o4sj-2>li{counter-increment:lst-ctn-kix_ns2gdmt9o4sj-2}ol.lst-kix_i1ghgv0w1j9-8{list-style-type:none}.lst-kix_ns2gdmt9o4sj-0>li:before{content:\"\" counter(lst-ctn-kix_ns2gdmt9o4sj-0,decimal) \". \"}ol.lst-kix_i1ghgv0w1j9-7{list-style-type:none}ol.lst-kix_i1ghgv0w1j9-6{list-style-type:none}ol.lst-kix_i1ghgv0w1j9-1{list-style-type:none}ol.lst-kix_i1ghgv0w1j9-0{list-style-type:none}ol.lst-kix_rmogur42dobj-2{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-3{list-style-type:none}ol.lst-kix_rmogur42dobj-3{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-4{list-style-type:none}ol.lst-kix_rmogur42dobj-4{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-5{list-style-type:none}ol.lst-kix_rmogur42dobj-5{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-6{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-7{list-style-type:none}ol.lst-kix_ns2gdmt9o4sj-8{list-style-type:none}ol.lst-kix_rmogur42dobj-0{list-style-type:none}ol.lst-kix_rmogur42dobj-1{list-style-type:none}ol{margin:0;padding:0}table td,table th{padding:0}.c3{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;background-color:#cfe2f3;border-left-style:solid;border-bottom-width:1pt;width:156.8pt;border-top-color:#000000;border-bottom-style:solid}.c5{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:311.2pt;border-top-color:#000000;border-bottom-style:solid}.c4{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:156.8pt;border-top-color:#000000;border-bottom-style:solid}.c10{margin-left:36pt;padding-top:0pt;padding-left:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left}.c9{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left;height:11pt}.c6{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:9pt;font-family:\"Arial\";font-style:normal}.c8{color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:9pt;font-family:\"Arial\";font-style:normal}.c0{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal}.c11{border-spacing:0;border-collapse:collapse;margin-right:auto}.c1{padding-top:0pt;padding-bottom:0pt;line-height:1.0;text-align:left}.c7{background-color:#ffffff;max-width:468pt;padding:72pt 72pt 72pt 72pt}.c13{padding:0;margin:0}.c12{background-color:#cfe2f3}.c2{height:0pt}.title{padding-top:0pt;color:#000000;font-size:26pt;padding-bottom:3pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}.subtitle{padding-top:0pt;color:#666666;font-size:15pt;padding-bottom:16pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}li{color:#000000;font-size:11pt;font-family:\"Arial\"}p{margin:0;color:#000000;font-size:11pt;font-family:\"Arial\"}h1{padding-top:20pt;color:#000000;font-size:20pt;padding-bottom:6pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h2{padding-top:18pt;color:#000000;font-size:16pt;padding-bottom:6pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h4{padding-top:14pt;color:#666666;font-size:12pt;padding-bottom:4pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h5{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h6{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;font-style:italic;orphans:2;widows:2;text-align:left}</style></head><body class=\"c7\"><ol class=\"c13 lst-kix_rmogur42dobj-0 start\" start=\"1\"><li class=\"c10\"><span class=\"c0\">TAKEOFF RWY 13R/L - When departing to the north or east a fast climb will get you a quicker turn on course.</span></li></ol><p class=\"c9\"><span class=\"c0\"></span></p><a id=\"t.5c6461eb03573c8d0fcd4c095e13245dd965ac21\"></a><a id=\"t.0\"></a><table class=\"c11\"><tbody><tr class=\"c2\"><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c1\"><span class=\"c8\">ILS or LOC Rwy 34R</span></p><p class=\"c1\"><span class=\"c8\">GLS Rwy 34R</span></p></td><td class=\"c5 c12\" colspan=\"1\" rowspan=\"1\"><p class=\"c1\"><span class=\"c8\">B777, B787</span></p></td></tr><tr class=\"c2\"><td class=\"c4\" colspan=\"1\" rowspan=\"1\"><p class=\"c1\"><span class=\"c6\">Accl Altitude</span></p></td><td class=\"c5\" colspan=\"1\" rowspan=\"1\"><p class=\"c1\"><span class=\"c6\">Standard</span></p></td></tr><tr class=\"c2\"><td class=\"c4\" colspan=\"1\" rowspan=\"1\"><p class=\"c1\"><span class=\"c6\">Up to MLW</span></p></td><td class=\"c5\" colspan=\"1\" rowspan=\"1\"><p class=\"c1\"><span class=\"c6\">Follow published missed approach procedure.</span></p></td></tr><tr class=\"c2\"><td class=\"c4\" colspan=\"1\" rowspan=\"1\"><p class=\"c1\"><span class=\"c6\">Above MLW</span></p></td><td class=\"c5\" colspan=\"1\" rowspan=\"1\"><p class=\"c1\"><span class=\"c6\">If engine failure prior to 600&rsquo;, continue on track 333 to 1300&rsquo; then RIGHT turn on track 070 until 2000&rsquo;. Advise ATC of intentions.</span></p></td></tr></tbody></table><p class=\"c9\"><span class=\"c0\"></span></p></body></html>",
+        "_uri": null
+    },
+    {
+        "id": "UQ112-SKBO",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Terrain Critical Depressurization",
+            "media_type": "text/plain"
+        },
+        "media": "<!DOCTYPE html><html><head><style>ul{margin-left:0;padding-left:20px;}</style></head><body><font face='sans-serif'/><ul><li>Proceed direct to BOG while descending to 14800'.</li><li>At BOG, consider landing at Bogota, Colombia (SKBO/BOG).</li></ul></body></html>",
+        "_uri": null
+    },
+    {
+        "id": "UQ112-SKRG",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Terrain Critical Depressurization",
+            "media_type": "text/plain"
+        },
+        "media": "<!DOCTYPE html><html><head><style>ul{margin-left:0;padding-left:20px;}</style></head><body><font face='sans-serif'/><ul><li>Proceed direct to RNG and descend to 14600'.</li><li>At RNG, consider landing at Rio Negro, Colombia (SKRG/MDE).</li></ul></body></html>",
+        "_uri": null
+    },
+    {
+        "id": "UQ112-MPTO",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Terrain Critical Depressurization",
+            "media_type": "text/plain"
+        },
+        "media": "<!DOCTYPE html><html><head><style>ul{margin-left:0;padding-left:20px;}</style></head><body><font face='sans-serif'/><ul><li>Proceed to ARORO while descending to 14600'.</li><li>At ARORO, proceed on UG447 to PML.</li><li>At PML, proceed to B510 to TBG.</li><li>At TBG, consider landing at Panama City, Panama (MPTO/PTY).</li></ul></body></html>",
+        "_uri": null
+    },
+    {
+        "id": "UQ120-SKCG",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Terrain Critical Depressurization",
+            "media_type": "text/html"
+        },
+        "media": "<!DOCTYPE html><html><head><style>ul{margin-left:0;padding-left:20px;}</style></head><body><font face='sans-serif'/><ul><li>At EJA, continue northwest on UW10 to CTG.</li><li>At CTG, consider landing at Cartagena, Colombia (SKCG/CTG).</li></ul></body></html>",
+        "_uri": null
+    },
+    {
+        "id": "UQ120-SKQB",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Terrain Critical Depressurization",
+            "media_type": "text/plain"
+        },
+        "media": "<!DOCTYPE html><html><head><style>ul{margin-left:0;padding-left:20px;}</style></head><body><font face='sans-serif'/><ul><li>At EJA, continue north on UL542 to BAQ.</li><li>At BAQ, consider landing at Barranquilla, Colombia (SKBQ/BAQ).</li></ul></body></html>",
+        "_uri": null
+    },
+    {
+        "id": "UQ423-SKBO",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Terrain Critical Depressurization",
+            "media_type": "text/plain"
+        },
+        "media": "Between VASIL and 190nm from ILTUR (17nm northwest of VASIL):\n- Proceed direct to BOG and descend to 14800'\n- At BOG, consider lanfing at Bogota, Colombia (SKBO/BOG)",
+        "_uri": null
+    },
+    {
+        "id": "UQ423-MPTO",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Terrain Critical Depressurization",
+            "media_type": "text/plain"
+        },
+        "media": "Between 190nm from LITUR (17nm northwest of VASIL) and 130nm from ILTUR (77nm northwest of VASIL):\n- Proceed to ILTUR and desscend to 14800'\n- At 130nm from ILTUR, descend to 10000'\n- Continue on UL423 past ILTUR to intercept UA321\n- Proceed east on UA321 to TBG\n- At TBG, consider landing at Panama City, Panama (MPTO/PTY)",
+        "_uri": null
+    },
+    {
+        "id": "UW36-SKBO",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Terrain Critical Depressurization",
+            "media_type": "text/plain"
+        },
+        "media": "Between VASIL and 40nm from PULOX (10nm northwest of VASIL):\n- Proceed direct to BOG and descend to 14800'\n- At BOG, consider lanfing at Bogota, Colombia (SKBO/BOG)",
+        "_uri": null
+    },
+    {
+        "id": "UW36-SKRG",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Terrain Critical Depressurization",
+            "media_type": "text/plain"
+        },
+        "media": "Between 40nm from PULOX and PULOX:\n- Proceed direct to RNG and descend to 14600'\n- At RNG, consider landing at Rio Negro, Colombia (SKRG/MDE)",
+        "_uri": null
+    },
+    {
+        "id": "UW36-MPTO",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Terrain Critical Depressurization",
+            "media_type": "text/plain"
+        },
+        "media": "Between PULOX and 100nm from DAKMO (58nm northwest of PULOX):\n- Proceed to DAKMO on UW36 and descend to 14800'\n- At 100nm from DAKMO, descend to 10000'\n- At DAKMO, proceed on UM549 to TBG\n- At TBG, consider landing at Panama City, Panama (MPTO/PTY)",
+        "_uri": null
+    },
+    {
+        "id": "LOW-QNH-CORR",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Informational",
+            "note_topic_id": null,
+            "title": "Low QNH Correction",
+            "media_type": "text/html"
+        },
+        "media": "<html><head><meta content=\"text/html; charset=UTF-8\" http-equiv=\"content-type\"><style type=\"text/css\">ul.lst-kix_24nwh0k9ot80-8{list-style-type:none}ul.lst-kix_24nwh0k9ot80-7{list-style-type:none}ul.lst-kix_24nwh0k9ot80-4{list-style-type:none}ul.lst-kix_24nwh0k9ot80-3{list-style-type:none}ul.lst-kix_24nwh0k9ot80-6{list-style-type:none}ul.lst-kix_24nwh0k9ot80-5{list-style-type:none}.lst-kix_24nwh0k9ot80-2>li:before{content:\"\\0025a0  \"}.lst-kix_24nwh0k9ot80-3>li:before{content:\"\\0025cf  \"}.lst-kix_24nwh0k9ot80-1>li:before{content:\"\\0025cb  \"}.lst-kix_24nwh0k9ot80-0>li:before{content:\"\\0025cf  \"}.lst-kix_24nwh0k9ot80-4>li:before{content:\"\\0025cb  \"}.lst-kix_24nwh0k9ot80-6>li:before{content:\"\\0025cf  \"}.lst-kix_24nwh0k9ot80-5>li:before{content:\"\\0025a0  \"}.lst-kix_24nwh0k9ot80-8>li:before{content:\"\\0025a0  \"}.lst-kix_24nwh0k9ot80-7>li:before{content:\"\\0025cb  \"}.lst-kix_vz5h5udeyh1z-0>li:before{content:\"\\0025cf  \"}.lst-kix_nyf05nc4fi3l-2>li:before{content:\"\\0025a0  \"}.lst-kix_nyf05nc4fi3l-3>li:before{content:\"\\0025cf  \"}.lst-kix_vz5h5udeyh1z-1>li:before{content:\"\\0025cb  \"}.lst-kix_vz5h5udeyh1z-2>li:before{content:\"\\0025a0  \"}.lst-kix_nyf05nc4fi3l-1>li:before{content:\"\\0025cb  \"}.lst-kix_nyf05nc4fi3l-5>li:before{content:\"\\0025a0  \"}.lst-kix_vz5h5udeyh1z-3>li:before{content:\"\\0025cf  \"}.lst-kix_vz5h5udeyh1z-4>li:before{content:\"\\0025cb  \"}.lst-kix_nyf05nc4fi3l-6>li:before{content:\"\\0025cf  \"}.lst-kix_nyf05nc4fi3l-7>li:before{content:\"\\0025cb  \"}.lst-kix_nyf05nc4fi3l-0>li:before{content:\"\\0025cf  \"}.lst-kix_nyf05nc4fi3l-8>li:before{content:\"\\0025a0  \"}.lst-kix_vz5h5udeyh1z-7>li:before{content:\"\\0025cb  \"}.lst-kix_vz5h5udeyh1z-8>li:before{content:\"\\0025a0  \"}.lst-kix_vz5h5udeyh1z-5>li:before{content:\"\\0025a0  \"}.lst-kix_vz5h5udeyh1z-6>li:before{content:\"\\0025cf  \"}ul.lst-kix_nyf05nc4fi3l-5{list-style-type:none}ul.lst-kix_nyf05nc4fi3l-4{list-style-type:none}ul.lst-kix_nyf05nc4fi3l-3{list-style-type:none}ul.lst-kix_nyf05nc4fi3l-2{list-style-type:none}ul.lst-kix_nyf05nc4fi3l-1{list-style-type:none}ul.lst-kix_nyf05nc4fi3l-0{list-style-type:none}.lst-kix_nyf05nc4fi3l-4>li:before{content:\"\\0025cb  \"}ul.lst-kix_vz5h5udeyh1z-0{list-style-type:none}ul.lst-kix_nyf05nc4fi3l-8{list-style-type:none}ul.lst-kix_nyf05nc4fi3l-7{list-style-type:none}ul.lst-kix_nyf05nc4fi3l-6{list-style-type:none}ul.lst-kix_24nwh0k9ot80-0{list-style-type:none}ul.lst-kix_vz5h5udeyh1z-7{list-style-type:none}ul.lst-kix_vz5h5udeyh1z-8{list-style-type:none}ul.lst-kix_24nwh0k9ot80-2{list-style-type:none}ul.lst-kix_vz5h5udeyh1z-5{list-style-type:none}ul.lst-kix_24nwh0k9ot80-1{list-style-type:none}ul.lst-kix_vz5h5udeyh1z-6{list-style-type:none}ul.lst-kix_vz5h5udeyh1z-3{list-style-type:none}ul.lst-kix_vz5h5udeyh1z-4{list-style-type:none}ul.lst-kix_vz5h5udeyh1z-1{list-style-type:none}ul.lst-kix_vz5h5udeyh1z-2{list-style-type:none}ol{margin:0;padding:0}table td,table th{padding:0}.c3{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:top;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:42.5pt;border-top-color:#000000;border-bottom-style:solid}.c1{-webkit-text-decoration-skip:none;color:#ff0000;font-weight:400;text-decoration:underline;vertical-align:baseline;text-decoration-skip-ink:none;font-size:11pt;font-family:\"Arial\";font-style:normal}.c16{-webkit-text-decoration-skip:none;color:#3d85c6;font-weight:400;text-decoration:underline;vertical-align:baseline;text-decoration-skip-ink:none;font-size:11pt;font-family:\"Arial\";font-style:normal}.c9{margin-left:36pt;padding-top:0pt;padding-left:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left}.c13{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left;height:11pt}.c0{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:9pt;font-family:\"Arial\";font-style:normal}.c5{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal}.c11{background-color:#b7b7b7;color:#000000;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal}.c14{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left}.c15{border-spacing:0;border-collapse:collapse;margin-right:auto}.c2{padding-top:0pt;padding-bottom:0pt;line-height:1.0;text-align:center}.c6{text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;font-weight:700;text-decoration:underline}.c12{background-color:#ffffff;max-width:468pt;padding:72pt 72pt 72pt 72pt}.c4{padding:0;margin:0}.c10{height:0pt}.c7{background-color:#666666}.c8{background-color:#cccccc}.title{padding-top:0pt;color:#000000;font-size:26pt;padding-bottom:3pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}.subtitle{padding-top:0pt;color:#666666;font-size:15pt;padding-bottom:16pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}li{color:#000000;font-size:11pt;font-family:\"Arial\"}p{margin:0;color:#000000;font-size:11pt;font-family:\"Arial\"}h1{padding-top:20pt;color:#000000;font-size:20pt;padding-bottom:6pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h2{padding-top:18pt;color:#000000;font-size:16pt;padding-bottom:6pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h4{padding-top:14pt;color:#666666;font-size:12pt;padding-bottom:4pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h5{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h6{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;font-style:italic;orphans:2;widows:2;text-align:left}</style></head><body><div class=\"c12\"><p class=\"c14\"><span class=\"c6\">Low QNH Correction</span></p><p class=\"c13\"><span class=\"c5\"></span></p><a id=\"t.ce2634e44c49b6ae25602b303656a1a9b08a0e3e\"></a><a id=\"t.0\"></a><table class=\"c15\"><tbody><tr class=\"c10\"><td class=\"c3 c8\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">QNH</span></p></td><td class=\"c3 c8\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">0</span></p></td><td class=\"c3 c8\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">1</span></p></td><td class=\"c3 c8\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">2</span></p></td><td class=\"c3 c8\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">3</span></p></td><td class=\"c3 c8\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">4</span></p></td><td class=\"c3 c8\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">5</span></p></td><td class=\"c3 c8\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">6</span></p></td><td class=\"c3 c8\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">7</span></p></td><td class=\"c3 c8\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">8</span></p></td><td class=\"c3 c8\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">9</span></p></td></tr><tr class=\"c10\"><td class=\"c3 c8\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">1010</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">100</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">100</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">100</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">0</span></p></td><td class=\"c3 c7\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">&nbsp;</span></p></td><td class=\"c3 c7\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">&nbsp;</span></p></td><td class=\"c3 c7\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">&nbsp;</span></p></td><td class=\"c3 c7\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">&nbsp;</span></p></td><td class=\"c3 c7\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">&nbsp;</span></p></td><td class=\"c3 c7\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">&nbsp;</span></p></td></tr><tr class=\"c10\"><td class=\"c3 c8\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">1000</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">400</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">400</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">400</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">300</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">300</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">300</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">200</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">200</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">200</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">200</span></p></td></tr><tr class=\"c10\"><td class=\"c3 c8\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">990</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">700</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">700</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">600</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">600</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">600</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">600</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">500</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">500</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">500</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">500</span></p></td></tr><tr class=\"c10\"><td class=\"c3 c8\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">980</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">1000</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">900</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">900</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">900</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">900</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">800</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">800</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">800</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">700</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">700</span></p></td></tr><tr class=\"c10\"><td class=\"c3 c8\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">970</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">1200</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">1200</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">1200</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">1200</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">1100</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">1100</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">1100</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">1100</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">1000</span></p></td><td class=\"c3\" colspan=\"1\" rowspan=\"1\"><p class=\"c2\"><span class=\"c0\">1000</span></p></td></tr></tbody></table><p class=\"c13\"><span class=\"c5\"></span></p><p class=\"c14\"><span class=\"c5\">Note to Low QNH Correction:</span></p><p class=\"c14\"><span class=\"c1\">Engine Failure</span></p><ul class=\"c4 lst-kix_vz5h5udeyh1z-0 start\"><li class=\"c9\"><span class=\"c5\">Preflight planning: No correction required.</span></li><li class=\"c9\"><span class=\"c5\">Inflight planning: Reduce the temperature corrected engine-out max altitude (from LPC or QRH_ by the QNH correction.</span></li></ul><p class=\"c14\"><span class=\"c16\">Decompression</span></p><ul class=\"c4 lst-kix_24nwh0k9ot80-0 start\"><li class=\"c9\"><span>Increase the relevant altitude constraint by the QNH correction.</span></li></ul></div></body></html>",
+        "_uri": null
+    },
+    {
+        "id": "HK-COMM-PROC",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Communcation Procedures",
+            "media_type": "text/plain"
+        },
+        "media": "Flights within 50NM of Hong Kong Intl airport shall not flight to to cruise at levels between 9000' and FL210.",
+        "_uri": null
+    },
+    {
+        "id": "UQ120-EJA",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Terrain Critical Depressurization",
+            "media_type": "text/html"
+        },
+        "media": "<!DOCTYPE html><html><head><style>ul{margin-left:0;padding-left:20px;}</style></head><body><font face='sans-serif'/><ul><li>Proceed direct to EJA while descending to 15000'.</li><li>At 50nm from EJA, descend to 10000'.</li></ul></body></html>",
+        "_uri": null
+    },
+    {
+        "id": "ETV-ARRIE",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "ARRIE Advisory",
+            "media_type": "text/plain"
+        },
+        "media": "Enjoy the view.",
+        "_uri": null
+    },
+    {
+        "id": "PAW_FLIGHT_LEVELS",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Flight Levels",
+            "media_type": "text/plain"
+        },
+        "media": "FL 180-430",
+        "_uri": null
+    },
+    {
+        "id": "PAE_FLIGHT_LEVELS",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "Flight Levels",
+            "media_type": "text/plain"
+        },
+        "media": "FL 250-270-290-330-370-410",
+        "_uri": null
+    },
+    {
+        "id": "PRT2TE_NOTE",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": null,
+            "title": "YSSY Airport Directory Information",
+            "media_type": "text/html"
+        },
+        "media": "<!DOCTYPE html>\n<html>\n<div class=\"page\" title=\"Page 1\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n    <style>\n    .header {\n        border: 2px solid black;\n        text-align: center;\n        letter-spacing:0.5px\n    }\n    </style>\n<h4 class=\"header\"><b>1 AIRPORT DIRECTORY <br> 1.254 SYDNEY YSSY/SYD</b></h4>\n\n</div>\n</div>\n</div>\n<div class=\"layoutArea\">\n<div class=\"column\">\n<h3>1.254 &emsp; Sydney YSSY/SYD</h3>\n<p style=margin-left:70px;><b>Australia</b></p>\n\n<h3>1.254.1 &thinsp; Classification</h3>\n<br>\n\n<!--table1-->\n<style>\n    .classificationTable, tr, th, td {\n        width:100%;\n        table-layout: fixed;\n        border: 1px solid black;\n        border-collapse:collapse;\n        text-align: center;\n    }\n</style>\n\n<table class=\"classificationTable\">\n    <tr>\n      <th>Type</th>\n      <th>Airport <br>Classification</th> \n      <th colspan=\"2\">Runways</th>\n    </tr>\n    <tr>\n      <td>B787</td>\n      <td>A</td> \n      <td>16LR/34LR</td>\n      <td colspan=\"1\" rowspan=\"2\">07/25</td>\n    </tr>\n\n  </table>\n  <br>\n\n<!--table2-->\n<style>\n    .serviceTable {\n        table-layout: fixed;\n        border: 1px solid black;\n        border-collapse:collapse;\n        width: 100%;\n        \n    }\n</style>\n<table class=\"serviceTable\">\n    <colgroup>\n        <col span=\"1\" style=\"width: 50%;\">\n        <col span=\"1\" style=\"width: 50%;\">\n        <col span=\"1\" style=\"width: 55%;\">\n        <col span=\"3\" style=\"width: 60%;\">\n    </colgroup>\n    <thead>\n    <tr>\n        <th rowspan=\"2\">Service</th>\n        <th rowspan=\"2\">Frequency</th>\n        <th rowspan=\"2\">Callsign</th>\n        <th colspan=\"3\">ACARS Addressing</th>\n    </tr>\n    <tr>\n        <th>Traffic (D)</th>\n        <th>Traffic (I)</th>\n        <th>Engineering</th>\n    </tr>\n    </thead>\n    <tbody>\n<tr>    \n    <td>Handling</td>\n    <td>129.500 - <br> Dom <br>131.700 - <br>Intl</td>\n    <td>Qantas <br>Sydney</td>\n    <td rowspan=\"3\">SYDKIQF</td>\n    <td rowspan=\"3\">SYDKOQF</td>\n    <td rowspan=\"3\">SYDEWQF <br> SYDEKQF</td>\n</tr>\n<tr>\n    <td>Engineering</td>\n    <td>119.525 - <br> Dom <br>131.700 - <br> Intl</td>\n    <td>Qantas <br> Engineering</td>\n    <td rowspan=\"2\"></td>\n    <td> </td>\n    <td> </td>\n</tr>\n<tr>\n    <td>Load Control</td>\n    <td>132.650</td>\n    <td>Qantas Load<br> Control</td>\n    <td> </td>\n    <td> </td>\n    <td> </td>\n</tr>\n<tr>\n    <td>Ops Control</td>\n    <td>129.500 - <br> Dom <br>131.700 - <br> Intl</td>\n    <td>Qantas <br> Control</td>\n    <td colspan=\"3\">SYDWWQF</td>\n</tr>\n<tr>\n    <td>Flight Dispatch</td>\n    <td>129.525 - <br> Dom <br>131.700 - <br> Intl</td>\n    <td>Qantas <br> Dispatch</td>\n    <td colspan=\"3\">SYDOSQF</td>\n    <td> </td>\n    <td> </td>\n</tr>\n</tbody>\n</table>\n<br>\n\n<!--Threat Box-->\n<style>\n    .threatBox {\n        border: 3px solid rgb(245, 194, 66);\n    }\n</style>\n<div class=\"threatBox\">\n<p><em>THREAT: 34R published missed approach procedures are a high workload manoeuvre capturing a mandatory turn and early level off. Do not delay the turn.</em></p>\n<p><em>Severe turbulence is possible on short final to Rwy 16R when the wind is between 200&deg; and 220&deg; and greater than 30 kt due to rotor turbulence caused by the international and freight terminals.</em></p>\n<p><em>Twys A4, B5, B7, T2, T3, and T4 are not to be used as High Speed Turnoffs. They do not conform to ICAO recommendations for Rapid Exit Taxiways.</em></p>\n<p><em>Aircraft that operate from Terminal 2 frequently use remote-controlled driverless tractors to position aircraft onto Twy C. Aircraft taxiing from Terminal 3 are to exercise caution when operating in the vicinity of this equipment.</em></p>\n<p><em>If entry to the Nowra Military Restricted areas south of Sydney may be needed due to weather requirements, clearance is required before takeoff.</em></p>\n<p><em>Pilots have reported a distraction hazard from unshielded playing field night lighting on Rwy 07 short final, south of the extended centreline.</em></p>\n</div>\n\n\n\n<h3>1.254.2 &emsp;General</h3>\n<h4>&numsp;Arrival Air Traffic Flow Management (ATFM)</h4>\n<p>&numsp;Arrival ATFM procedures apply. Refer to FAM Air Traffic Flow Management (AFTM) &ndash; &numsp;17.6.4.3, Arrival AFTM.</p>\n<h4><b>&numsp;Sydney Slot Compliance Scheme</b></h4>\n<p>\n    The scheme requires arriving and departing aircraft to operate within their allocated slot (blox) time. If flights operate outside their Allowed Tolerances the Company may be fined. Allowed Tolerances are as follows:\n</p>\n<ul>\n<li>\n<p>15 minutes for sectors less than three hours excluding departures from NOU, ASP, AYQ, CNS and NZ Airports.</p>\n</li>\n<li>\n<p>30 minutes for sectors three hours or longer.</p>\n<br>\n\n\n<div class=\"layoutArea\">\n<div class=\"column\">\n<h3>1.254.3 &numsp;Airport Hours</h3>\n<p>Curfew 2300 &ndash; 0600 LT</p>\n<p>Refer JTC 10-4B/J for additional restrictions during shoulder periods.</p>\n<p>Aircraft scheduled to arrive in the morning, prior to 0600 LT &ndash; may land before 0600 LT but not before 0500 LT. Failure to comply with the Curfew Regulations will render the Company liable to severe penalties. Compliance with the Curfew Regulations is the Captain&rsquo;s responsibility and the issue of a Takeoff or Landing Clearance does not override any regulation. The airport may not be nominated or used as an Alternate during the curfew.</p>\n<p><u>Note:</u> &numsp;<em>ATC do not police the curfew and will only advise that the curfew exists and for aircraft to advise intentions. Providing that a taxi clearance is received prior to 2300 LT, aircraft may depart from Rwy 16R after 2300 LT. For departures from Rwy 34L, aircraft are required to be airborne no later than 2245 LT.</em></p>\n<h3>1.254.4 &numsp;Arrivals</h3>\n<p>Ferry flights must advise Sydney Approach on first contact of their intended parking area,</p>\n<p>e.g: Domestic, International or Maintenance.</p>\n<p>For a turning Missed Approach, e.g. ILS DME Rwy 16L, the turn should not be commenced until reaching the published Missed Approach Point unless instructed by ATC. The use of the term &lsquo;Mandatory&rsquo; with the turning altitude does not override this requirement.</p>\n<p>Sydney Tower will provide the following additional information prior to issuing a landing clearance:</p>\n<ul>\n<li>\n<p>The runway threshold wind.</p>\n</li>\n<li>\n<p>The unavailability of a taxiway that would normally be used to exit the runway.</p>\n</li>\n<li>\n<p>Any interruption to the PAPI as a result of an intensity adjustment.</p>\n</li>\n</ul>\n</div>\n</div>\n\n</div>\n</div>\n<div class=\"page\" title=\"Page 4\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n\n</div>\n</div>\n</div>\n<div class=\"layoutArea\">\n<div class=\"column\">\n<h4>PRM Approaches</h4>\n<p>Refer to JTC Sydney 11-0 Dual VHF Requirements. The requirement to &ldquo;have the relevant PRM frequency selected prior to transfer to aerodrome control&rdquo; does not infer that there is a requirement to monitor the PRM frequency prior to changing to the Tower frequency. It must, however, be monitored at all times when in contact with the Tower. The Tower will transmit on both frequencies so that in the event of a problem with the Tower&rsquo;s transmission, the PRM frequency can be used to issue any breakout instructions.</p>\n<p>Interception of the localiser will occur at a minimum of 12 nm to touchdown.</p>\n<p>Aircraft will not be cleared to intercept the final approach course until maintaining the final cleared altitude. This requires an early level off at 2000 ft for Rwy 34R and 3000 ft for Rwy 16R. Aircraft will be cleared at 3000 ft or higher for Rwy 34L and 4000 ft or higher for Rwy 16L for dependant approach separation.</p>\n<p>Specific STARS may be assigned when ILS PRM approaches are in use (eg. BOREE &ldquo;P&rdquo; STAR for 16R) to achieve the early level segment required for 16R and 34R. Crew reports highlight the need for careful energy and AFS mode management to simultaneously achieve the altitude constraints, reduce to approach speed and capture the G/S when cleared via these STARs. Note that if cleared to &ldquo;Descend via the STAR&rdquo; and then subsequently &ldquo;Cleared ILS PRM approach&rdquo;, the STAR altitude requirements still apply and early G/S capture should be avoided.</p>\n<h4>Independent Visual Approaches</h4>\n<p>For parallel approaches at Sydney, Flight Crew are encouraged to utilise an appropriate Autopilot Flight Director System (AFDS) mode to ensure that the aircraft intercepts and tracks the final approach path of the nominated runway. Flight Crew should only cross the extended centreline of the nominated runway under specific instruction of the ATC controller.</p>\n\n\n<h3>1.254.5 &numsp;Noise Abatement</h3>\n<p>Use Rwy 16L/34R when advised by ATC and when operationally acceptable.</p>\n<p>Aircraft scheduled to arrive prior to 0600 LT must use Rwys 34L/R due to noise abatement reasons. A CAV has been issued to allow aircraft to hold until 0600 LT for those occasions when Rwys 34L/R is unable to be used. See Sydney Early Arrivals &ndash; CAV 01/98 on 4.1.3.</p>\n\n</div>\n</div>\n<div class=\"page\" title=\"Page 5\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n\n</div>\n</div>\n</div>\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Idle reverse thrust is to be used after landing during the curfew period. Refer also to JTC 10-4D. An Intelex Pilot Report is to be submitted if reverse thrust above idle is used during this period.</p>\n\n\n<h3>1.254.6 &numsp;Ground Operations</h3>\n<h4>1.254.6.1 &numsp;General</h4>\n<p>Airport appears in aircraft AMM database.</p>\n<p>International Terminal Operations: Careful consideration of jet blast affecting standoff bays 11 and 12 should be made when turning onto International terminal bays from apron taxiways Intl 1 and 2.</p>\n<p>For flights departing the domestic and international terminals, the bay number must be advised when reading back the PDC or requesting airways clearance.</p>\n<p>International Eastern Apron: Avoid stopping while exiting via Twy INTL-3 to safeguard personnel and equipment at Bays 31 and 33.</p>\n<p>Ferry and maintenance flights, to and from the hangar area, will arrive at or depart from Bays 84 or 85. Tow to or from these positions will be arranged as needed.</p>\n<p>Interference has been reported at times when parked on bays 8, 32, 34 and 54. The interference normally ceases when the bridge has been withdrawn, or the aircraft pushes back.</p>\n<p>Parking at Gate 31, 33 and 35 is susceptible to overshooting.</p>\n\n\n<h4>1.254.6.2 &numsp;Parking &ndash; International Terminal</h4>\n<p>Not Applicable</p>\n\n\n<h4>1.254.6.3 &numsp;Parking &ndash; Domestic Terminal</h4>\n<p>Parking at Bay 13 is not available when a B737 is parked on Bay 12 and/or Bay 14.</p>\n<p>The primary taxiway onto DOM 1 apron is Twy B2. Refer to Jeppesen 10-9C-2A/2B for bay suitability and restrictions.</p>\n\n</div>\n</div>\n<div class=\"page\" title=\"Page 6\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n\n</div>\n</div>\n</div>\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Bay 7A: When approaching from the west, the lead-in line for Bay 7A is 21 m beyond the lead-in line to Bay 6. Extreme caution should be exercised when entering the bay, as the aircraft must turn through approximately 135 degrees and park so as to face southwest. If hand marshalling is required, the marshaller will stand next to the one way sign on the left of the lead-in line.</p>\n<h3>1.254.7 &numsp;Departures</h3>\n<p>For International departures, ATC may not always approve a request for a Twy G intersection departure due to the aircraft potentially blocking other traffic on Twy A.</p>\n<p>Heavy weight departures may not meet the specified SID climb gradient for departures on Rwy 34L.</p>\n<p>Use OPT Takeoff &ndash; All Engines module to determine aircraft gradient capability required to meet SID requirement or advise ATC to request an alternate SID.</p>\n<p>Domestic Taxi Routes</p>\n<p>All Qantas aircraft operating to or from Qantas Terminal 3 will, unless instructed otherwise by ATC, taxi via:</p>\n<ul>\n<li>\n<p>Twy B northbound.</p>\n</li>\n<li>\n<p>Twy C southbound.</p>\n<p>For runways 16LR/34LR, Refer Jeppesen Standard Domestic Taxi Routes (pages 10-6 and 10-6A).</p>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</html>",
+        "_uri": null
+    },
+    {
+        "id": "NZWN_Classification",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": "1.276.1 Classification",
+            "title": null,
+            "media_type": "text/html"
+        },
+        "media": "<!DOCTYPE html>\n<html lang=\"en\">\n <head>\n  <meta charset=\"utf-8\"/>\n  <meta content=\"text/html; charset=utf-8\" http-equiv=\"X-UA-Compatible\"/>\n  <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\"/>\n  <title>\n   NZWN Airport Briefing\n  </title>\n </head>\n <body>\n  <!--ClassificationTable1-->\n  <style>\n   .classificationTable, tr, th, td {\n        width:100%;\n        table-layout: fixed;\n        border: 1px solid black;\n        border-collapse:collapse;\n        text-align: center;\n        }\n  </style>\n  <table class=\"classificationTable\">\n   <tr>\n    <th>\n     Type\n    </th>\n    <th>\n     Airport\n     <br/>\n     Classification\n    </th>\n    <th>\n     Runways\n    </th>\n   </tr>\n   <tr>\n    <td>\n     B787\n    </td>\n    <td>\n     B\n    </td>\n    <td>\n     16/34\n    </td>\n   </tr>\n  </table>\n  <br/>\n  <!--ClassificationTable2-->\n  <style>\n   .serviceTable {\n      table-layout: fixed;\n      border: 1px solid black;\n      border-collapse:collapse;\n      width: 100%;\n      }\n  </style>\n  <table class=\"serviceTable\">\n   <colgroup>\n    <col span=\"1\" style=\"width: 50%;\"/>\n    <col span=\"1\" style=\"width: 50%;\"/>\n    <col span=\"1\" style=\"width: 55%;\"/>\n    <col span=\"3\" style=\"width: 60%;\"/>\n   </colgroup>\n   <thead>\n    <tr>\n     <th rowspan=\"2\">\n      Service\n     </th>\n     <th rowspan=\"2\">\n      Frequency\n     </th>\n     <th rowspan=\"2\">\n      Callsign\n     </th>\n     <th colspan=\"3\">\n      ACARS Addressing\n     </th>\n    </tr>\n    <tr>\n     <th>\n      Traffic (D)\n     </th>\n     <th>\n      Traffic (I)\n     </th>\n     <th>\n      Engineering\n     </th>\n    </tr>\n   </thead>\n   <tbody>\n    <tr>\n     <td>\n      Handling\n     </td>\n     <td>\n      133.725\n     </td>\n     <td>\n      Menzies\n     </td>\n     <td rowspan=\"3\">\n      -\n     </td>\n     <td rowspan=\"3\">\n      WLGOO7X\n     </td>\n     <td rowspan=\"3\">\n      -\n     </td>\n    </tr>\n    <tr>\n     <td>\n      Engineering\n     </td>\n     <td>\n      133.725\n     </td>\n     <td>\n      Menzies Operations\n      <br/>\n      Request JG\n      <br/>\n      engineering or phone\n      <br/>\n      Jetstar Duty Engineer\n      <br/>\n      +64 (0) 21650362\n     </td>\n     <td rowspan=\"2\">\n     </td>\n     <td>\n     </td>\n     <td>\n     </td>\n    </tr>\n   </tbody>\n  </table>\n  <br/>\n  <!--Threat Box-->\n  <style>\n   .threatBox {\n      border: 3px solid rgb(245, 194, 66);\n      }\n  </style>\n  <div class=\"threatBox\">\n   <p>\n    <em>\n     THREAT: High terrain in close proximity.\n    </em>\n   </p>\n   <p>\n    <em>\n     Windshear and severe turbulence in strong westerly through north to north-easterly winds.\n    </em>\n   </p>\n   <p>\n    <em>\n     Pilot reports indicate possible very low level windshear.\n    </em>\n   </p>\n   <p>\n    <em>\n     Rwy 16 and Rwy 34 Harbour Circuit SIDs are not to be flown.\n    </em>\n   </p>\n   <p>\n    <em>\n     In conditions of strong, gusty, southerly winds, sea spray can soak the Rwy 34 THR and Twy A10\n    </em>\n   </p>\n   <p>\n    <em>\n     Landings are not recommended when the wind strength is 60 kts or greater.\n    </em>\n   </p>\n   <p>\n    <em>\n     Exercise caution whenever shipping is manoeuvring in Evans Bay (immediately north of the harbour). ATC will report shipping obstructions for landing on Rwy 16 when vessels with mast heights exceeding 80 ft are within one mile of the Rwy 16 threshold.\n    </em>\n   </p>\n   <p>\n    <em>\n     Ships with mast height exceeding 101 ft at Miramar wharf and 134 ft at Burnham wharf will be reported by NOTAM. These obstacles infringe the 1 in 7 transitional side clearances.\n    </em>\n   </p>\n   <p>\n    <em>\n     Refer to Wellington Airport Briefing in this section.\n    </em>\n   </p>\n  </div>\n </body>\n</html>",
+        "_uri": "./HTML/NZWN_Qantas_Note.emb.html"
+    },
+    {
+        "id": "NZWN_Constraints",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": "1.276.2 Constraints",
+            "title": null,
+            "media_type": "text/plain"
+        },
+        "media": "Wellington airport may be planned as a departure or a destination airport for charter flights only. The airport is authorised to be used as an Alternate or Adequate airport for all other operations. ",
+        "_uri": null
+    },
+    {
+        "id": "NZWN_AirportHours",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": "1.276.3 Airport Hours",
+            "title": null,
+            "media_type": "text/plain"
+        },
+        "media": "Curfew hours and associated prohibitions are detailed in Jeppesen 10-4. Heavy penalties apply for breaching the curfew.\nDisrupted flights as defined in Jeppesen 10-4 during statutory holiday periods are permitted to operate for an additional one hour (1 HR) beyond the disrupted schedule allowance. A statutory holiday period is defined as follows:\n1. The period from 25 December to 2 January, inclusive. Where 25 December falls on either a Sunday or a Monday, the period includes the entire or previous weekend. Where New Year\u2019s Day falls on a weekend, the period includes the two subsequent working days. Where 2 January falls on a Friday, the period includes the following weekend.\n2. The Saturday, Sunday, and Monday of Wellington Anniversary weekend, Queens Birthday weekend and Labour weekend.\n3. Good Friday to Easter Monday inclusive.\n4. Waitangi Day (06 February).\n5. Anzac Day.\n6. Where Waitangi Day or Anzac Day Falls on a Friday or a Monday, the adjacent weekend is included in the statutory holiday period.\n7. The hours from midnight to 6 am immediately following the expiry of each statutory holiday period defined in 1 to 6 above.\nWellington may be used as an alternate during curfew hours.\nNote: ATC does not have the authority to relax curfew requirements.",
+        "_uri": null
+    },
+    {
+        "id": "NZWN_ATC",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": "1.276.4 ATC",
+            "title": null,
+            "media_type": "text/plain"
+        },
+        "media": "Wellington TWR/APP/FIS H24.\nHeavy traffic congestion may result in enroute holding, or startup delays. Peak traffic times are 0700\u20131030 and 1530\u20131800LT daily, and one hour later during Daylight Saving.",
+        "_uri": null
+    },
+    {
+        "id": "NZWN_Arrivals",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": "1.276.5 Arrivals",
+            "title": null,
+            "media_type": "text/plain"
+        },
+        "media": "All arriving flights for Rwy 16 must track via WITBY (D12.0 IEB) or equivalent; this requirement does not apply to RNP-AR operations. For Rwy 34, when Radar identified, aircraft are normally cleared direct LYALL.\nTo facilitate \u201cProtection of the Missed Approach\u201d ATC may instruct the aircraft to enter the Harbour Circuit in the event of a go-around \u2013 Jepp page 10-8A refers. Qantas Flight Crew are not to enter the Wellington Harbour Circuit and must complete the full missed approach procedure. Advise both Approach and Tower on first contact that the Harbour Circuit will not be flown in the event of a go-around.\nTraffic Holding Fuel Advisory (refer FAM Qantas Fuel Policy) 20 minutes as follows:\nMON \u2013 FRI: \u2022 1930 \u2013 2100 UTC \u2022 0500 \u2013 0700 UTC\nOne hour earlier during NZ Daylight Savings (Last Sunday in September \u2013 first Sunday in April)\nNote: 40 minutes is recommended when current or forecast meteorological conditions are below ceiling 1,500 ft AMSL or visibility 5 km.\nDue to siting problems, the Rwy 16 and Rwy 34 Glideslopes have restricted coverage to the east and west. They are also lower at their western edges than at centre. Consequently, when arriving from the west, selecting approach prior to Localiser capture will give the appearance of capturing a low lobe of the Glideslope. Delaying the selection until on centreline will result in the expected 3\u00b0 glideslope.\nIn addition to the notes on the Jeppesen Charts, the New Zealand AIP States that autocoupling should not be attempted until within +/-10\u00b0 of final approach track.\nRwy 16 ILS DME (IEB) coverage is restricted to within +/-10\u00b0 of the LLZ centreline. Scalloping may be experienced when using Rwy 34 ILS due to passing road traffic.\nWhen interrogating the WN VOR, radial roughness and occasional flag warnings may be experienced over high terrain at the minimum safe altitude. The WN DME has limited range to the east and west.",
+        "_uri": null
+    },
+    {
+        "id": "NZWN_Ground Operations",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": "1.276.6 Ground Operations",
+            "title": null,
+            "media_type": "text/plain"
+        },
+        "media": "CAT D aircraft using Stand 23 must taxi via Twy A and B6.\nParking bay positions have aerobridges with a self docking guidance system.\nNote: As the aerobridge is fixed, it is important the aircraft is stopped correctly as defined by the Side Marker Board.",
+        "_uri": null
+    },
+    {
+        "id": "NZWN_Departures",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": "1.276.7 Departures",
+            "title": null,
+            "media_type": "text/plain"
+        },
+        "media": "When given instructions to call a particular frequency after takeoff, the frequency change should be made automatically. ",
+        "_uri": null
+    },
+    {
+        "id": "NZWN_PavementLimits",
+        "nav_type": "comp_note",
+        "revised": null,
+        "effective": null,
+        "properties": {
+            "note_type": "Operational",
+            "note_topic_id": "1.276.8 Pavement Limitations and Concessions",
+            "title": null,
+            "media_type": "text/html"
+        },
+        "media": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>PavementLimitTable</title>\n</head>\n<body>\n    <style>\n        .classificationTable, tr, th, td {\n        width:100%;\n        table-layout: fixed;\n        border: 1px solid black;\n        border-collapse:collapse;\n        text-align: center;\n        }\n     </style>\n    <table class=\"classificationTable\">\n        <tr>\n           <th>Type</th>\n           <th>Aircraft Weight Limit</th>\n        </tr>\n        <tr>\n           <td>B787</td>\n           <td>212,300 kg</td>\n        </tr>\n     </table>\n     <br>\n</body>\n</html>",
+        "_uri": null
+    }
+]

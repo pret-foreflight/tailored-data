@@ -1,0 +1,40 @@
+[
+    {
+        "id": "mora-124+47",
+        "nav_type": "comp_grid_mora",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "resolution": 1,
+            "mora": 10400,
+            "unit": "ft"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -124.0,
+                47.0
+            ]
+        }
+    },
+    {
+        "id": "mora-124+48",
+        "nav_type": "comp_grid_mora",
+        "revised": null,
+        "effective": null,
+        "type": "Feature",
+        "properties": {
+            "resolution": 1,
+            "mora": 8600,
+            "unit": "ft"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -124.0,
+                48.0
+            ]
+        }
+    }
+]

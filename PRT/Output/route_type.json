@@ -1,0 +1,32 @@
+[
+    {
+        "id": "COMPANY",
+        "nav_type": "route_type",
+        "name": "Company",
+        "description": "Normal operations and airways (ex. brown routes).",
+        "company_wide": true,
+        "visibility": "Always",
+        "depict_id": "STD_COMPANY",
+        "reserved": true
+    },
+    {
+        "id": "SPECIAL_PROCEDURE",
+        "nav_type": "route_type",
+        "name": "Special Procedure",
+        "description": "Requiring special procedures (ex. terrain clearance areas).",
+        "company_wide": false,
+        "visibility": "When-Routed",
+        "depict_id": "STD_SPECIAL_PROC",
+        "reserved": true
+    },
+    {
+        "id": "DIVERSION",
+        "nav_type": "route_type",
+        "name": "Diversion",
+        "description": "Routes to divert to (ex. escape procedures).",
+        "company_wide": false,
+        "visibility": "As-Diversion",
+        "depict_id": "STD_DIVERSION",
+        "reserved": true
+    }
+]

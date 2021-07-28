@@ -1,0 +1,112 @@
+[
+    {
+        "id": "NFA",
+        "nav_type": "boundary_type",
+        "name": "NFA",
+        "label": "No Fly Area",
+        "description": "No Fly Area",
+        "route_queryable": true,
+        "company_wide": true,
+        "reserved": true,
+        "depict_id": "STD_NFA"
+    },
+    {
+        "id": "NOA",
+        "nav_type": "boundary_type",
+        "name": "NOA",
+        "label": "No Operations Area",
+        "description": "No Operations Area",
+        "route_queryable": true,
+        "company_wide": true,
+        "reserved": true,
+        "depict_id": "STD_NOA"
+    },
+    {
+        "id": "TRA",
+        "nav_type": "boundary_type",
+        "name": "TRA",
+        "label": null,
+        "description": "Terrain Awareness Area",
+        "route_queryable": true,
+        "company_wide": false,
+        "reserved": true,
+        "depict_id": "STD_TRA"
+    },
+    {
+        "id": "MWA",
+        "nav_type": "boundary_type",
+        "name": "MWA",
+        "label": null,
+        "description": "Mount Wave Area",
+        "route_queryable": false,
+        "company_wide": false,
+        "reserved": true,
+        "depict_id": "STD_MWA"
+    },
+    {
+        "id": "DFS",
+        "nav_type": "boundary_type",
+        "name": "DFS",
+        "label": null,
+        "description": "Distance From Shoreline",
+        "route_queryable": false,
+        "company_wide": false,
+        "reserved": true,
+        "depict_id": "STD_DFS"
+    },
+    {
+        "id": "ESC_ZONE",
+        "nav_type": "boundary_type",
+        "name": "ESC_ZONE",
+        "label": null,
+        "description": "Escape Zone",
+        "route_queryable": true,
+        "company_wide": false,
+        "reserved": true,
+        "depict_id": "STD_ESC_ZONE"
+    },
+    {
+        "id": "ALT_CHG",
+        "nav_type": "boundary_type",
+        "name": "ALT_CHG",
+        "label": null,
+        "description": "Altitude Change",
+        "route_queryable": false,
+        "company_wide": false,
+        "reserved": true,
+        "depict_id": "STD_ALT_CHG"
+    },
+    {
+        "id": "CMP_ESC_LINE",
+        "nav_type": "boundary_type",
+        "name": "ESC_LINE",
+        "label": null,
+        "description": "Escape Line",
+        "route_queryable": false,
+        "company_wide": false,
+        "reserved": false,
+        "depict_id": "CMP_ESC_TO_LINE"
+    },
+    {
+        "id": "CMP_TST",
+        "nav_type": "boundary_type",
+        "name": "TST",
+        "label": null,
+        "description": "CMP Test Usage",
+        "route_queryable": false,
+        "company_wide": true,
+        "reserved": false,
+        "depict_id": "CMP_CMP_TST"
+    },
+    {
+        "id": "CMP_VOLCANO",
+        "nav_type": "boundary_type",
+        "name": "VOLCANO",
+        "label": "Volcanic Activity",
+        "description": "Company Volcanic Activity",
+        "route_queryable": false,
+        "company_wide": true,
+        "reserved": false,
+        "depict_id": "CMP_VOLCANO"
+    }
+]

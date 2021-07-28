@@ -1,0 +1,782 @@
+[
+    {
+        "id": "STD_NFA",
+        "depict_type": "boundary_depiction",
+        "description": "No Fly Area",
+        "zoom_level": 1,
+        "reserved": true,
+        "fill": {
+            "style": "Solid",
+            "opacity": 50,
+            "colors": {
+                "light": "#662B2B",
+                "dark": "#8D4141"
+            }
+        },
+        "lines": [
+            {
+                "style": "Solid",
+                "width": "Thin",
+                "gap": "None",
+                "opacity": 100,
+                "colors": {
+                    "light": "#662B2B",
+                    "dark": "#8D4141"
+                }
+            }
+        ],
+        "labels": [
+            {
+                "opacity": 100,
+                "colors": {
+                    "light": "#662B2B",
+                    "dark": "#8D4141"
+                },
+                "position": "Inside",
+                "box": {
+                    "line": {
+                        "style": "None",
+                        "width": "Thin",
+                        "gap": null,
+                        "opacity": 0,
+                        "colors": {
+                            "light": null,
+                            "dark": null
+                        }
+                    },
+                    "fill": {
+                        "style": "None",
+                        "opacity": 0,
+                        "colors": {
+                            "light": null,
+                            "dark": null
+                        }
+                    }
+                },
+                "zoom_level": null,
+                "name": "Usage"
+            },
+            {
+                "opacity": 100,
+                "colors": {
+                    "light": "#662B2B",
+                    "dark": "#8D4141"
+                },
+                "position": "Outside",
+                "box": {
+                    "line": {
+                        "style": null,
+                        "width": null,
+                        "gap": null,
+                        "opacity": null,
+                        "colors": {
+                            "light": null,
+                            "dark": null
+                        }
+                    },
+                    "fill": {
+                        "style": null,
+                        "opacity": null,
+                        "colors": {
+                            "light": null,
+                            "dark": null
+                        }
+                    }
+                },
+                "zoom_level": null,
+                "name": "Label"
+            }
+        ]
+    },
+    {
+        "id": "STD_NOA",
+        "depict_type": "boundary_depiction",
+        "description": "No Operations Area",
+        "zoom_level": 1,
+        "reserved": true,
+        "fill": {
+            "style": "Solid",
+            "opacity": 25,
+            "colors": {
+                "light": "#FF0049",
+                "dark": "#FF7B52"
+            }
+        },
+        "lines": [
+            {
+                "style": "Solid",
+                "width": "Thin",
+                "gap": "None",
+                "opacity": 100,
+                "colors": {
+                    "light": "#FF0049",
+                    "dark": "#FF7B52"
+                }
+            }
+        ],
+        "labels": [
+            {
+                "opacity": 100,
+                "colors": {
+                    "light": "#FF0049",
+                    "dark": "#FF7B52"
+                },
+                "position": "Inside",
+                "box": {
+                    "line": {
+                        "style": "None",
+                        "width": "Thin",
+                        "gap": null,
+                        "opacity": 0,
+                        "colors": {
+                            "light": null,
+                            "dark": null
+                        }
+                    },
+                    "fill": {
+                        "style": "None",
+                        "opacity": 0,
+                        "colors": {
+                            "light": null,
+                            "dark": null
+                        }
+                    }
+                },
+                "zoom_level": null,
+                "name": "Usage"
+            },
+            {
+                "opacity": 100,
+                "colors": {
+                    "light": "#FF0049",
+                    "dark": "#FF7B52"
+                },
+                "position": "Outside",
+                "box": {
+                    "line": {
+                        "style": null,
+                        "width": null,
+                        "gap": null,
+                        "opacity": null,
+                        "colors": {
+                            "light": null,
+                            "dark": null
+                        }
+                    },
+                    "fill": {
+                        "style": null,
+                        "opacity": null,
+                        "colors": {
+                            "light": null,
+                            "dark": null
+                        }
+                    }
+                },
+                "zoom_level": null,
+                "name": "Label"
+            }
+        ]
+    },
+    {
+        "id": "STD_TRA",
+        "depict_type": "boundary_depiction",
+        "description": "Terrain Awareness Area",
+        "zoom_level": 1,
+        "reserved": true,
+        "fill": {
+            "style": "None",
+            "opacity": 0,
+            "colors": {
+                "light": null,
+                "dark": null
+            }
+        },
+        "lines": [
+            {
+                "style": "Dash",
+                "width": "Medium",
+                "gap": "None",
+                "opacity": 100,
+                "colors": {
+                    "light": "#5C3811",
+                    "dark": "#5C3811"
+                }
+            },
+            {
+                "style": "Solid",
+                "width": "Thin",
+                "gap": "Narrow",
+                "opacity": 100,
+                "colors": {
+                    "light": "#5C3811",
+                    "dark": "#5C3811"
+                }
+            }
+        ],
+        "labels": [
+            {
+                "opacity": 100,
+                "colors": {
+                    "light": "#5C3811",
+                    "dark": "#5C3811"
+                },
+                "position": "Outside",
+                "box": {
+                    "line": {
+                        "style": "None",
+                        "width": "Thin",
+                        "gap": null,
+                        "opacity": 0,
+                        "colors": {
+                            "light": null,
+                            "dark": null
+                        }
+                    },
+                    "fill": {
+                        "style": "None",
+                        "opacity": 0,
+                        "colors": {
+                            "light": null,
+                            "dark": null
+                        }
+                    }
+                },
+                "zoom_level": null,
+                "name": "Label"
+            }
+        ]
+    },
+    {
+        "id": "STD_MWA",
+        "depict_type": "boundary_depiction",
+        "description": "Mountain Wave Area",
+        "zoom_level": 1,
+        "reserved": true,
+        "fill": {
+            "style": "None",
+            "opacity": 0,
+            "colors": {
+                "light": null,
+                "dark": null
+            }
+        },
+        "lines": [
+            {
+                "style": "Mountain-Wave",
+                "width": "Medium",
+                "gap": "None",
+                "opacity": 100,
+                "colors": {
+                    "light": "#429A50",
+                    "dark": "#006900"
+                }
+            }
+        ],
+        "labels": [
+            {
+                "opacity": 100,
+                "colors": {
+                    "light": "#000000",
+                    "dark": "#000000"
+                },
+                "position": "Outside",
+                "box": {
+                    "line": {
+                        "style": "None",
+                        "width": "Thin",
+                        "gap": null,
+                        "opacity": 0,
+                        "colors": {
+                            "light": null,
+                            "dark": null
+                        }
+                    },
+                    "fill": {
+                        "style": "None",
+                        "opacity": 0,
+                        "colors": {
+                            "light": null,
+                            "dark": null
+                        }
+                    }
+                },
+                "zoom_level": null,
+                "name": "Label"
+            },
+            {
+                "opacity": 100,
+                "colors": {
+                    "light": "#000000",
+                    "dark": "#000000"
+                },
+                "position": "Line",
+                "box": {
+                    "line": {
+                        "style": "Solid",
+                        "width": "Thin",
+                        "gap": null,
+                        "opacity": 100,
+                        "colors": {
+                            "light": "#000000",
+                            "dark": "#000000"
+                        }
+                    },
+                    "fill": {
+                        "style": "Solid",
+                        "opacity": 100,
+                        "colors": {
+                            "light": "#FFFFFF",
+                            "dark": "#000000"
+                        }
+                    }
+                },
+                "zoom_level": null,
+                "name": "Inline Label"
+            }
+        ]
+    },
+    {
+        "id": "STD_DFS",
+        "depict_type": "boundary_depiction",
+        "description": "Distance From Shore",
+        "zoom_level": 1,
+        "reserved": true,
+        "fill": {
+            "style": "None",
+            "opacity": 0,
+            "colors": {
+                "light": null,
+                "dark": null
+            }
+        },
+        "lines": [
+            {
+                "style": "Solid",
+                "width": "Thick",
+                "gap": "None",
+                "opacity": 50,
+                "colors": {
+                    "light": "#662B2B",
+                    "dark": "#8D4141"
+                }
+            },
+            {
+                "style": "Solid",
+                "width": "Thin",
+                "gap": "Narrow",
+                "opacity": 50,
+                "colors": {
+                    "light": "#662B2B",
+                    "dark": "#8D4141"
+                }
+            }
+        ],
+        "labels": [
+            {
+                "opacity": 50,
+                "colors": {
+                    "light": "#662B2B",
+                    "dark": "#8D4141"
+                },
+                "position": "Line",
+                "box": {
+                    "line": {
+                        "style": "None",
+                        "width": "None",
+                        "gap": null,
+                        "opacity": 50,
+                        "colors": {
+                            "light": "#662B2B",
+                            "dark": "#8D4141"
+                        }
+                    },
+                    "fill": {
+                        "style": "Solid",
+                        "opacity": 100,
+                        "colors": {
+                            "light": "#FFFFFF",
+                            "dark": "#000000"
+                        }
+                    }
+                },
+                "zoom_level": null,
+                "name": "Inline Label"
+            }
+        ]
+    },
+    {
+        "id": "STD_ESC_ZONE",
+        "depict_type": "boundary_depiction",
+        "description": "Escape Zone",
+        "zoom_level": 1,
+        "reserved": true,
+        "fill": {
+            "style": "Solid",
+            "opacity": 20,
+            "colors": {
+                "light": "#5C3811",
+                "dark": "#5C3811"
+            }
+        },
+        "lines": [
+            {
+                "style": "Solid",
+                "width": "Medium",
+                "gap": "None",
+                "opacity": 100,
+                "colors": {
+                    "light": "#5C3811",
+                    "dark": "#5C3811"
+                }
+            }
+        ],
+        "labels": [
+            {
+                "opacity": 100,
+                "colors": {
+                    "light": "#000000",
+                    "dark": "#000000"
+                },
+                "position": "Inside",
+                "box": {
+                    "line": {
+                        "style": "None",
+                        "width": "None",
+                        "gap": null,
+                        "opacity": 0,
+                        "colors": {
+                            "light": null,
+                            "dark": null
+                        }
+                    },
+                    "fill": {
+                        "style": "None",
+                        "opacity": 0,
+                        "colors": {
+                            "light": null,
+                            "dark": null
+                        }
+                    }
+                },
+                "zoom_level": null,
+                "name": "Label"
+            }
+        ]
+    },
+    {
+        "id": "STD_ALT_CHG",
+        "depict_type": "boundary_depiction",
+        "description": "Altitude Change",
+        "zoom_level": 1,
+        "reserved": true,
+        "fill": {
+            "style": "None",
+            "opacity": 0,
+            "colors": {
+                "light": null,
+                "dark": null
+            }
+        },
+        "lines": [
+            {
+                "style": "Dash",
+                "width": "Medium",
+                "gap": "None",
+                "opacity": 100,
+                "colors": {
+                    "light": "#000000",
+                    "dark": "#000000"
+                }
+            }
+        ],
+        "labels": [
+            {
+                "opacity": 100,
+                "colors": {
+                    "light": "#000000",
+                    "dark": "#000000"
+                },
+                "position": "Inside",
+                "box": {
+                    "line": {
+                        "style": "None",
+                        "width": "Thin",
+                        "gap": null,
+                        "opacity": 0,
+                        "colors": {
+                            "light": null,
+                            "dark": null
+                        }
+                    },
+                    "fill": {
+                        "style": "None",
+                        "opacity": 0,
+                        "colors": {
+                            "light": null,
+                            "dark": null
+                        }
+                    }
+                },
+                "zoom_level": null,
+                "name": "Label"
+            }
+        ]
+    },
+    {
+        "id": "CMP_ESC_TO_LINE",
+        "depict_type": "boundary_depiction",
+        "description": "Escape-To Line",
+        "zoom_level": 1,
+        "reserved": false,
+        "fill": {
+            "style": "None",
+            "opacity": 0,
+            "colors": {
+                "light": "#000000",
+                "dark": "#000000"
+            }
+        },
+        "lines": [
+            {
+                "style": "Solid",
+                "width": "Medium",
+                "gap": "None",
+                "opacity": 100,
+                "colors": {
+                    "light": "#AE0015",
+                    "dark": "#C20018"
+                }
+            },
+            {
+                "style": "Solid",
+                "width": "Medium",
+                "gap": "Narrow",
+                "opacity": 100,
+                "colors": {
+                    "light": null,
+                    "dark": null
+                }
+            }
+        ],
+        "labels": [
+            {
+                "opacity": 100,
+                "colors": {
+                    "light": "#000000",
+                    "dark": "#000000"
+                },
+                "position": "Line",
+                "box": {
+                    "line": {
+                        "style": "Solid",
+                        "width": "Thin",
+                        "gap": null,
+                        "opacity": 100,
+                        "colors": {
+                            "light": "#AE0015",
+                            "dark": "#C20018"
+                        }
+                    },
+                    "fill": {
+                        "style": "Solid",
+                        "opacity": 100,
+                        "colors": {
+                            "light": "#FFFFFF",
+                            "dark": "#000000"
+                        }
+                    }
+                },
+                "zoom_level": null,
+                "name": "Label"
+            }
+        ]
+    },
+    {
+        "id": "CMP_CMP_TST",
+        "depict_type": "boundary_depiction",
+        "description": "CMP Test",
+        "zoom_level": 0,
+        "reserved": false,
+        "fill": {
+            "style": "Solid",
+            "opacity": 25,
+            "colors": {
+                "light": "#AE0015",
+                "dark": "#C20018"
+            }
+        },
+        "lines": [
+            {
+                "style": "Solid",
+                "width": "Thick",
+                "gap": "None",
+                "opacity": 50,
+                "colors": {
+                    "light": "#004690",
+                    "dark": "#007BD5"
+                }
+            },
+            {
+                "style": "Solid",
+                "width": "Thick",
+                "gap": "Narrow",
+                "opacity": 50,
+                "colors": {
+                    "light": "#AE0015",
+                    "dark": "#C20018"
+                }
+            }
+        ],
+        "labels": [
+            {
+                "opacity": 100,
+                "colors": {
+                    "light": "#000000",
+                    "dark": "#000000"
+                },
+                "position": "Outside",
+                "box": {
+                    "line": {
+                        "style": "None",
+                        "width": "None",
+                        "gap": null,
+                        "opacity": 0,
+                        "colors": {
+                            "light": "#000000",
+                            "dark": "#000000"
+                        }
+                    },
+                    "fill": {
+                        "style": "None",
+                        "opacity": 0,
+                        "colors": {
+                            "light": "#FFFFFF",
+                            "dark": "#000000"
+                        }
+                    }
+                },
+                "zoom_level": null,
+                "name": "Label"
+            },
+            {
+                "opacity": 100,
+                "colors": {
+                    "light": "#000000",
+                    "dark": "#000000"
+                },
+                "position": "Line",
+                "box": {
+                    "line": {
+                        "style": "Solid-Dash",
+                        "width": "Thin",
+                        "gap": null,
+                        "opacity": 100,
+                        "colors": {
+                            "light": "#000000",
+                            "dark": "#000000"
+                        }
+                    },
+                    "fill": {
+                        "style": "Solid",
+                        "opacity": 100,
+                        "colors": {
+                            "light": "#FFFFFF",
+                            "dark": "#000000"
+                        }
+                    }
+                },
+                "zoom_level": null,
+                "name": "Inline Label"
+            },
+            {
+                "opacity": 100,
+                "colors": {
+                    "light": "#000000",
+                    "dark": "#000000"
+                },
+                "position": "Inside",
+                "box": {
+                    "line": {
+                        "style": "None",
+                        "width": "None",
+                        "gap": null,
+                        "opacity": 0,
+                        "colors": {
+                            "light": "#000000",
+                            "dark": "#000000"
+                        }
+                    },
+                    "fill": {
+                        "style": "None",
+                        "opacity": 0,
+                        "colors": {
+                            "light": "#FFFFFF",
+                            "dark": "#000000"
+                        }
+                    }
+                },
+                "zoom_level": null,
+                "name": "Usage"
+            }
+        ]
+    },
+    {
+        "id": "CMP_VOLCANO",
+        "depict_type": "boundary_depiction",
+        "description": "Volcanic Activity",
+        "zoom_level": 1,
+        "reserved": false,
+        "fill": {
+            "style": "Solid",
+            "opacity": 30,
+            "colors": {
+                "light": "#662B2B",
+                "dark": "#8D4141"
+            }
+        },
+        "lines": [
+            {
+                "style": "Solid",
+                "width": "Medium",
+                "gap": "None",
+                "opacity": 60,
+                "colors": {
+                    "light": "#662B2B",
+                    "dark": "#8D4141"
+                }
+            }
+        ],
+        "labels": [
+            {
+                "opacity": 100,
+                "colors": {
+                    "light": "#000000",
+                    "dark": "#000000"
+                },
+                "position": "Inside",
+                "box": {
+                    "line": {
+                        "style": "None",
+                        "width": "None",
+                        "gap": null,
+                        "opacity": 0,
+                        "colors": {
+                            "light": "#000000",
+                            "dark": "#000000"
+                        }
+                    },
+                    "fill": {
+                        "style": "None",
+                        "opacity": 0,
+                        "colors": {
+                            "light": "#FFFFFF",
+                            "dark": "#000000"
+                        }
+                    }
+                },
+                "zoom_level": null,
+                "name": "Label"
+            }
+        ]
+    }
+]

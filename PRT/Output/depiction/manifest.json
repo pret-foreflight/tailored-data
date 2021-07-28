@@ -1,0 +1,51 @@
+{
+    "dataset": {
+        "title": "TE2PRT01SN",
+        "type": "jeppesen_tailored_maps",
+        "description": "For testing purposes",
+        "schema_version": "1.0",
+        "created": "2021-07-28T2047",
+        "issued": "2021-07-28",
+        "version": "2021.07.28.2047",
+        "effective": {
+            "start": "2021-07-15",
+            "end": null
+        }
+    },
+    "company": {
+        "ident": "TE2PRT",
+        "name": "Pret's Tailored Enroute Airline"
+    },
+    "files": {
+        "airport_depiction": [
+            "airport_depiction.json"
+        ],
+        "boundary_depiction": [
+            "boundary_depiction.json"
+        ],
+        "etops_depiction": [
+            "etops_depiction.json"
+        ],
+        "route_depiction": [
+            "route_depiction.json"
+        ],
+        "waypoint_depiction": [
+            "waypoint_depiction.json"
+        ]
+    },
+    "_jtex": {
+        "module_version": "1.0.0.0",
+        "exec_environment": {
+            "python_version": "3.8.1 (v3.8.1:1b293b6006, Dec 18 2019, 14:08:53) \n[Clang 6.0 (clang-600.0.57)]",
+            "host_os": "macOS-10.16-x86_64-i386-64bit"
+        },
+        "source_info": {
+            "Document": "Company Depiction Spreadsheet",
+            "Version": "1.0.0.0",
+            "Date": "2021-06-30 00:00:00",
+            "Contact": "Jeff Buhl (jeff.j.buhl@boeing.com)",
+            "Copyright": "Copyright \u00a9 2021 JEPPESEN. All Rights Reserved",
+            "File": "/Users/pret/Documents/te-exchange-git/te-exchange/tools/data/PRT/Company_Depiction.xlsx"
+        }
+    }
+}
